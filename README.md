@@ -3,8 +3,9 @@
 
 A curated list for **Efficient Large Language Models**:
   - [Knowledge Distillation](#knowledge-distillation)
-  - [Pruning](#pruning)
+  - [Network Pruning](#network-pruning)
   - [Quantization](#quantization)
+  - [Inference Acceleration](#inference-acceleration)
   - [Others](#others)
 
 
