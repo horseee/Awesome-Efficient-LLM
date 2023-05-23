@@ -14,7 +14,7 @@ A curated list for **Efficient Large Language Models**:
 | [![Star](https://img.shields.io/github/stars/mbzuai-nlp/LaMini-LM.svg?style=social&label=Star)](https://github.com/mbzuai-nlp/LaMini-LM) <br> [LaMini-LM](https://github.com/mbzuai-nlp/LaMini-LM) <br>Minghao Wu, Abdul Waheed, Chiyu Zhang, Muhammad Abdul-Mageed, Alham Fikri Aji | <img width="1002" alt="image" src="https://github.com/mbzuai-nlp/LaMini-LM/blob/main/images/lamini-pipeline.drawio.png"> | [Github](https://github.com/mbzuai-nlp/LaMini-LM) \| [Paper](https://arxiv.org/abs/2304.14402) |
 | [Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes](https://arxiv.org/abs/2305.02301) <br> Cheng-Yu Hsieh, Chun-Liang Li, Chih-Kuan Yeh, Hootan Nakhost, Yasuhisa Fujii, Alexander Ratner, Ranjay Krishna, Chen-Yu Lee, Tomas Pfister | <img width="2000" alt="image" src="figures/Distill_step_by_step.png">| [Paper](https://arxiv.org/abs/2305.02301) | 
 
-## Pruning
+## Network Pruning
 | Title & Authors | Introduction | Links |
 |:----|  :----: | :---:|
 | [![Star](https://img.shields.io/github/stars/IST-DASLab/sparsegpt.svg?style=social&label=Star)](https://github.com/IST-DASLab/sparsegpt) <br> [SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot](https://github.com/IST-DASLab/sparsegpt) <br> Elias Frantar, Dan Alistarh| <img width="522" alt="image" src="figures/sparsegpt.png"> |[Github](https://github.com/IST-DASLab/sparsegpt) \| [Paper](https://arxiv.org/abs/2301.00774) |
