@@ -31,7 +31,7 @@ A curated list for **Efficient Large Language Models**:
 ## Inference Acceleration
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
-| [![Star](https://img.shields.io/github/stars/microsoft/LMOp.svg?style=social&label=Star)](https://github.com/microsoft/LMOps) <br> [Inference with Reference: Lossless Acceleration of Large Language Models](https://arxiv.org/abs/2304.04487) | <img width="102" alt="image" src="figures/llma.png"> | [Github](https://github.com/microsoft/LMOps) |
+| [![Star](https://img.shields.io/github/stars/microsoft/LMOp.svg?style=social&label=Star)](https://github.com/microsoft/LMOps) <br> [Inference with Reference: Lossless Acceleration of Large Language Models](https://arxiv.org/abs/2304.04487) | <img width="1000" alt="image" src="figures/llma.png"> | [Github](https://github.com/microsoft/LMOps) |
 
 
 ## Others
