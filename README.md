@@ -16,6 +16,9 @@ A curated list for **Efficient Large Language Models**:
 | [Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes](https://arxiv.org/abs/2305.02301) <br> Cheng-Yu Hsieh, Chun-Liang Li, Chih-Kuan Yeh, Hootan Nakhost, Yasuhisa Fujii, Alexander Ratner, Ranjay Krishna, Chen-Yu Lee, Tomas Pfister | <img width="2000" alt="image" src="figures/Distill_step_by_step.png">| [Paper](https://arxiv.org/abs/2305.02301) |
 | [![Star](https://img.shields.io/github/stars/ananyahjha93/llm-distill.svg?style=social&label=Star)](https://github.com/ananyahjha93/llm-distill) <br> [Large Language Model Distillation Doesn't Need a Teacher](https://arxiv.org/abs/2305.14864) <br> Ananya Harsh Jha, Dirk Groeneveld, Emma Strubell, Iz Beltagy </br> | <img width="2000" alt="image" src="figures/TeacherFreeLLM.png"> | [Github](https://github.com/ananyahjha93/llm-distill) \| [Paper](https://arxiv.org/abs/2305.14864) |
 | [The False Promise of Imitating Proprietary LLMs](https://arxiv.org/abs/2305.15717) <br> Arnav Gudibande, Eric Wallace, Charlie Snell, Xinyang Geng, Hao Liu, Pieter Abbeel, Sergey Levine, Dawn Song | <img width="1000" alt="image" src="figures/FalsePromise.png"> | [Paper](https://arxiv.org/abs/2305.15717) |
+|[![Star](https://img.shields.io/github/stars/jaehunjung1/impossible-distillation.svg?style=social&label=Star)](https://github.com/jaehunjung1/impossible-distillation) <br>[Impossible Distillation: from Low-Quality Model to High-Quality Dataset & Model for Summarization and Paraphrasing](https://arxiv.org/abs/2305.16635) <br> Jaehun Jung, Peter West, Liwei Jiang, Faeze Brahman, Ximing Lu, Jillian Fisher, Taylor Sorensen, Yejin Choi |<img width="1002" alt="image" src="figures/impossible_distillation.png"> |[Github](https://github.com/jaehunjung1/impossible-distillation) \| [Paper](https://arxiv.org/abs/2305.16635) |
+
+
 
 ## Network Pruning
 | Title & Authors | Introduction | Links |
@@ -31,6 +34,10 @@ A curated list for **Efficient Large Language Models**:
 | [Outlier Suppression+: Accurate quantization of large language models by equivalent and optimal shifting and scaling](https://arxiv.org/abs/2304.09145v1) <br> Xiuying Wei , Yunchen Zhang, Yuhang Li, Xiangguo Zhang, Ruihao Gong, Jinyang Guo, Xianglong Liu|  <img width="1102" alt="image" src="figures/outliersuppression.png"> | [Paper](https://arxiv.org/abs/2304.09145v1)|
 | [![Star](https://img.shields.io/github/stars/hahnyuan/RPTQ4LLM.svg?style=social&label=Star)](https://github.com/hahnyuan/RPTQ4LLM) <br>[RPTQ: Reorder-based Post-training Quantization for Large Language Models](https://arxiv.org/abs/2304.01089) <br> Zhihang Yuan and Lin Niu and Jiawei Liu and Wenyu Liu and Xinggang Wang and Yuzhang Shang and Guangyu Sun and Qiang Wu and Jiaxiang Wu and Bingzhe Wu | ![](https://github.com/hahnyuan/RPTQ4LLM/blob/master/ims/cover.png) | <br>[Github](https://github.com/hahnyuan/RPTQ4LLM)</br> [Paper](https://arxiv.org/abs/2304.01089) |
 | [![Star](https://img.shields.io/github/stars/artidoro/qlora.svg?style=social&label=Star)](https://github.com/artidoro/qlora) <br>[QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314) <br> Tim Dettmers, Artidoro Pagnoni, Ari Holtzman, Luke Zettlemoyer | ![](figures/qlora.png) | <br>[Github](https://github.com/artidoro/qlora)</br> [Paper](https://arxiv.org/abs/2305.14314) |
+| [SqueezeLLM: Dense-and-Sparse Quantization](https://arxiv.org/pdf/2306.07629.pdf) <br>Sehoon Kim, Coleman Hooper, Amir Gholami, Zhen Dong, Xiuyu Li, Sheng Shen, Michael W. Mahoney, Kurt Keutzer | <img width="1102" alt="image" src="figures/SqueezeLLM.png"> | [Paper](https://arxiv.org/pdf/2306.07629.pdf)|
+|[ZeroQuant-V2: Exploring Post-training Quantization in LLMs from Comprehensive Study to Low Rank Compensation](https://arxiv.org/abs/2303.08302) <br> Zhewei Yao, Xiaoxia Wu, Cheng Li, Stephen Youn, Yuxiong He |<img width="1002" alt="image" src="figures/zeroquant-v2.png"> |[Paper](https://arxiv.org/abs/2303.08302)|
+|[Integer or Floating Point? New Outlooks for Low-Bit Quantization on Large Language Models](https://arxiv.org/abs/2305.12356) <br> Yijia Zhang, Lingran Zhao, Shijie Cao, Wenqiang Wang, Ting Cao, Fan Yang, Mao Yang, Shanghang Zhang, Ningyi Xu |<img width="1002" alt="image" src="figures/MoFQ.png"> |[Paper](https://arxiv.org/abs/2305.12356)|
+
 
 
 ## Inference Acceleration
@@ -41,4 +48,6 @@ A curated list for **Efficient Large Language Models**:
 
 
 ## Others
-
+| Title & Authors | Introduction | Links |
+|:--|  :----: | :---:|
+|[LLMZip: Lossless Text Compression using Large Language Models](https://arxiv.org/abs/2306.04050) <br> Chandra Shekhara Kaushik Valmeekam, Krishna Narayanan, Dileep Kalathil, Jean-Francois Chamberland, Srinivas Shakkottai |<img width="1002" alt="image" src="figures/LLMZip.png"> |[Paper](https://arxiv.org/abs/2306.04050) \| [Unofficial Github](https://github.com/erika-n/GPTzip)|
