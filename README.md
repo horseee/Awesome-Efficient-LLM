@@ -67,7 +67,7 @@ A curated list for **Efficient Large Language Models**:
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
 |[LLMZip: Lossless Text Compression using Large Language Models](https://arxiv.org/abs/2306.04050) <br> Chandra Shekhara Kaushik Valmeekam, Krishna Narayanan, Dileep Kalathil, Jean-Francois Chamberland, Srinivas Shakkottai |<img width="1002" alt="image" src="figures/LLMZip.png"> |[Paper](https://arxiv.org/abs/2306.04050) \| [Unofficial Github](https://github.com/erika-n/GPTzip)|
-|[![Star](https://img.shields.io/github/stars/princeton-nlp/AutoCompressors.svg?style=social&label=Star)](https://github.com/princeton-nlp/AutoCompressors)<br>[Adapting Language Models to Compress Contexts](https://arxiv.org/abs/2305.14788) <br> Alexis Chevalier, Alexander Wettig, Anirudh Ajith, Danqi Chen |<img width="1002" alt="image" src="figures/.png"> |[Github](https://github.com/princeton-nlp/AutoCompressors) <br> [Paper](https://arxiv.org/abs/2305.14788)|
+|[![Star](https://img.shields.io/github/stars/princeton-nlp/AutoCompressors.svg?style=social&label=Star)](https://github.com/princeton-nlp/AutoCompressors)<br>[Adapting Language Models to Compress Contexts](https://arxiv.org/abs/2305.14788) <br> Alexis Chevalier, Alexander Wettig, Anirudh Ajith, Danqi Chen |<img width="602" alt="image" src="figures/AutoCompressor.png"> |[Github](https://github.com/princeton-nlp/AutoCompressors) <br> [Paper](https://arxiv.org/abs/2305.14788)|
 
 
 ## Others
