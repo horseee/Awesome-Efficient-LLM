@@ -6,6 +6,7 @@ A curated list for **Efficient Large Language Models**:
   - [Network Pruning](#network-pruning)
   - [Quantization](#quantization)
   - [Inference Acceleration](#inference-acceleration)
+  - [Text Compression](#text-compression)
   - [Others](#others)
 
 
@@ -62,7 +63,12 @@ A curated list for **Efficient Large Language Models**:
 |[Dynamic Context Pruning for Efficient and Interpretable Autoregressive Transformers](https://arxiv.org/abs/2305.15805) <br> Sotiris Anagnostidis, Dario Pavllo, Luca Biggio, Lorenzo Noci, Aurelien Lucchi, Thomas Hofmann |<img width="1002" alt="image" src="figures/DCP.png"> |[Paper](https://arxiv.org/abs/2305.15805)|
 
 
-## Others
+## Text Compression
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
 |[LLMZip: Lossless Text Compression using Large Language Models](https://arxiv.org/abs/2306.04050) <br> Chandra Shekhara Kaushik Valmeekam, Krishna Narayanan, Dileep Kalathil, Jean-Francois Chamberland, Srinivas Shakkottai |<img width="1002" alt="image" src="figures/LLMZip.png"> |[Paper](https://arxiv.org/abs/2306.04050) \| [Unofficial Github](https://github.com/erika-n/GPTzip)|
+|[![Star](https://img.shields.io/github/stars/princeton-nlp/AutoCompressors.svg?style=social&label=Star)](https://github.com/princeton-nlp/AutoCompressors)<br>[Adapting Language Models to Compress Contexts](https://arxiv.org/abs/2305.14788) <br> Alexis Chevalier, Alexander Wettig, Anirudh Ajith, Danqi Chen |<img width="1002" alt="image" src="figures/.png"> |[Github](https://github.com/princeton-nlp/AutoCompressors) <br> [Paper](https://arxiv.org/abs/2305.14788)|
+
+
+## Others
+
