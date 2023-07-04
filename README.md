@@ -7,7 +7,7 @@ A curated list for **Efficient Large Language Models**:
   - [Quantization](#quantization)
   - [Inference Acceleration](#inference-acceleration)
   - [Text Compression](#text-compression)
-  - [Others](#others)
+  - [Low-Rank Decomposition](#low-rank-decomposition)
 
 
 ## Knowledge Distillation
@@ -72,5 +72,7 @@ A curated list for **Efficient Large Language Models**:
 
 
 ## Low-Rank Decomposition
+| Title & Authors | Introduction | Links |
+|:--|  :----: | :---:|
 |[![Star](https://img.shields.io/github/stars/yxli2123/LoSparse.svg?style=social&label=Star)](https://github.com/yxli2123/LoSparse)<br>[LoSparse: Structured Compression of Large Language Models based on Low-Rank and Sparse Approximation](https://arxiv.org/abs/2306.11222) <br> Yixiao Li, Yifan Yu, Qingru Zhang, Chen Liang, Pengcheng He, Weizhu Chen, Tuo Zhao |<img width="1002" alt="image" src="figures/LoSparse.png"> |[Github](https://github.com/yxli2123/LoSparse) <br> [Paper](https://arxiv.org/abs/2306.11222)|
 |[TensorGPT: Efficient Compression of the Embedding Layer in LLMs based on the Tensor-Train Decomposition](https://arxiv.org/abs/2307.00526) <br> Mingxue Xu, Yao Lei Xu, Danilo P. Mandic |<img width="1002" alt="image" src="figures/TT-SVD.png"> |[Paper](https://arxiv.org/abs/2307.00526)|
