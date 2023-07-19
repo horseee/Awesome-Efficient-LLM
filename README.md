@@ -7,6 +7,7 @@ A curated list for **Efficient Large Language Models**:
   - [Inference Acceleration](#inference-acceleration)
   - [Text Compression](#text-compression)
   - [Low-Rank Decomposition](#low-rank-decomposition)
+  - [Others](#others)
 
 In light of the numerous publications that conducts experiments using PLMs (such as BERT, BART) currently, a new subdirectory [efficient_plm/](efficient_plm/) is created to house papers that are applicable to PLMs but have yet to be verified for their effectiveness on LLMs (not implying that they are not suitable on LLM). 
 
@@ -57,6 +58,7 @@ In light of the numerous publications that conducts experiments using PLMs (such
 |[LLM-QAT: Data-Free Quantization Aware Training for Large Language Models](https://arxiv.org/abs/2305.17888) <br> Zechun Liu, Barlas Oguz, Changsheng Zhao, Ernie Chang, Pierre Stock, Yashar Mehdad, Yangyang Shi, Raghuraman Krishnamoorthi, Vikas Chandra |<img width="1002" alt="image" src="figures/LLM-QAT.png"> |[Paper](https://arxiv.org/abs/2305.17888)|
 |[![Star](https://img.shields.io/github/stars/Vahe1994/SpQR.svg?style=social&label=Star)](https://github.com/Vahe1994/SpQR) <br>[SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression](https://arxiv.org/abs/2306.03078) <br> Tim Dettmers, Ruslan Svirschevski, Vage Egiazarian, Denis Kuznedelev, Elias Frantar, Saleh Ashkboos, Alexander Borzunov, Torsten Hoefler, Dan Alistarh |<img width="1002" alt="image" src="figures/SpQR.png"> |[Github](https://github.com/Vahe1994/SpQR) <br> [Paper](https://arxiv.org/abs/2306.03078)|
 |[![Star](https://img.shields.io/github/stars/xvyaward/owq.svg?style=social&label=Star)](https://github.com/xvyaward/owq) <br>[OWQ: Lessons learned from activation outliers for weight quantization in large language models](https://arxiv.org/abs/2306.02272) <br> Changhun Lee, Jungyu Jin, Taesu Kim, Hyungjun Kim, Eunhyeok Park |<img width="1002" alt="image" src="figures/OWQ.png"> |[Github](https://github.com/xvyaward/owq) <br> [Paper](https://arxiv.org/abs/2306.02272)|
+|[![Star](https://img.shields.io/github/stars/RUCAIBox/QuantizedEmpirical.svg?style=social&label=Star)](https://github.com/RUCAIBox/QuantizedEmpirical)<br>[Do Emergent Abilities Exist in Quantized Large Language Models: An Empirical Study](https://arxiv.org/abs/2307.08072) <br> Peiyu Liu, Zikang Liu, Ze-Feng Gao, Dawei Gao, Wayne Xin Zhao, Yaliang Li, Bolin Ding, Ji-Rong Wen |<img width="1002" alt="image" src="figures/QuantizedEmpirical.png"> |[Github](https://github.com/RUCAIBox/QuantizedEmpirical) <br> [Paper](https://arxiv.org/abs/2307.08072)|
 
 
 
@@ -83,3 +85,6 @@ In light of the numerous publications that conducts experiments using PLMs (such
 |:--|  :----: | :---:|
 |[![Star](https://img.shields.io/github/stars/yxli2123/LoSparse.svg?style=social&label=Star)](https://github.com/yxli2123/LoSparse)<br>[LoSparse: Structured Compression of Large Language Models based on Low-Rank and Sparse Approximation](https://arxiv.org/abs/2306.11222) <br> Yixiao Li, Yifan Yu, Qingru Zhang, Chen Liang, Pengcheng He, Weizhu Chen, Tuo Zhao |<img width="1002" alt="image" src="figures/LoSparse.png"> |[Github](https://github.com/yxli2123/LoSparse) <br> [Paper](https://arxiv.org/abs/2306.11222)|
 |[TensorGPT: Efficient Compression of the Embedding Layer in LLMs based on the Tensor-Train Decomposition](https://arxiv.org/abs/2307.00526) <br> Mingxue Xu, Yao Lei Xu, Danilo P. Mandic |<img width="1002" alt="image" src="figures/TT-SVD.png"> |[Paper](https://arxiv.org/abs/2307.00526)|
+
+## Others
+|[CPET: Effective Parameter-Efficient Tuning for Compressed Large Language Models](https://arxiv.org/abs/2307.07705) <br> Weilin Zhao, Yuxiang Huang, Xu Han, Zhiyuan Liu, Zhengyan Zhang, Maosong Sun |<img width="202" alt="image" src="figures/CPET.png"> |[Paper](https://arxiv.org/abs/2307.07705)|
