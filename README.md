@@ -5,7 +5,7 @@ A curated list for **Efficient Large Language Models**:
   - [Network Pruning](#network-pruning)
   - [Quantization](#quantization)
   - [Inference Acceleration](#inference-acceleration)
-  - [Efficient Structure Design]()
+  - [Efficient Structure Design](#efficient-structure-design)
   - [Text Compression](#text-compression)
   - [Low-Rank Decomposition](#low-rank-decomposition)
   - [Others](#others)
