@@ -77,6 +77,7 @@ In light of the numerous publications that conducts experiments using PLMs (such
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
 |[![Star](https://img.shields.io/github/stars/Dao-AILab/flash-attention.svg?style=social&label=Star)](https://github.com/Dao-AILab/flash-attention)[![Publish](https://img.shields.io/badge/Conference-NeurIPS'22-blue)]()<br>[FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135) <br> Tri Dao, Daniel Y. Fu, Stefano Ermon, Atri Rudra, Christopher Ré |<img width="1002" alt="image" src="https://github.com/Dao-AILab/flash-attention/blob/main/assets/flashattn_banner.jpg"> |[Github](https://github.com/Dao-AILab/flash-attention) <br> [Paper](https://arxiv.org/abs/2205.14135)|
+|[![Star](https://img.shields.io/github/stars/Dao-AILab/flash-attention.svg?style=social&label=Star)](https://github.com/Dao-AILab/flash-attention)<br>[FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/pdf/2307.08691.pdf) <br> Tri Dao |<img width="1002" alt="image" src="figures/FlashAttention2.png"> |[Github](https://github.com/Dao-AILab/flash-attention) <br> [Paper](https://arxiv.org/pdf/2307.08691.pdf)|
 
 
 ## Text Compression
