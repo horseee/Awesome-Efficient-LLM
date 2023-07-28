@@ -5,6 +5,7 @@ A curated list for **Efficient Large Language Models**:
   - [Network Pruning](#network-pruning)
   - [Quantization](#quantization)
   - [Inference Acceleration](#inference-acceleration)
+  - [Efficient Structure Design]()
   - [Text Compression](#text-compression)
   - [Low-Rank Decomposition](#low-rank-decomposition)
   - [Others](#others)
@@ -71,6 +72,11 @@ In light of the numerous publications that conducts experiments using PLMs (such
 |[Scissorhands: Exploiting the Persistence of Importance Hypothesis for LLM KV Cache Compression at Test Time](https://arxiv.org/abs/2305.17118) <br> Zichang Liu, Aditya Desai, Fangshuo Liao, Weitao Wang, Victor Xie, Zhaozhuo Xu, Anastasios Kyrillidis, Anshumali Shrivastava |<img width="302" alt="image" src="figures/Scissorhands.png"> |[Paper](https://arxiv.org/abs/2305.17118)|
 |[Dynamic Context Pruning for Efficient and Interpretable Autoregressive Transformers](https://arxiv.org/abs/2305.15805) <br> Sotiris Anagnostidis, Dario Pavllo, Luca Biggio, Lorenzo Noci, Aurelien Lucchi, Thomas Hofmann |<img width="1602" alt="image" src="figures/DCP.png"> |[Paper](https://arxiv.org/abs/2305.15805)|
 |[SkipDecode: Autoregressive Skip Decoding with Batching and Caching for Efficient LLM Inference](https://arxiv.org/abs/2307.02628) <br> Luciano Del Corro, Allie Del Giorno, Sahaj Agarwal, Bin Yu, Ahmed Awadallah, Subhabrata Mukherjee |<img width="1002" alt="image" src="figures/SkipDecode.png"> |[Paper](https://arxiv.org/abs/2307.02628)|
+
+## Efficient Structure Design
+| Title & Authors | Introduction | Links |
+|:--|  :----: | :---:|
+|[![Star](https://img.shields.io/github/stars/Dao-AILab/flash-attention.svg?style=social&label=Star)](https://github.com/Dao-AILab/flash-attention)[![Publish](https://img.shields.io/badge/Conference-NeurIPS'22 -blue)]()<br>[FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135) <br> Tri Dao, Daniel Y. Fu, Stefano Ermon, Atri Rudra, Christopher Ré |<img width="1002" alt="image" src="https://github.com/Dao-AILab/flash-attention/blob/main/assets/flashattn_banner.jpg"> |[Github](https://github.com/Dao-AILab/flash-attention) <br> [Paper](https://arxiv.org/abs/2205.14135)|
 
 
 ## Text Compression
