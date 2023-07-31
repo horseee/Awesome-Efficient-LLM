@@ -73,6 +73,7 @@ In light of the numerous publications that conducts experiments using PLMs (such
 |[Scissorhands: Exploiting the Persistence of Importance Hypothesis for LLM KV Cache Compression at Test Time](https://arxiv.org/abs/2305.17118) <br> Zichang Liu, Aditya Desai, Fangshuo Liao, Weitao Wang, Victor Xie, Zhaozhuo Xu, Anastasios Kyrillidis, Anshumali Shrivastava |<img width="302" alt="image" src="figures/Scissorhands.png"> |[Paper](https://arxiv.org/abs/2305.17118)|
 |[Dynamic Context Pruning for Efficient and Interpretable Autoregressive Transformers](https://arxiv.org/abs/2305.15805) <br> Sotiris Anagnostidis, Dario Pavllo, Luca Biggio, Lorenzo Noci, Aurelien Lucchi, Thomas Hofmann |<img width="1602" alt="image" src="figures/DCP.png"> |[Paper](https://arxiv.org/abs/2305.15805)|
 |[SkipDecode: Autoregressive Skip Decoding with Batching and Caching for Efficient LLM Inference](https://arxiv.org/abs/2307.02628) <br> Luciano Del Corro, Allie Del Giorno, Sahaj Agarwal, Bin Yu, Ahmed Awadallah, Subhabrata Mukherjee |<img width="1002" alt="image" src="figures/SkipDecode.png"> |[Paper](https://arxiv.org/abs/2307.02628)|
+|[Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding](https://arxiv.org/abs/2307.15337) <br> Xuefei Ning, Zinan Lin, Zixuan Zhou, Huazhong Yang, Yu Wang |<img width="1002" alt="image" src="figures/SoT.png"> |[Paper](https://arxiv.org/abs/2307.15337)|
 
 ## Efficient Structure Design
 | Title & Authors | Introduction | Links |
