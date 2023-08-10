@@ -36,6 +36,7 @@ This part is still under construction to include papers published from 2018-2023
 * [![Publish](https://img.shields.io/badge/Conference-ACL'23%20Findings-blue)]() [Structured Pruning for Efficient Generative Pre-trained Language Models](https://aclanthology.org/2023.findings-acl.692/). 
 Chaofan Tao, Lu Hou, Haoli Bai, Jiansheng Wei, Xin Jiang, Qun Liu, Ping Luo, Ngai Wong. [[Paper]](https://aclanthology.org/2023.findings-acl.692/) 
 * [![Publish](https://img.shields.io/badge/Conference-ACL'23%20Findings-blue)]() [![Star](https://img.shields.io/github/stars/DRSY/PINS.svg?style=social&label=Star)](https://github.com/DRSY/PINS) [Pruning Pre-trained Language Models with Principled Importance and Self-regularization](https://aclanthology.org/2023.findings-acl.573/). Siyu Ren, Kenny Zhu. [[Paper]](https://aclanthology.org/2023.findings-acl.573/)[[Github]](https://github.com/DRSY/PINS)
+* [Knowledge-preserving Pruning for Pre-trained Language Models without Retraining](https://arxiv.org/abs/2308.03449). Seungcheol Park, Hojun Choi, U Kang. [[Paper]](https://arxiv.org/abs/2308.03449)
 
 ## Quantization
 * [![Star](https://img.shields.io/github/stars/wimh966/outlier_suppression.svg?style=social&label=Star)](https://github.com/wimh966/outlier_suppression) [Outlier Suppression: Pushing the Limit of Low-bit Transformer](https://arxiv.org/abs/2209.13325). Xiuying Wei, Yunchen Zhang, Xiangguo Zhang, Ruihao Gong, Shanghang Zhang, Qi Zhang, Fengwei Yu, Xianglong Liu. [[Paper]](https://arxiv.org/abs/2209.13325)[[Github]](https://github.com/wimh966/outlier_suppression)
