@@ -8,6 +8,7 @@ A curated list for **Efficient Large Language Models**:
   - [Efficient Structure Design](#efficient-structure-design)
   - [Text Compression](#text-compression)
   - [Low-Rank Decomposition](#low-rank-decomposition)
+  - [Survey](#Survey)
   - [Others](#others)
 
 In light of the numerous publications that conducts experiments using PLMs (such as BERT, BART) currently, a new subdirectory [efficient_plm/](efficient_plm/) is created to house papers that are applicable to PLMs but have yet to be verified for their effectiveness on LLMs (not implying that they are not suitable on LLM). 
@@ -99,6 +100,12 @@ In light of the numerous publications that conducts experiments using PLMs (such
 |:--|  :----: | :---:|
 |[![Star](https://img.shields.io/github/stars/yxli2123/LoSparse.svg?style=social&label=Star)](https://github.com/yxli2123/LoSparse) [![Publish](https://img.shields.io/badge/Conference-ICML'23-blue)]() <br>[LoSparse: Structured Compression of Large Language Models based on Low-Rank and Sparse Approximation](https://arxiv.org/abs/2306.11222) <br> Yixiao Li, Yifan Yu, Qingru Zhang, Chen Liang, Pengcheng He, Weizhu Chen, Tuo Zhao |<img width="302" alt="image" src="figures/LoSparse.png"> |[Github](https://github.com/yxli2123/LoSparse) <br> [Paper](https://arxiv.org/abs/2306.11222)|
 |[TensorGPT: Efficient Compression of the Embedding Layer in LLMs based on the Tensor-Train Decomposition](https://arxiv.org/abs/2307.00526) <br> Mingxue Xu, Yao Lei Xu, Danilo P. Mandic |<img width="1002" alt="image" src="figures/TT-SVD.png"> |[Paper](https://arxiv.org/abs/2307.00526)|
+
+
+## Survey
+| Title & Authors | Introduction | Links |
+|:--|  :----: | :---:|
+|[A Survey on Model Compression for Large Language Models](https://arxiv.org/abs/2308.07633) <br> Xunyu Zhu, Jian Li, Yong Liu, Can Ma, Weiping Wang |<img width="1002" alt="image" src="figures/survey_xunyu.png"> |[Paper](https://arxiv.org/abs/2308.07633)|
 
 ## Others
 | Title & Authors | Introduction | Links |
