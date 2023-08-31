@@ -9,6 +9,7 @@ A curated list for **Efficient Large Language Models**:
   - [Text Compression](#text-compression)
   - [Low-Rank Decomposition](#low-rank-decomposition)
   - [Survey](#survey)
+  - [Hardware](#hardware)
   - [Others](#others)
 
 In light of the numerous publications that conducts experiments using PLMs (such as BERT, BART) currently, a new subdirectory [efficient_plm/](efficient_plm/) is created to house papers that are applicable to PLMs but have yet to be verified for their effectiveness on LLMs (not implying that they are not suitable on LLM). 
