@@ -109,7 +109,10 @@ In light of the numerous publications that conducts experiments using PLMs (such
 |:--|  :----: | :---:|
 |[A Survey on Model Compression for Large Language Models](https://arxiv.org/abs/2308.07633) <br> Xunyu Zhu, Jian Li, Yong Liu, Can Ma, Weiping Wang |<img width="1002" alt="image" src="figures/survey_xunyu.png"> |[Paper](https://arxiv.org/abs/2308.07633)|
 
+
+## Hardware
+* [EdgeMoE: Fast On-Device Inference of MoE-based Large Language Models](https://arxiv.org/abs/2308.14352v1). Rongjie Yi, Liwei Guo, Shiyun Wei, Ao Zhou, Shangguang Wang, Mengwei Xu. [[Paper]](https://arxiv.org/abs/2308.14352v1)
+
 ## Others
-| Title & Authors | Introduction | Links |
-|:--|  :----: | :---:|
-|[CPET: Effective Parameter-Efficient Tuning for Compressed Large Language Models](https://arxiv.org/abs/2307.07705) <br> Weilin Zhao, Yuxiang Huang, Xu Han, Zhiyuan Liu, Zhengyan Zhang, Maosong Sun |<img width="402" alt="image" src="figures/CPET.png"> |[Paper](https://arxiv.org/abs/2307.07705)|
+* [CPET: Effective Parameter-Efficient Tuning for Compressed Large Language Models](https://arxiv.org/abs/2307.07705). Weilin Zhao, Yuxiang Huang, Xu Han, Zhiyuan Liu, Zhengyan Zhang, Maosong Sun. [[Paper]](https://arxiv.org/abs/2307.07705)
+
