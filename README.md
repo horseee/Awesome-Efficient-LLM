@@ -10,9 +10,20 @@ A curated list for **Efficient Large Language Models**:
   - [Low-Rank Decomposition](#low-rank-decomposition)
   - [Survey](#survey)
   - [Hardware](#hardware)
-  - [Others](#others)
+  - [Others](#others)   
 
+
+Updates:
+* Sep 6, 2023: Add a new subdirectory [project/](project/) to organize those projects that are designed for developing a lightweight LLM.
+* July 11, 2023:
 In light of the numerous publications that conducts experiments using PLMs (such as BERT, BART) currently, a new subdirectory [efficient_plm/](efficient_plm/) is created to house papers that are applicable to PLMs but have yet to be verified for their effectiveness on LLMs (not implying that they are not suitable on LLM). 
+
+
+
+
+
+
+
 
 ## Knowledge Distillation
 | Title & Authors | Introduction | Links |
