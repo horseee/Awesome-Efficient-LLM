@@ -20,11 +20,6 @@ In light of the numerous publications that conducts experiments using PLMs (such
 
 
 
-
-
-
-
-
 ## Knowledge Distillation
 | Title & Authors | Introduction | Links |
 |:----|  :----: | :---:|
@@ -80,6 +75,8 @@ In light of the numerous publications that conducts experiments using PLMs (such
 |[ZeroQuant-FP: A Leap Forward in LLMs Post-Training W4A8 Quantization Using Floating-Point Formats](https://arxiv.org/abs/2307.09782) <br> Xiaoxia Wu, Zhewei Yao, Yuxiong He |<img width="1002" alt="image" src="figures/ZeroQuant-FP.png"> |[Paper](https://arxiv.org/abs/2307.09782)|
 |[![Star](https://img.shields.io/github/stars/jerry-chee/QuIP.svg?style=social&label=Star)](https://github.com/jerry-chee/QuIP)<br>[QuIP: 2-Bit Quantization of Large Language Models With Guarantees](https://arxiv.org/abs/2307.13304) <br> Jerry Chee, Yaohui Cai, Volodymyr Kuleshov, Christopher De SaXQ |<img width="302" alt="image" src="figures/QuIP.png"> |[Github](https://github.com/jerry-chee/QuIP) <br> [Paper](https://arxiv.org/abs/2307.13304)|
 |[FPTQ: Fine-grained Post-Training Quantization for Large Language Models](https://arxiv.org/abs/2308.15987) <br> Qingyuan Li, Yifan Zhang, Liang Li, Peng Yao, Bo Zhang, Xiangxiang Chu, Yerui Sun, Li Du, Yuchen Xie |<img width="1002" alt="image" src="figures/FPTQ.png"> |[Paper](https://arxiv.org/abs/2308.15987)|
+|[QuantEase: Optimization-based Quantization for Language Models - An Efficient and Intuitive Algorithm](https://arxiv.org/abs/2309.01885) <br> Kayhan Behdin, Ayan Acharya, Aman Gupta, Sathiya Keerthi, Rahul Mazumder |<img width="1002" alt="image" src="figures/QuantEase.png"> |[Paper](https://arxiv.org/abs/2309.01885)|
+|[Norm Tweaking: High-performance Low-bit Quantization of Large Language Models](https://arxiv.org/abs/2309.02784) <br> Liang Li, Qingyuan Li, Bo Zhang, Xiangxiang Chu |<img width="1002" alt="image" src="figures/NormTweaking.png"> |[Paper](https://arxiv.org/abs/2309.02784)|
 
 
 ## Inference Acceleration
