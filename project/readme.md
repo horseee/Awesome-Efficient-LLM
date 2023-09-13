@@ -1,6 +1,7 @@
 # Project for Efficient LLM
 
 ## Tools
+* [![Star](https://img.shields.io/github/stars/vllm-project/vllm.svg?style=social&label=Star)](https://github.com/vllm-project/vllm) **vllm**: A high-throughput and memory-efficient inference and serving engine for LLMs. [[link]](https://github.com/vllm-project/vllm)[[paper]](https://arxiv.org/abs/2309.06180)
 * [![Star](https://img.shields.io/github/stars/TimDettmers/bitsandbytes.svg?style=social&label=Star)](https://github.com/TimDettmers/bitsandbytes) **bitsandbytes**: 8-bit CUDA functions for PyTorch. [[link]](https://github.com/TimDettmers/bitsandbytes)
 * [![Star](https://img.shields.io/github/stars/mit-han-lab/TinyChatEngine.svg?style=social&label=Star)](https://github.com/mit-han-lab/TinyChatEngine) **TinyChatEngine**: TinyChatEngine: On-Device LLM Inference Library. [[link]](https://github.com/mit-han-lab/TinyChatEngine)
 * [![Star](https://img.shields.io/github/stars/microsoft/LMOps.svg?style=social&label=Star)](https://github.com/microsoft/LMOps) **LMOps**: General technology for enabling AI capabilities w/ LLMs and MLLMs. [[link]](https://github.com/microsoft/LMOps)
