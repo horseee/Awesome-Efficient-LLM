@@ -59,3 +59,4 @@ Chaofan Tao, Lu Hou, Haoli Bai, Jiansheng Wei, Xin Jiang, Qun Liu, Ping Luo, Nga
 ## Others
 * [![Publish](https://img.shields.io/badge/Conference-ACL'23-blue)]() [PuMer: Pruning and Merging Tokens for Efficient Vision Language Models](https://arxiv.org/abs/2305.17530). Qingqing Cao, Bhargavi Paranjape, Hannaneh Hajishirzi. [[Paper]](https://arxiv.org/abs/2305.17530)
 * [![Publish](https://img.shields.io/badge/Conference-CIKM%20short-blue)]() [Lightweight Adaptation of Neural Language Models via Subspace Embedding](https://arxiv.org/abs/2308.08688). Amit Kumar Jaiswal, Haiming Liu. [[Paper]](https://arxiv.org/abs/2308.08688)
+* [Frustratingly Simple Memory Efficiency for Pre-trained Language Models via Dynamic Embedding Pruning](https://arxiv.org/abs/2309.08708). Miles Williams, Nikolaos Aletras. [[Paper]](https://arxiv.org/abs/2309.08708)
