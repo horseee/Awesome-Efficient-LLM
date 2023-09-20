@@ -126,7 +126,7 @@ In light of the numerous publications that conducts experiments using PLMs (such
 ## Hardware
 * [![Publish](https://img.shields.io/badge/Conference-SOSP%202023-blue)]() [![Star](https://img.shields.io/github/stars/vllm-project/vllm.svg?style=social&label=Star)](https://github.com/vllm-project/vllm) [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180). Woosuk Kwon, Zhuohan Li, Siyuan Zhuang, Ying Sheng, Lianmin Zheng, Cody Hao Yu, Joseph E. Gonzalez, Hao Zhang, Ion Stoica. [[Paper]](https://arxiv.org/abs/2309.06180)[[Github]](https://github.com/vllm-project/vllm)
 * [EdgeMoE: Fast On-Device Inference of MoE-based Large Language Models](https://arxiv.org/abs/2308.14352v1). Rongjie Yi, Liwei Guo, Shiyun Wei, Ao Zhou, Shangguang Wang, Mengwei Xu. [[Paper]](https://arxiv.org/abs/2308.14352v1)
-* [GPT4AIGChip: Towards Next-Generation AI Accelerator Design Automation via Large Language Models](https://arxiv.org/abs/2309.10730). Yonggan Fu, Yongan Zhang, Zhongzhi Yu, Sixu Li, Zhifan Ye, Chaojian Li, Cheng Wan, Yingyan Lin. [[Paper]](https://arxiv.org/abs/2309.10730)
+* [![Publish](https://img.shields.io/badge/Conference-ICCAD'23-blue)]() [GPT4AIGChip: Towards Next-Generation AI Accelerator Design Automation via Large Language Models](https://arxiv.org/abs/2309.10730). Yonggan Fu, Yongan Zhang, Zhongzhi Yu, Sixu Li, Zhifan Ye, Chaojian Li, Cheng Wan, Yingyan Lin. [[Paper]](https://arxiv.org/abs/2309.10730)
 
 ## Others
 * [CPET: Effective Parameter-Efficient Tuning for Compressed Large Language Models](https://arxiv.org/abs/2307.07705). Weilin Zhao, Yuxiang Huang, Xu Han, Zhiyuan Liu, Zhengyan Zhang, Maosong Sun. [[Paper]](https://arxiv.org/abs/2307.07705)
