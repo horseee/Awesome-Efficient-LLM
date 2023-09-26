@@ -116,7 +116,7 @@ In light of the numerous publications that conducts experiments using PLMs (such
 |:--|  :----: | :---:|
 |[![Star](https://img.shields.io/github/stars/yxli2123/LoSparse.svg?style=social&label=Star)](https://github.com/yxli2123/LoSparse) [![Publish](https://img.shields.io/badge/Conference-ICML'23-blue)]() <br>[LoSparse: Structured Compression of Large Language Models based on Low-Rank and Sparse Approximation](https://arxiv.org/abs/2306.11222) <br> Yixiao Li, Yifan Yu, Qingru Zhang, Chen Liang, Pengcheng He, Weizhu Chen, Tuo Zhao |<img width="302" alt="image" src="figures/LoSparse.png"> |[Github](https://github.com/yxli2123/LoSparse) <br> [Paper](https://arxiv.org/abs/2306.11222)|
 |[TensorGPT: Efficient Compression of the Embedding Layer in LLMs based on the Tensor-Train Decomposition](https://arxiv.org/abs/2307.00526) <br> Mingxue Xu, Yao Lei Xu, Danilo P. Mandic |<img width="1002" alt="image" src="figures/TT-SVD.png"> |[Paper](https://arxiv.org/abs/2307.00526)|
-
+|[LORD: Low Rank Decomposition Of Monolingual Code LLMs For One-Shot Compression](https://arxiv.org/abs/2309.14021) <br> Ayush Kaushal, Tejas Vaidhya, Irina Rish |<img width="402" alt="image" src="figures/LoRD.png"> |[Paper](https://arxiv.org/abs/2309.14021)<br>[Project](https://huggingface.co/nolanoAI)|
 
 ## Survey
 | Title & Authors | Introduction | Links |
