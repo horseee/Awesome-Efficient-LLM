@@ -8,8 +8,7 @@
 * [![Star](https://img.shields.io/github/stars/microsoft/LMOps.svg?style=social&label=Star)](https://github.com/microsoft/LMOps) **LMOps**: General technology for enabling AI capabilities w/ LLMs and MLLMs. [[link]](https://github.com/microsoft/LMOps)
 * [![Star](https://img.shields.io/github/stars/Lightning-AI/lit-gpt.svg?style=social&label=Star)](https://github.com/Lightning-AI/lit-gpt) **lit-gpt**: Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.. [[link]](https://github.com/Lightning-AI/lit-gpt)
 * [![Star](https://img.shields.io/github/stars/ztxz16/fastllm.svg?style=social&label=Star)](https://github.com/ztxz16/fastllm) **fastllm**: 纯c++的全平台llm加速库，支持python调用，chatglm-6B级模型单卡可达10000+token / s，支持glm, llama, moss基座，手机端流畅运行. [[link]](https://github.com/ztxz16/fastllm)
-
-
+* [![Star](https://img.shields.io/github/stars/kuleshov-group/llmtools.svg?style=social&label=Star)](https://github.com/kuleshov-group/llmtools) **llmtools**: 4-Bit Finetuning of Large Language Models on One Consumer GPU. [[link]](https://github.com/kuleshov-group/llmtools)
 
 
 ## Open-source Lightweight LLM
