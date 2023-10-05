@@ -116,6 +116,7 @@ In light of the numerous publications that conducts experiments using PLMs (such
 |[LLMZip: Lossless Text Compression using Large Language Models](https://arxiv.org/abs/2306.04050) <br> Chandra Shekhara Kaushik Valmeekam, Krishna Narayanan, Dileep Kalathil, Jean-Francois Chamberland, Srinivas Shakkottai |<img width="1002" alt="image" src="figures/LLMZip.png"> |[Paper](https://arxiv.org/abs/2306.04050) \| [Unofficial Github](https://github.com/erika-n/GPTzip)|
 |[![Star](https://img.shields.io/github/stars/princeton-nlp/AutoCompressors.svg?style=social&label=Star)](https://github.com/princeton-nlp/AutoCompressors)<br>[Adapting Language Models to Compress Contexts](https://arxiv.org/abs/2305.14788) <br> Alexis Chevalier, Alexander Wettig, Anirudh Ajith, Danqi Chen |<img width="202" alt="image" src="figures/AutoCompressor.png"> |[Github](https://github.com/princeton-nlp/AutoCompressors) <br> [Paper](https://arxiv.org/abs/2305.14788)|
 |[In-context Autoencoder for Context Compression in a Large Language Model](https://arxiv.org/abs/2307.06945) <br> Tao Ge, Jing Hu, Xun Wang, Si-Qing Chen, Furu Wei |<img width="502" alt="image" src="figures/ICAE.png"> |[Paper](https://arxiv.org/abs/2307.06945)|
+|[Nugget 2D: Dynamic Contextual Compression for Scaling Decoder-only Language Model](https://arxiv.org/abs/2310.02409) <br> Guanghui Qin, Corby Rosset, Ethan C. Chau, Nikhil Rao, Benjamin Van Durme |<img width="1002" alt="image" src="figures/nugget2D.png"> |[Paper](https://arxiv.org/abs/2310.02409)|
 
 
 
