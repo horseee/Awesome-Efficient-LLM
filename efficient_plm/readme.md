@@ -28,6 +28,7 @@ This part is still under construction to include papers published from 2018-2023
 * [![Publish](https://img.shields.io/badge/Conference-ACL'23%20Findings-blue)]() [![Star](https://img.shields.io/github/stars/tiiiger/templm.svg?style=social&label=Star)](https://github.com/tiiiger/templm) [TempLM: Distilling Language Models into Template-Based Generators](https://arxiv.org/abs/2205.11055). Tianyi Zhang, Mina Lee, Lisa Li, Ende Shen, Tatsunori B. Hashimoto. [[Paper]](https://arxiv.org/abs/2205.11055)[[Github]](https://github.com/tiiiger/templm)
 * [![Publish](https://img.shields.io/badge/Conference-ACL'23%20Findings-blue)]() [Cost-effective Distillation of Large Language Models](https://aclanthology.org/2023.findings-acl.463/). Sayantan Dasgupta, Trevor Cohn, Timothy Baldwin. [[Paper]](https://aclanthology.org/2023.findings-acl.463/)
 * [![Publish](https://img.shields.io/badge/Conference-ACL'23%20Findings-blue)]() [A Study on Knowledge Distillation from Weak Teacher for Scaling Up Pre-trained Language Models](https://arxiv.org/abs/2305.18239). Hayeon Lee, Rui Hou, Jongpil Kim, Davis Liang, Sung Ju Hwang, Alexander Min. [[Paper]](https://arxiv.org/abs/2305.18239)
+* [![Publish](https://img.shields.io/badge/Conference-EMNLP'23%20Industry%20Track-blue)]() [A Comparative Analysis of Task-Agnostic Distillation Methods for Compressing Transformer Language Models](https://arxiv.org/abs/2310.08797). Takuma Udagawa, Aashka Trivedi, Michele Merler, Bishwaranjan Bhattacharjee. [[Paper]](https://arxiv.org/abs/2310.08797)
 
 
 ## Network Pruning
