@@ -158,4 +158,6 @@ In light of the numerous publications that conducts experiments using PLMs (such
 
 ## Others
 * [CPET: Effective Parameter-Efficient Tuning for Compressed Large Language Models](https://arxiv.org/abs/2307.07705). Weilin Zhao, Yuxiang Huang, Xu Han, Zhiyuan Liu, Zhengyan Zhang, Maosong Sun. [[Paper]](https://arxiv.org/abs/2307.07705)
+* [![Star](https://img.shields.io/github/stars/liziniu/ReMax.svg?style=social&label=Star)](https://github.com/liziniu/ReMax) [ReMax: A Simple, Effective, and Efficient Method for Aligning Large Language Models](https://arxiv.org/abs/2310.10505). Ziniu Li, Tian Xu, Yushun Zhang, Yang Yu, Ruoyu Sun, Zhi-Quan Luo. [[Paper]](https://arxiv.org/abs/2310.10505)[[Github]](https://github.com/liziniu/ReMax)
+* [TRANSOM: An Efficient Fault-Tolerant System for Training LLMs](https://arxiv.org/abs/2310.10046). Baodong Wu, Lei Xia, Qingping Li, Kangyu Li, Xu Chen, Yongqiang Guo, Tieyao Xiang, Yuheng Chen, Shigang Li. [[Paper]](https://arxiv.org/abs/2310.10046)
 
