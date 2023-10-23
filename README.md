@@ -104,6 +104,7 @@ In light of the numerous publications that conducts experiments using PLMs (such
 |[QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models](https://arxiv.org/abs/2310.08041) <br> Jing Liu, Ruihao Gong, Xiuying Wei, Zhiwei Dong, Jianfei Cai, Bohan Zhuang |<img width="1002" alt="image" src="figures/QLLM.png"> |[Paper](https://arxiv.org/abs/2310.08041)|
 |[LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models](https://arxiv.org/abs/2310.08659) <br> Yixiao Li, Yifan Yu, Chen Liang, Pengcheng He, Nikos Karampatziakis, Weizhu Chen, Tuo Zhao |<img width="1002" alt="image" src="figures/LoftQ.png"> |[Paper](https://arxiv.org/abs/2310.08659)|
 |[TEQ: Trainable Equivalent Transformation for Quantization of LLMs](https://arxiv.org/abs/2310.10944) <br> Wenhua Cheng, Yiyang Cai, Kaokao Lv, Haihao Shen |<img width="1002" alt="image" src="figures/TEQ.png"> |[Github](https://github.com/intel/neural-compressor) <br> [Paper](https://arxiv.org/abs/2310.10944)|
+|[BitNet: Scaling 1-bit Transformers for Large Language Models](https://arxiv.org/abs/2310.11453) <br> Hongyu Wang, Shuming Ma, Li Dong, Shaohan Huang, Huaijie Wang, Lingxiao Ma, Fan Yang, Ruiping Wang, Yi Wu, Furu Wei |<img width="1002" alt="image" src="https://thegenerality.com/agi/assets/img/bitnet.png"> |[Paper](https://arxiv.org/abs/2310.11453)|
 
 
 ## Inference Acceleration
