@@ -139,6 +139,7 @@ In light of the numerous publications that conducts experiments using PLMs (such
 |[![Star](https://img.shields.io/github/stars/ielab/llm-rankers.svg?style=social&label=Star)](https://github.com/ielab/llm-rankers)<br>[A Setwise Approach for Effective and Highly Efficient Zero-shot Ranking with Large Language Models](https://arxiv.org/abs/2310.09497) <br> Shengyao Zhuang, Honglei Zhuang, Bevan Koopman, Guido Zuccon |<img width="1002" alt="image" src="figures/Setwise.png"> |[Github](https://github.com/ielab/llm-rankers) <br> [Paper](https://arxiv.org/abs/2310.09497)|
 |[SPEED: Speculative Pipelined Execution for Efficient Decoding](https://arxiv.org/abs/2310.12072) <br> Coleman Hooper, Sehoon Kim, Hiva Mohammadzadeh, Hasan Genc, Kurt Keutzer, Amir Gholami, Sophia Shao |<img width="1002" alt="image" src="figures/SPEED.png"> |[Paper](https://arxiv.org/abs/2310.12072)|
 |[Accelerating LLM Inference by Enabling Intermediate Layer Decoding](https://arxiv.org/abs/2310.18581) <br> Neeraj Varshney, Agneet Chatterjee, Mihir Parmar, Chitta Baral |<img width="252" alt="image" src="figures/LITE.png"> |[Paper](https://arxiv.org/abs/2310.18581)|
+|[SiDA: Sparsity-Inspired Data-Aware Serving for Efficient and Scalable Large Mixture-of-Experts Models](https://arxiv.org/abs/2310.18859) <br> Zhixu Du, Shiyu Li, Yuhao Wu, Xiangyu Jiang, Jingwei Sun, Qilin Zheng, Yongkai Wu, Ang Li, Hai "Helen" Li, Yiran Chen |<img width="1002" alt="image" src="figures/SiDA.png"> |[Paper](https://arxiv.org/abs/2310.18859)|
 
 ## Text Compression
 | Title & Authors | Introduction | Links |
