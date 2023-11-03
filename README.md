@@ -113,6 +113,7 @@ If you'd like to include your paper, or need to update any details such as confe
 |[TEQ: Trainable Equivalent Transformation for Quantization of LLMs](https://arxiv.org/abs/2310.10944) <br> Wenhua Cheng, Yiyang Cai, Kaokao Lv, Haihao Shen |<img width="1002" alt="image" src="figures/TEQ.png"> |[Github](https://github.com/intel/neural-compressor) <br> [Paper](https://arxiv.org/abs/2310.10944)|
 |[BitNet: Scaling 1-bit Transformers for Large Language Models](https://arxiv.org/abs/2310.11453) <br> Hongyu Wang, Shuming Ma, Li Dong, Shaohan Huang, Huaijie Wang, Lingxiao Ma, Fan Yang, Ruiping Wang, Yi Wu, Furu Wei |<img width="1002" alt="image" src="https://thegenerality.com/agi/assets/img/bitnet.png"> |[Paper](https://arxiv.org/abs/2310.11453)|
 |[Atom: Low-bit Quantization for Efficient and Accurate LLM Serving](https://arxiv.org/abs/2310.19102) <br> Yilong Zhao, Chien-Yu Lin, Kan Zhu, Zihao Ye, Lequn Chen, Size Zheng, Luis Ceze, Arvind Krishnamurthy, Tianqi Chen, Baris Kasikci |<img width="302" alt="image" src="figures/atom.png"> |[Paper](https://arxiv.org/abs/2310.19102)|
+|[AWEQ: Post-Training Quantization with Activation-Weight Equalization for Large Language Models](https://arxiv.org/abs/2311.01305) <br> Baisong Li, Xingwang Wang, Haixiao Xu |<img width="1002" alt="image" src="figures/AWE.png"> |[Paper](https://arxiv.org/abs/2311.01305)|
 
 
 ## Inference Acceleration
