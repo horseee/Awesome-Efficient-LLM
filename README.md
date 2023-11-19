@@ -183,6 +183,8 @@ If you'd like to include your paper, or need to update any details such as confe
 * [Rethinking Memory and Communication Cost for Efficient Large Language Model Training](https://arxiv.org/abs/2310.06003). Chan Wu, Hanxiao Zhang, Lin Ju, Jinjing Huang, Youshao Xiao, Zhaoxin Huan, Siyuan Li, Fanzhuang Meng, Lei Liang, Xiaolu Zhang, Jun Zhou. [[Paper]](https://arxiv.org/abs/2310.06003)
 * [Chameleon: a Heterogeneous and Disaggregated Accelerator System for Retrieval-Augmented Language Models](https://arxiv.org/abs/2310.09949). Wenqi Jiang, Marco Zeller, Roger Waleffe, Torsten Hoefler, Gustavo Alonso. [[Paper]](https://arxiv.org/abs/2310.09949)
 * [FlashDecoding++: Faster Large Language Model Inference on GPUs](https://arxiv.org/abs/2311.01282). Ke Hong, Guohao Dai, Jiaming Xu, Qiuli Mao, Xiuhong Li, Jun Liu, Kangdi Chen, Hanyu Dong, Yu Wang. [[Paper]](https://arxiv.org/abs/2311.01282)
+* [![Star](https://img.shields.io/github/stars/striped_attention/.svg?style=social&label=Star)](https://github.com/striped_attention/) [Striped Attention: Faster Ring Attention for Causal Transformers](https://arxiv.org/abs/2311.09431). William Brandon, Aniruddha Nrusimha, Kevin Qian, Zachary Ankner, Tian Jin, Zhiye Song, Jonathan Ragan-Kelley. [[Paper]](https://arxiv.org/abs/2311.09431)[[Github]](https://github.com/exists-forall/striped_attention/)
+
 
 ## Survey
 * [A Survey on Model Compression for Large Language Models](https://arxiv.org/abs/2308.07633). Xunyu Zhu, Jian Li, Yong Liu, Can Ma, Weiping Wang. [[Paper]](https://arxiv.org/abs/2308.07633)
