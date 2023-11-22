@@ -5,6 +5,7 @@ A curated list for **Efficient Pre-trained Language Models**:
   - [Network Pruning](#network-pruning)
   - [Quantization](#quantization)
   - [Inference Acceleration](#inference-acceleration)
+  - [Structure Design](#structure-design)
   - [Hardware](#hardware)
   - [Others](#others)
 
@@ -61,6 +62,9 @@ Chaofan Tao, Lu Hou, Haoli Bai, Jiansheng Wei, Xin Jiang, Qun Liu, Ping Luo, Nga
 * [![Publish](https://img.shields.io/badge/Conference-ACL'23-blue)]() [![Star](https://img.shields.io/github/stars/dropreg/DEER.svg?style=social&label=Star)](https://github.com/dropreg/DEER) [Dynamic and Efficient Inference for Text Generation via BERT Family](https://aclanthology.org/2023.acl-long.162/). Xiaobo Liang, Juntao Li, Lijun Wu, Ziqiang Cao, Min Zhang. [[Paper]](https://aclanthology.org/2023.acl-long.162/)[[Github]](https://github.com/dropreg/DEER)
 * [![Publish](https://img.shields.io/badge/Conference-KDD'23-blue)]() [![Star](https://img.shields.io/github/stars/microsoft/Moonlit.svg?style=social&label=Star)](https://github.com/microsoft/Moonlit) [Constraint-aware and Ranking-distilled Token Pruning for Efficient Transformer Inference](https://arxiv.org/abs/2306.14393). Junyan Li, Li Lyna Zhang, Jiahang Xu, Yujing Wang, Shaoguang Yan, Yunqing Xia, Yuqing Yang, Ting Cao, Hao Sun, Weiwei Deng, Qi Zhang, Mao Yang. [[Paper]](https://arxiv.org/abs/2306.14393)[[Github]](https://github.com/microsoft/Moonlit)
 * [![Publish](https://img.shields.io/badge/IEEE-TC'22-blue)]() [Dynamic Sparse Attention for Scalable Transformer Acceleration](https://ieeexplore.ieee.org/document/9896137). Liu Liu*, Zheng Qu*, Zhaodong Chen, Fengbin Tu, Yufei Ding, Yuan Xie.. [[Paper]](https://ieeexplore.ieee.org/document/9896137)
+
+## Structure Design
+* [![Star](https://img.shields.io/github/stars/pbelcak/UltraFastBERT.svg?style=social&label=Star)](https://github.com/pbelcak/UltraFastBERT) [Exponentially Faster Language Modelling](https://arxiv.org/abs/2311.10770). Peter Belcak, Roger Wattenhofer. [[Paper]](https://arxiv.org/abs/2311.10770)[[Github]](https://github.com/pbelcak/UltraFastBERT)
 
 ## Hardware
 * [![Publish](https://img.shields.io/badge/Conference-ICMLA'23-blue)]() [Quantized Transformer Language Model Implementations on Edge Devices](https://arxiv.org/abs/2310.03971). Mohammad Wali Ur Rahman, Murad Mehrab Abrar, Hunter Gibbons Copening, Salim Hariri, Sicong Shao, Pratik Satam, Soheil Salehi. [[Paper]](https://arxiv.org/abs/2310.03971)
