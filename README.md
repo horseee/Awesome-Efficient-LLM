@@ -8,6 +8,7 @@ A curated list for **Efficient Large Language Models**:
   - [Text Compression](#text-compression)
   - [Low-Rank Decomposition](#low-rank-decomposition)
   - [Hardware](#hardware)
+  - [Tuning](#tuning)
   - [Survey](#survey)
   - [Others](#others)   
 
@@ -186,13 +187,15 @@ If you'd like to include your paper, or need to update any details such as confe
 * [FlashDecoding++: Faster Large Language Model Inference on GPUs](https://arxiv.org/abs/2311.01282). Ke Hong, Guohao Dai, Jiaming Xu, Qiuli Mao, Xiuhong Li, Jun Liu, Kangdi Chen, Hanyu Dong, Yu Wang. [[Paper]](https://arxiv.org/abs/2311.01282)
 * [![Star](https://img.shields.io/github/stars/striped_attention/.svg?style=social&label=Star)](https://github.com/striped_attention/) [Striped Attention: Faster Ring Attention for Causal Transformers](https://arxiv.org/abs/2311.09431). William Brandon, Aniruddha Nrusimha, Kevin Qian, Zachary Ankner, Tian Jin, Zhiye Song, Jonathan Ragan-Kelley. [[Paper]](https://arxiv.org/abs/2311.09431)[[Github]](https://github.com/exists-forall/striped_attention/)
 
-
-## Survey
-* [A Survey on Model Compression for Large Language Models](https://arxiv.org/abs/2308.07633). Xunyu Zhu, Jian Li, Yong Liu, Can Ma, Weiping Wang. [[Paper]](https://arxiv.org/abs/2308.07633)
-
-## Others
+## Tuning
 * [CPET: Effective Parameter-Efficient Tuning for Compressed Large Language Models](https://arxiv.org/abs/2307.07705). Weilin Zhao, Yuxiang Huang, Xu Han, Zhiyuan Liu, Zhengyan Zhang, Maosong Sun. [[Paper]](https://arxiv.org/abs/2307.07705)
 * [![Star](https://img.shields.io/github/stars/liziniu/ReMax.svg?style=social&label=Star)](https://github.com/liziniu/ReMax) [ReMax: A Simple, Effective, and Efficient Method for Aligning Large Language Models](https://arxiv.org/abs/2310.10505). Ziniu Li, Tian Xu, Yushun Zhang, Yang Yu, Ruoyu Sun, Zhi-Quan Luo. [[Paper]](https://arxiv.org/abs/2310.10505)[[Github]](https://github.com/liziniu/ReMax)
 * [TRANSOM: An Efficient Fault-Tolerant System for Training LLMs](https://arxiv.org/abs/2310.10046). Baodong Wu, Lei Xia, Qingping Li, Kangyu Li, Xu Chen, Yongqiang Guo, Tieyao Xiang, Yuheng Chen, Shigang Li. [[Paper]](https://arxiv.org/abs/2310.10046)
 * [DEFT: Data Efficient Fine-Tuning for Large Language Models via Unsupervised Core-Set Selection](https://arxiv.org/abs/2310.16776). Devleena Das, Vivek Khetan. [[Paper]](https://arxiv.org/abs/2310.16776)
 * [![Star](https://img.shields.io/github/stars/yangjianxin1/LongQLoRA.svg?style=social&label=Star)](https://github.com/yangjianxin1/LongQLoRA) [LongQLoRA: Efficient and Effective Method to Extend Context Length of Large Language Models](https://arxiv.org/abs/2311.04879). Jianxin Yang. [[Paper]](https://arxiv.org/abs/2311.04879)[[Github]](https://github.com/yangjianxin1/LongQLoRA)
+* [![Star](https://img.shields.io/github/stars/ist-daslab/sparsefinetuning.svg?style=social&label=Star)](https://github.com/ist-daslab/sparsefinetuning) [Sparse Fine-tuning for Inference Acceleration of Large Language Models](https://arxiv.org/abs/2310.06927v2). Eldar Kurtic, Denis Kuznedelev, Elias Frantar, Michael Goin, Dan Alistarh. [[Paper]](https://arxiv.org/abs/2310.06927v2)[[Github]](https://github.com/ist-daslab/sparsefinetuning)[[Github]](https://github.com/neuralmagic/deepsparse/tree/main/research/mpt)
+
+## Survey
+* [A Survey on Model Compression for Large Language Models](https://arxiv.org/abs/2308.07633). Xunyu Zhu, Jian Li, Yong Liu, Can Ma, Weiping Wang. [[Paper]](https://arxiv.org/abs/2308.07633)
+
+## Others
