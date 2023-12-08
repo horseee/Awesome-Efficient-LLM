@@ -126,6 +126,7 @@ If you'd like to include your paper, or need to update any details such as confe
 |[A Speed Odyssey for Deployable Quantization of LLMs](https://arxiv.org/abs/2311.09550) <br> Qingyuan Li, Ran Meng, Yiduo Li, Bo Zhang, Liang Li, Yifan Lu, Xiangxiang Chu, Yerui Sun, Yuchen Xie |<img width="1002" alt="image" src="figures/OdysseyLLM.png"> |[Paper](https://arxiv.org/abs/2311.09550)|
 |[![Star](https://img.shields.io/github/stars/HanGuo97/lq-lora.svg?style=social&label=Star)](https://github.com/HanGuo97/lq-lora)<br>[LQ-LoRA: Low-rank Plus Quantized Matrix Decomposition for Efficient Language Model Finetuning](https://arxiv.org/abs/2311.12023) <br> Han Guo, Philip Greengard, Eric P. Xing, Yoon Kim |<img width="1002" alt="image" src="figures/LQ-LoRA.png"> |[Github](https://github.com/HanGuo97/lq-lora) <br> [Paper](https://arxiv.org/abs/2311.12023)|
 |[Enabling Fast 2-bit LLM on GPUs: Memory Alignment, Sparse Outlier, and Asynchronous Dequantization](https://arxiv.org/abs/2311.16442) <br> Jinhao Li, Shiyao Li, Jiaming Xu, Shan Huang, Yaoxiu Lian, Jun Liu, Yu Wang, Guohao Dai |<img width="1002" alt="image" src="figures/fast-2-bit.png"> |[Paper](https://arxiv.org/abs/2311.16442)|
+|[![Star](https://img.shields.io/github/stars/adlik/smoothquant+.svg?style=social&label=Star)](https://github.com/adlik/smoothquant+)<br>[SmoothQuant+: Accurate and Efficient 4-bit Post-Training WeightQuantization for LLM](https://arxiv.org/abs/2312.03788) <br> Jiayi Pan, Chengcan Wang, Kaifu Zheng, Yangguang Li, Zhenyu Wang, Bin Feng |<img width="402" alt="image" src="figures/SmoothQuant+.png"> |[Github](https://github.com/adlik/smoothquant+) <br> [Paper](https://arxiv.org/abs/2312.03788)|
 
 
 ## Inference Acceleration
@@ -156,6 +157,7 @@ If you'd like to include your paper, or need to update any details such as confe
 |[Accelerating LLM Inference by Enabling Intermediate Layer Decoding](https://arxiv.org/abs/2310.18581) <br> Neeraj Varshney, Agneet Chatterjee, Mihir Parmar, Chitta Baral |<img width="252" alt="image" src="figures/LITE.png"> |[Paper](https://arxiv.org/abs/2310.18581)|
 |[SiDA: Sparsity-Inspired Data-Aware Serving for Efficient and Scalable Large Mixture-of-Experts Models](https://arxiv.org/abs/2310.18859) <br> Zhixu Du, Shiyu Li, Yuhao Wu, Xiangyu Jiang, Jingwei Sun, Qilin Zheng, Yongkai Wu, Ang Li, Hai "Helen" Li, Yiran Chen |<img width="1002" alt="image" src="figures/SiDA.png"> |[Paper](https://arxiv.org/abs/2310.18859)|
 |[Fast Chain-of-Thought: A Glance of Future from Parallel Decoding Leads to Answers Faster](https://arxiv.org/abs/2311.08263) <br> Hongxuan Zhang, Zhining Liu, Jiaqi Zheng, Chenyi Zhuang, Jinjie Gu, Guihai Chen |<img width="1002" alt="image" src="figures/FastCoT.png"> |[Paper](https://arxiv.org/abs/2311.08263)|
+|[![Star](https://img.shields.io/github/stars/snu-mllab/context-memory.svg?style=social&label=Star)](https://github.com/snu-mllab/context-memory)<br>[Compressed Context Memory For Online Language Model Interaction](https://arxiv.org/abs/2312.03414) <br> Jang-Hyun Kim, Junyoung Yeom, Sangdoo Yun, Hyun Oh Song |<img width="1002" alt="image" src="https://github.com/snu-mllab/Context-Memory/blob/main/image/main.png"> |[Github](https://github.com/snu-mllab/context-memory) <br> [Paper](https://arxiv.org/abs/2312.03414)|
 
 ## Text Compression
 | Title & Authors | Introduction | Links |
@@ -202,5 +204,7 @@ If you'd like to include your paper, or need to update any details such as confe
 
 ## Survey
 * [A Survey on Model Compression for Large Language Models](https://arxiv.org/abs/2308.07633). Xunyu Zhu, Jian Li, Yong Liu, Can Ma, Weiping Wang. [[Paper]](https://arxiv.org/abs/2308.07633)
+* [![Star](https://img.shields.io/github/stars/tding1/Efficient-LLM-Survey.svg?style=social&label=Star)](https://github.com/tding1/Efficient-LLM-Survey) [The Efficiency Spectrum of Large Language Models: An Algorithmic Survey](https://arxiv.org/abs/2312.00678). Tianyu Ding, Tianyi Chen, Haidong Zhu, Jiachen Jiang, Yiqi Zhong, Jinxin Zhou, Guangzhi Wang, Zhihui Zhu, Ilya Zharkov, Luming Liang. [[Paper]](https://arxiv.org/abs/2312.00678)[[Github]](https://github.com/tding1/Efficient-LLM-Survey)
+* [![Star](https://img.shields.io/github/stars/AIoT-MLSys-Lab/Efficient-LLMs-Survey.svg?style=social&label=Star)](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey) [Efficient Large Language Models: A Survey](https://arxiv.org/abs/2312.03863). Zhongwei Wan, Xin Wang, Che Liu, Samiul Alam, Yu Zheng, Zhongnan Qu, Shen Yan, Yi Zhu, Quanlu Zhang, Mosharaf Chowdhury, Mi Zhang. [[Paper]](https://arxiv.org/abs/2312.03863)[[Github]](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)
 
 ## Others
