@@ -20,7 +20,7 @@ In light of the numerous publications that conducts experiments using PLMs (such
 
 #### 💮 Contributing
 
-If you'd like to include your paper, or need to update any details such as conference information or code URLs, please feel free to submit a pull request. We warmly appreciate your contributions to this list. Alternatively, you can email me with the links to your paper and code, and I would add your paper to the list at my earliest convenience. 
+If you'd like to include your paper, or need to update any details such as conference information or code URLs, please feel free to submit a pull request. You can generate the required markdown format for each paper by filling in the information in `generate_item.py` and execute `python generate_item.py`. We warmly appreciate your contributions to this list. Alternatively, you can email me with the links to your paper and code, and I would add your paper to the list at my earliest convenience. 
 
 
 ## Knowledge Distillation
