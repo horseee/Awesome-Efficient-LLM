@@ -1,4 +1,7 @@
-# Awesome-Efficient-LLM
+<div align="center">
+    <h1>Awesome Efficient LLM</h1>
+    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
+</div>
 
 A curated list for **Efficient Large Language Models**:
   - [Knowledge Distillation](#knowledge-distillation)
