@@ -10,7 +10,7 @@ A curated list for **Efficient Large Language Models**:
   - [Hardware](#hardware)
   - [Tuning](#tuning)
   - [Survey](#survey)
-  - [Others](#others)   
+  - [Leaderboard](#leaderboard)
 
 #### 🚀 Updates
 * Sep 27, 2023: Add tag ![Publish](https://img.shields.io/badge/Conference-NeurIPS'23-blue) for papers accepted at NeurIPS'23.
@@ -213,4 +213,7 @@ If you'd like to include your paper, or need to update any details such as confe
 * [![Star](https://img.shields.io/github/stars/tding1/Efficient-LLM-Survey.svg?style=social&label=Star)](https://github.com/tding1/Efficient-LLM-Survey) [The Efficiency Spectrum of Large Language Models: An Algorithmic Survey](https://arxiv.org/abs/2312.00678). Tianyu Ding, Tianyi Chen, Haidong Zhu, Jiachen Jiang, Yiqi Zhong, Jinxin Zhou, Guangzhi Wang, Zhihui Zhu, Ilya Zharkov, Luming Liang. [[Paper]](https://arxiv.org/abs/2312.00678)[[Github]](https://github.com/tding1/Efficient-LLM-Survey)
 * [![Star](https://img.shields.io/github/stars/AIoT-MLSys-Lab/Efficient-LLMs-Survey.svg?style=social&label=Star)](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey) [Efficient Large Language Models: A Survey](https://arxiv.org/abs/2312.03863). Zhongwei Wan, Xin Wang, Che Liu, Samiul Alam, Yu Zheng, Zhongnan Qu, Shen Yan, Yi Zhu, Quanlu Zhang, Mosharaf Chowdhury, Mi Zhang. [[Paper]](https://arxiv.org/abs/2312.03863)[[Github]](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)
 
-## Others
+## Leaderboard
+
+| Platform | Access |
+| Huggingface LLM Perf Leaderboard | [[Source](https://huggingface.co/spaces/optimum/llm-perf-leaderboard)] |
