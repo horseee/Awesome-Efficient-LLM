@@ -44,6 +44,7 @@ Chaofan Tao, Lu Hou, Haoli Bai, Jiansheng Wei, Xin Jiang, Qun Liu, Ping Luo, Nga
 * [Towards Robust Pruning: An Adaptive Knowledge-Retention Pruning Strategy for Language Models](https://arxiv.org/abs/2310.13191). Jianwei Li, Qi Lei, Wei Cheng, Dongkuan Xu. [[Paper]](https://arxiv.org/abs/2310.13191)
 * [Transfer Learning for Structured Pruning under Limited Task Data](https://arxiv.org/abs/2311.06382). Lucio Dery, David Grangier, Awni Hannun. [[Paper]](https://arxiv.org/abs/2311.06382)
 * [![Publish](https://img.shields.io/badge/Conference-NeurIPS'23%20MLNCP-blue)]() [Activity Sparsity Complements Weight Sparsity for Efficient RNN Inference](https://arxiv.org/abs/2311.07625). Rishav Mukherji, Mark Schöne, Khaleelulla Khan Nazeer, Christian Mayr, Anand Subramoney. [[Paper]](https://arxiv.org/abs/2311.07625)
+* [DSFormer: Effective Compression of Text-Transformers by Dense-Sparse Weight Factorization](https://arxiv.org/abs/2312.13211). Rahul Chand, Yashoteja Prabhu, Pratyush Kumar. [[Paper]](https://arxiv.org/abs/2312.13211)
 
 ## Quantization
 * [![Star](https://img.shields.io/github/stars/wimh966/outlier_suppression.svg?style=social&label=Star)](https://github.com/wimh966/outlier_suppression) [Outlier Suppression: Pushing the Limit of Low-bit Transformer](https://arxiv.org/abs/2209.13325). Xiuying Wei, Yunchen Zhang, Xiangguo Zhang, Ruihao Gong, Shanghang Zhang, Qi Zhang, Fengwei Yu, Xianglong Liu. [[Paper]](https://arxiv.org/abs/2209.13325)[[Github]](https://github.com/wimh966/outlier_suppression)
