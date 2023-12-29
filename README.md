@@ -227,3 +227,4 @@ If you'd like to include your paper, or need to update any details such as confe
 
 | Platform | Access |
 | Huggingface LLM Perf Leaderboard | [[Source](https://huggingface.co/spaces/optimum/llm-perf-leaderboard)] |
+| LLMPerf Leaderboard | [[Source](https://github.com/ray-project/llmperf-leaderboard)] |
