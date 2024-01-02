@@ -10,7 +10,7 @@ A curated list for **Efficient Large Language Models**:
   - [Hardware](#hardware)
   - [Tuning](#tuning)
   - [Survey](#survey)
-  - [Others](#others)   
+  - [Leaderboard](#leaderboard)
 
 #### 🚀 Updates
 * Sep 27, 2023: Add tag ![Publish](https://img.shields.io/badge/Conference-NeurIPS'23-blue) for papers accepted at NeurIPS'23.
@@ -223,4 +223,8 @@ If you'd like to include your paper, or need to update any details such as confe
 * [![Star](https://img.shields.io/github/stars/AIoT-MLSys-Lab/Efficient-LLMs-Survey.svg?style=social&label=Star)](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey) [Efficient Large Language Models: A Survey](https://arxiv.org/abs/2312.03863). Zhongwei Wan, Xin Wang, Che Liu, Samiul Alam, Yu Zheng, Zhongnan Qu, Shen Yan, Yi Zhu, Quanlu Zhang, Mosharaf Chowdhury, Mi Zhang. [[Paper]](https://arxiv.org/abs/2312.03863)[[Github]](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)
 * [Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems](https://arxiv.org/abs/2312.15234). Xupeng Miao, Gabriele Oliaro, Zhihao Zhang, Xinhao Cheng, Hongyi Jin, Tianqi Chen, Zhihao Jia. [[Paper]](https://arxiv.org/abs/2312.15234)
 
-## Others
+## Leaderboard
+|  Platform | Access |
+|:--|  :----: |
+| Huggingface LLM Perf Leaderboard | [[Source](https://huggingface.co/spaces/optimum/llm-perf-leaderboard)] |
+| LLMPerf Leaderboard | [[Source](https://github.com/ray-project/llmperf-leaderboard)] |
