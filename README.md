@@ -224,7 +224,7 @@ If you'd like to include your paper, or need to update any details such as confe
 * [Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems](https://arxiv.org/abs/2312.15234). Xupeng Miao, Gabriele Oliaro, Zhihao Zhang, Xinhao Cheng, Hongyi Jin, Tianqi Chen, Zhihao Jia. [[Paper]](https://arxiv.org/abs/2312.15234)
 
 ## Leaderboard
-
-| Platform | Access |
+|  Platform | Access |
+|:--|  :----: |
 | Huggingface LLM Perf Leaderboard | [[Source](https://huggingface.co/spaces/optimum/llm-perf-leaderboard)] |
 | LLMPerf Leaderboard | [[Source](https://github.com/ray-project/llmperf-leaderboard)] |
