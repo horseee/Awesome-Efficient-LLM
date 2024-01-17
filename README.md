@@ -8,7 +8,7 @@ A curated list for **Efficient Large Language Models**:
   - [Efficient MOE](#efficient-moe)
   - [Text Compression](#text-compression)
   - [Low-Rank Decomposition](#low-rank-decomposition)
-  - [Hardware](#hardware)
+  - [Hardware/System](#hardwaresystem)
   - [Tuning](#tuning)
   - [Survey](#survey)
   - [Leaderboard](#leaderboard)
@@ -57,6 +57,8 @@ If you'd like to include your paper, or need to update any details such as confe
 |[![Star](https://img.shields.io/github/stars/GeneZC/MiniMA.svg?style=social&label=Star)](https://github.com/GeneZC/MiniMA)<br>[Towards the Law of Capacity Gap in Distilling Language Models](https://arxiv.org/abs/2311.07052) <br> Chen Zhang, Dawei Song, Zheyu Ye, Yan Gao |<img width="1002" alt="image" src="figures/MiniMA.png"> |[Github](https://github.com/GeneZC/MiniMA) <br> [Paper](https://arxiv.org/abs/2311.07052)|
 |[Unlock the Power: Competitive Distillation for Multi-Modal Large Language Models](https://arxiv.org/abs/2311.08213) <br> Xinwei Li, Li Lin, Shuai Wang, Chen Qian |<img width="1002" alt="image" src="figures/CoMD.png"> |[Paper](https://arxiv.org/abs/2311.08213)|
 |[Mixed Distillation Helps Smaller Language Model Better Reasoning](https://arxiv.org/abs/2312.10730) <br> Li Chenglin, Chen Qianglong, Wang Caiyu, Zhang Yin |<img width="1002" alt="image" src="figures/MixDistill.png"> |[Paper](https://arxiv.org/abs/2312.10730)|
+|[Distilling Event Sequence Knowledge From Large Language Models](https://arxiv.org/abs/2401.07237) <br> Somin Wadhwa, Oktie Hassanzadeh, Debarun Bhattacharjya, Ken Barker, Jian Ni |<img width="1002" alt="image" src="figures/distill_event.png"> |[Paper](https://arxiv.org/abs/2401.07237)|
+|[Knowledge Distillation for Closed-Source Language Models](https://arxiv.org/abs/2401.07013) <br> Hongzhan Chen, Xiaojun Quan, Hehong Chen, Ming Yan, Ji Zhang |<img width="1002" alt="image" src="figures/kd_close_source.png"> |[Paper](https://arxiv.org/abs/2401.07013)|
 
 
 ## Network Pruning
@@ -174,6 +176,7 @@ If you'd like to include your paper, or need to update any details such as confe
 |[SiDA: Sparsity-Inspired Data-Aware Serving for Efficient and Scalable Large Mixture-of-Experts Models](https://arxiv.org/abs/2310.18859) <br> Zhixu Du, Shiyu Li, Yuhao Wu, Xiangyu Jiang, Jingwei Sun, Qilin Zheng, Yongkai Wu, Ang Li, Hai "Helen" Li, Yiran Chen |<img width="1002" alt="image" src="figures/SiDA.png"> |[Paper](https://arxiv.org/abs/2310.18859)|
 |[![Star](https://img.shields.io/github/stars/dvmazur/mixtral-offloading.svg?style=social&label=Star)](https://github.com/dvmazur/mixtral-offloading)<br>[Fast Inference of Mixture-of-Experts Language Models with Offloading](https://arxiv.org/abs/2312.17238) <br> Artyom Eliseev, Denis Mazur |<img width="1002" alt="image" src="figures/mixtral_offloading.png"> |[Github](https://github.com/dvmazur/mixtral-offloading) <br> [Paper](https://arxiv.org/abs/2312.17238)|
 |[![Star](https://img.shields.io/github/stars/robertcsordas/moe_attention.svg?style=social&label=Star)](https://github.com/robertcsordas/moe_attention)<br>[SwitchHead: Accelerating Transformers with Mixture-of-Experts Attention](https://arxiv.org/abs/2312.07987) <br> Róbert Csordás, Piotr Piękos, Kazuki Irie, Jürgen Schmidhuber |<img width="1002" alt="image" src="figures/switchhead.png"> |[Github](https://github.com/robertcsordas/moe_attention) <br> [Paper](https://arxiv.org/abs/2312.07987)|
+|[![Star](https://img.shields.io/github/stars/YJHMITWEB/ExFlow.svg?style=social&label=Star)](https://github.com/YJHMITWEB/ExFlow)<br>[Exploiting Inter-Layer Expert Affinity for Accelerating Mixture-of-Experts Model Inference](https://arxiv.org/abs/2401.08383) <br> Jinghan Yao, Quentin Anthony, Aamir Shafi, Hari Subramoni, Dhabaleswar K. (DK)Panda |<img width="1002" alt="image" src="figures/exflow.png"> |[Github](https://github.com/YJHMITWEB/ExFlow) <br> [Paper](https://arxiv.org/abs/2401.08383)|
 
 
 ## Text Compression
@@ -197,7 +200,7 @@ If you'd like to include your paper, or need to update any details such as confe
 
 
 
-## Hardware
+## Hardware/System
 
 * [![Publish](https://img.shields.io/badge/Conference-NeurIPS'22-blue)]() [![Star](https://img.shields.io/github/stars/Dao-AILab/flash-attention.svg?style=social&label=Star)](https://github.com/Dao-AILab/flash-attention) [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135). Tri Dao, Daniel Y. Fu, Stefano Ermon, Atri Rudra, Christopher Ré. [[Paper]](https://arxiv.org/abs/2205.14135)[[Github]](https://github.com/Dao-AILab/flash-attention)
 * [![Star](https://img.shields.io/github/stars/Dao-AILab/flash-attention.svg?style=social&label=Star)](https://github.com/Dao-AILab/flash-attention) [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2307.08691). Tri Dao. [[Paper]](https://arxiv.org/abs/2307.08691)[[Github]](https://github.com/Dao-AILab/flash-attention)
@@ -215,6 +218,7 @@ If you'd like to include your paper, or need to update any details such as confe
 * [LLM in a flash: Efficient Large Language Model Inference with Limited Memory](https://arxiv.org/abs/2312.11514). Keivan Alizadeh, Iman Mirzadeh, Dmitry Belenko, Karen Khatamifard, Minsik Cho, Carlo C Del Mundo, Mohammad Rastegari, Mehrdad Farajtabar. [[Paper]](https://arxiv.org/abs/2312.11514)
 * [FlightLLM: Efficient Large Language Model Inference with a Complete Mapping Flow on FPGA](https://arxiv.org/abs/2401.03868). Shulin Zeng, Jun Liu, Guohao Dai, Xinhao Yang, Tianyu Fu, Hongyi Wang, Wenheng Ma, Hanbo Sun, Shiyao Li, Zixiao Huang, Yadong Dai, Jintao Li, Zehao Wang, Ruoyu Zhang, Kairui Wen, Xuefei Ning, Yu Wang. [[Paper]](https://arxiv.org/abs/2401.03868)
 * [Efficient LLM inference solution on Intel GPU](https://arxiv.org/abs/2401.05391). Hui Wu, Yi Gan, Feng Yuan, Jing Ma, Wei Zhu, Yutao Xu, Hong Zhu, Yuhua Zhu, Xiaoli Liu, Jinghui Gu. [[Paper]](https://arxiv.org/abs/2401.05391)[[Github]](https://github.com/intel/intel-extension-for-pytorch/tree/v2.1.10%2Bxpu/examples/gpu/inference/python/llm)
+* [![Star](https://img.shields.io/github/stars/inferflow/inferflow.svg?style=social&label=Star)](https://github.com/inferflow/inferflow) [Inferflow: an Efficient and Highly Configurable Inference Engine for Large Language Models](https://arxiv.org/abs/2401.08294). Shuming Shi, Enbo Zhao, Deng Cai, Leyang Cui, Xinting Huang, Huayang Li. [[Paper]](https://arxiv.org/abs/2401.08294)[[Github]](https://github.com/inferflow/inferflow)
 
 ## Tuning
 * [CPET: Effective Parameter-Efficient Tuning for Compressed Large Language Models](https://arxiv.org/abs/2307.07705). Weilin Zhao, Yuxiang Huang, Xu Han, Zhiyuan Liu, Zhengyan Zhang, Maosong Sun. [[Paper]](https://arxiv.org/abs/2307.07705)
@@ -233,6 +237,7 @@ If you'd like to include your paper, or need to update any details such as confe
 * [![Star](https://img.shields.io/github/stars/AIoT-MLSys-Lab/Efficient-LLMs-Survey.svg?style=social&label=Star)](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey) [Efficient Large Language Models: A Survey](https://arxiv.org/abs/2312.03863). Zhongwei Wan, Xin Wang, Che Liu, Samiul Alam, Yu Zheng, Zhongnan Qu, Shen Yan, Yi Zhu, Quanlu Zhang, Mosharaf Chowdhury, Mi Zhang. [[Paper]](https://arxiv.org/abs/2312.03863)[[Github]](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)
 * [Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems](https://arxiv.org/abs/2312.15234). Xupeng Miao, Gabriele Oliaro, Zhihao Zhang, Xinhao Cheng, Hongyi Jin, Tianqi Chen, Zhihao Jia. [[Paper]](https://arxiv.org/abs/2312.15234)
 * [![Star](https://img.shields.io/github/stars/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers.svg?style=social&label=Star)](https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers) [Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models](https://arxiv.org/abs/2401.00625). Guangji Bai, Zheng Chai, Chen Ling, Shiyu Wang, Jiaying Lu, Nan Zhang, Tingwei Shi, Ziyang Yu, Mengdan Zhu, Yifei Zhang, Carl Yang, Yue Cheng, Liang Zhao. [[Paper]](https://arxiv.org/abs/2401.00625)[[Github]](https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers)
+* [![Star](https://img.shields.io/github/stars/UbiquitousLearning/Efficient_Foundation_Model_Survey.svg?style=social&label=Star)](https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey) [A Survey of Resource-efficient LLM and Multimodal Foundation Models](https://arxiv.org/abs/2401.08092). Mengwei Xu, Wangsong Yin, Dongqi Cai, Rongjie Yi, Daliang Xu, Qipeng Wang, Bingyang Wu, Yihao Zhao, Chen Yang, Shihe Wang, Qiyang Zhang, Zhenyan Lu, Li Zhang, Shangguang Wang, Yuanchun Li, Yunxin Liu, Xin Jin, Xuanzhe Liu. [[Paper]](https://arxiv.org/abs/2401.08092)[[Github]](https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey)
 
 ## Leaderboard
 |  Platform | Access |
