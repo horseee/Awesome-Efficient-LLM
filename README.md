@@ -12,6 +12,7 @@ A curated list for **Efficient Large Language Models**:
   - [Tuning](#tuning)
   - [Survey](#survey)
   - [Leaderboard](#leaderboard)
+  - [Blog](#blog)
 
 #### 🚀 Updates
 * Sep 27, 2023: Add tag ![Publish](https://img.shields.io/badge/Conference-NeurIPS'23-blue) for papers accepted at NeurIPS'23.
@@ -169,6 +170,8 @@ If you'd like to include your paper, or need to update any details such as confe
 |[SparQ Attention: Bandwidth-Efficient LLM Inference](https://arxiv.org/abs/2312.04985) <br> Luka Ribar, Ivan Chelombiev, Luke Hudlass-Galley, Charlie Blake, Carlo Luschi, Douglas Orr |<img width="1002" alt="image" src="figures/SparQ.png"> |[Paper](https://arxiv.org/abs/2312.04985)|
 |[Lookahead: An Inference Acceleration Framework for Large Language Model with Lossless Generation Accuracy](https://arxiv.org/abs/2312.12728) <br> Yao Zhao, Zhitian Xie, Chenyi Zhuang, Jinjie Gu |<img width="1002" alt="image" src="figures/Lookahead.png"> |[Paper](https://arxiv.org/abs/2312.12728)|
 |[Cascade Speculative Drafting for Even Faster LLM Inference](https://arxiv.org/abs/2312.11462) <br> Ziyi Chen, Xiaocong Yang, Jiacheng Lin, Chenkai Sun, Jie Huang, Kevin Chen-Chuan Chang |<img width="1002" alt="image" src="figures/CSDrafting.png"> |[Paper](https://arxiv.org/abs/2312.11462)|
+|[![Star](https://img.shields.io/github/stars/SafeAILab/EAGLE.svg?style=social&label=Star)](https://github.com/SafeAILab/EAGLE)<br>[EAGLE: Lossless Acceleration of LLM Decoding by Feature Extrapolation](https://sites.google.com/view/eagle-llm) <br> Yuhui Li, Chao Zhang, and Hongyang Zhang |<img width="302" alt="image" src="https://github.com/SafeAILab/EAGLE/blob/main/figs/fig1.png"> |[Github](https://github.com/SafeAILab/EAGLE) <br> [Blog](https://sites.google.com/view/eagle-llm)|
+
 
 ## Efficient MOE
 | Title & Authors | Introduction | Links |
@@ -244,3 +247,5 @@ If you'd like to include your paper, or need to update any details such as confe
 |:--|  :----: |
 | Huggingface LLM Perf Leaderboard | [[Source](https://huggingface.co/spaces/optimum/llm-perf-leaderboard)] |
 | LLMPerf Leaderboard | [[Source](https://github.com/ray-project/llmperf-leaderboard)] |
+
+
