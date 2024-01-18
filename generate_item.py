@@ -1,11 +1,18 @@
 
 
-markdown_type = "complex" # complex or simple
-
+markdown_type = "simple" # complex or simple
+    
 paper_name = ''
 paper_url = ''
 github_url = ''
 author_name = ''
+image_path = 'figures/{}.png'.format('')
+conference = ""
+
+paper_name = 'DeepSpeed-FastGen: High-throughput Text Generation for LLMs via MII and DeepSpeed-Inference'
+paper_url = 'https://arxiv.org/abs/2401.08671'
+github_url = 'https://github.com/microsoft/DeepSpeed-MII'
+author_name = 'Connor Holmes, Masahiro Tanaka, Michael Wyatt, Ammar Ahmad Awan, Jeff Rasley, Samyam Rajbhandari, Reza Yazdani Aminabadi, Heyang Qin, Arash Bakhtiari, Lev Kurilenko, Yuxiong He'
 image_path = 'figures/{}.png'.format('')
 conference = ""
 
