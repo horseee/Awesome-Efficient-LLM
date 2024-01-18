@@ -12,7 +12,6 @@ A curated list for **Efficient Large Language Models**:
   - [Tuning](#tuning)
   - [Survey](#survey)
   - [Leaderboard](#leaderboard)
-  - [Blog](#blog)
 
 #### 🚀 Updates
 * Sep 27, 2023: Add tag ![Publish](https://img.shields.io/badge/Conference-NeurIPS'23-blue) for papers accepted at NeurIPS'23.
@@ -26,6 +25,7 @@ If you'd like to include your paper, or need to update any details such as confe
 
 
 ## Knowledge Distillation
+
 | Title & Authors | Introduction | Links |
 |:----|  :----: | :---:|
 |[![Star](https://img.shields.io/github/stars/FranxYao/FlanT5-CoT-Specialization.svg?style=social&label=Star)](https://github.com/FranxYao/FlanT5-CoT-Specialization)[![Publish](https://img.shields.io/badge/Conference-ICML'23-blue)]()<br>[Specializing Smaller Language Models towards Multi-Step Reasoning](https://arxiv.org/abs/2301.12726) <br> Yao Fu, Hao Peng, Litu Ou, Ashish Sabharwal, Tushar Khot |<img width="1002" alt="image" src="figures/ModelSpecialization.png"> |[Github](https://github.com/FranxYao/FlanT5-CoT-Specialization) <br> [Paper](https://arxiv.org/abs/2301.12726)|
