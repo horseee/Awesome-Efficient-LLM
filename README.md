@@ -60,6 +60,7 @@ If you'd like to include your paper, or need to update any details such as confe
 |[Mixed Distillation Helps Smaller Language Model Better Reasoning](https://arxiv.org/abs/2312.10730) <br> Li Chenglin, Chen Qianglong, Wang Caiyu, Zhang Yin |<img width="1002" alt="image" src="figures/MixDistill.png"> |[Paper](https://arxiv.org/abs/2312.10730)|
 |[Distilling Event Sequence Knowledge From Large Language Models](https://arxiv.org/abs/2401.07237) <br> Somin Wadhwa, Oktie Hassanzadeh, Debarun Bhattacharjya, Ken Barker, Jian Ni |<img width="1002" alt="image" src="figures/distill_event.png"> |[Paper](https://arxiv.org/abs/2401.07237)|
 |[Knowledge Distillation for Closed-Source Language Models](https://arxiv.org/abs/2401.07013) <br> Hongzhan Chen, Xiaojun Quan, Hehong Chen, Ming Yan, Ji Zhang |<img width="1002" alt="image" src="figures/kd_close_source.png"> |[Paper](https://arxiv.org/abs/2401.07013)|
+|[Improving Small Language Models' Mathematical Reasoning via Equation-of-Thought Distillation](https://arxiv.org/abs/2401.11864) <br> Xunyu Zhu, Jian Li, Yong Liu, Can Ma, Weiping Wang |<img width="1002" alt="image" src="figures/EoTD.png"> |[Paper](https://arxiv.org/abs/2401.11864)|
 
 
 ## Network Pruning
