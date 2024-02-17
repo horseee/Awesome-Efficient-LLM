@@ -6,7 +6,7 @@ A curated list for **Efficient Large Language Models**:
   - [Quantization](#quantization)
   - [Inference Acceleration](#inference-acceleration)
   - [Efficient MOE](#efficient-moe)
-  - [Training & Architecture of Small LLM]()
+  - [Training & Architecture of Small LLM](#training--architecture-of-small-llm)
   - [Text Compression](#text-compression)
   - [Low-Rank Decomposition](#low-rank-decomposition)
   - [Hardware/System](#hardwaresystem)
@@ -216,6 +216,8 @@ If you'd like to include your paper, or need to update any details such as confe
 |[![Star](https://img.shields.io/github/stars/efeslab/fiddler.svg?style=social&label=Star)](https://github.com/efeslab/fiddler)<br>[Fiddler: CPU-GPU Orchestration for Fast Inference of Mixture-of-Experts Models](https://arxiv.org/abs/2402.07033) <br> Keisuke Kamahori, Yile Gu, Kan Zhu, Baris Kasikci |<img width="1002" alt="image" src="https://github.com/efeslab/fiddler/blob/main/asset/key-idea.png"> |[Github](https://github.com/efeslab/fiddler) <br> [Paper](https://arxiv.org/abs/2402.07033)|
 
 ## Training & Architecture of Small LLM
+| Title & Authors | Introduction | Links |
+|:--|  :----: | :---:|
 |[![Star](https://img.shields.io/github/stars/YuchuanTian/RethinkTinyLM.svg?style=social&label=Star)](https://github.com/YuchuanTian/RethinkTinyLM)<br>[Rethinking Optimization and Architecture for Tiny Language Models](https://arxiv.org/abs/2402.02791) <br> Yehui Tang, Fangcheng Liu, Yunsheng Ni, Yuchuan Tian, Zheyuan Bai, Yi-Qi Hu, Sichao Liu, Shangling Jui, Kai Han, Yunhe Wang |<img width="1002" alt="image" src="https://github.com/YuchuanTian/RethinkTinyLM/blob/master/fig/improve.png"> |[Github](https://github.com/YuchuanTian/RethinkTinyLM) <br> [Paper](https://arxiv.org/abs/2402.02791)|
 |[Tandem Transformers for Inference Efficient LLMs](https://arxiv.org/abs/2402.08644) <br> Aishwarya P S, Pranav Ajit Nair, Yashas Samaga, Toby Boyd, Sanjiv Kumar, Prateek Jain, Praneeth Netrapalli |<img width="1002" alt="image" src="figures/Tandem.png"> |[Paper](https://arxiv.org/abs/2402.08644)|
 
