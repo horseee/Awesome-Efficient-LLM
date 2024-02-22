@@ -307,5 +307,8 @@ If you'd like to include your paper, or need to update any details such as confe
 |:--|  :----: |
 | Huggingface LLM Perf Leaderboard | [[Source](https://huggingface.co/spaces/optimum/llm-perf-leaderboard)] |
 | LLMPerf Leaderboard | [[Source](https://github.com/ray-project/llmperf-leaderboard)] |
+| LLM API Hosts Leaderboard | [[Source](https://artificialanalysis.ai/leaderboards/hosts)] |
+| Models Leaderboard | [[Source](https://artificialanalysis.ai/leaderboards/models)] |
+| Provider Leaderboard | [[Source](https://leaderboard.withmartian.com)] |
 
 
