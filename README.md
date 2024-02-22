@@ -69,6 +69,7 @@ If you'd like to include your paper, or need to update any details such as confe
 |[![Star](https://img.shields.io/github/stars/Nicolas-BZRD/llm-recipes.svg?style=social&label=Star)](https://github.com/Nicolas-BZRD/llm-recipes)<br>[Towards Cross-Tokenizer Distillation: the Universal Logit Distillation Loss for LLMs](https://arxiv.org/abs/2402.12030) <br> Nicolas Boizard, Kevin El-Haddad, Céline Hudelot, Pierre Colombo |<img width="1002" alt="image" src="figures/CrossTokenizer.png"> |[Github](https://github.com/Nicolas-BZRD/llm-recipes) [Github](https://github.com/Nicolas-BZRD/llm-distillation) <br> [Paper](https://arxiv.org/abs/2402.12030) <br> [Model](https://huggingface.co/collections/Nicolas-BZRD/llms-distillation-65cfa07f1e4ed7404502a9eb)|
 |[Revisiting Knowledge Distillation for Autoregressive Language Models](https://arxiv.org/abs/2402.11890) <br> Qihuang Zhong, Liang Ding, Li Shen, Juhua Liu, Bo Du, Dacheng Tao |<img width="1002" alt="image" src="figures/ATKD.png"> |[Paper](https://arxiv.org/abs/2402.11890)|
 |[PromptKD: Distilling Student-Friendly Knowledge for Generative Language Models via Prompt Tuning](https://arxiv.org/abs/2402.12842) <br> Gyeongman Kim, Doohyuk Jang, Eunho Yang |<img width="1002" alt="image" src="figures/PromptKD.png"> |[Paper](https://arxiv.org/abs/2402.12842)|
+|[Self-Distillation Bridges Distribution Gap in Language Model Fine-Tuning](https://arxiv.org/abs/2402.13669) <br> Zhaorui Yang, Qian Liu, Tianyu Pang, Han Wang, Haozhe Feng, Minfeng Zhu, Wei Chen |<img width="1002" alt="image" src="figures/SDFT.png"> |[Paper](https://arxiv.org/abs/2402.13669)|
 
 ## Network Pruning
 | Title & Authors | Introduction | Links |
@@ -171,6 +172,7 @@ If you'd like to include your paper, or need to update any details such as confe
 |[DB-LLM: Accurate Dual-Binarization for Efficient LLMs](https://arxiv.org/abs/2402.11960) <br> Hong Chen, Chengtao Lv, Liang Ding, Haotong Qin, Xiabin Zhou, Yifu Ding, Xuebo Liu, Min Zhang, Jinyang Guo, Xianglong Liu, Dacheng Tao |<img width="1002" alt="image" src="figures/DB-LLM.png"> |[Paper](https://arxiv.org/abs/2402.11960)|
 |[OneBit: Towards Extremely Low-bit Large Language Models](https://arxiv.org/abs/2402.11295) <br> Yuzhuang Xu, Xu Han, Zonghan Yang, Shuo Wang, Qingfu Zhu, Zhiyuan Liu, Weidong Liu, Wanxiang Che |<img width="1002" alt="image" src="figures/OneBit.png"> |[Paper](https://arxiv.org/abs/2402.11295)|
 |[![Star](https://img.shields.io/github/stars/FasterDecoding/BitDelta.svg?style=social&label=Star)](https://github.com/FasterDecoding/BitDelta)<br>[BitDelta: Your Fine-Tune May Only Be Worth One Bit](https://arxiv.org/abs/2402.10193) <br> James Liu, Guangxuan Xiao, Kai Li, Jason D. Lee, Song Han, Tri Dao, Tianle Cai |<img width="1002" alt="image" src="https://github.com/FasterDecoding/BitDelta/raw/main/figures/BitDelta.png"> |[Github](https://github.com/FasterDecoding/BitDelta) <br> [Paper](https://arxiv.org/abs/2402.10193)|
+|[Any-Precision LLM: Low-Cost Deployment of Multiple, Different-Sized LLMs](https://arxiv.org/abs/2402.10517) <br> Yeonhong Park, Jake Hyun, SangLyul Cho, Bonggeun Sim, Jae W. Lee |<img width="1002" alt="image" src="figures/AnyPrecisionLLM.png"> |[Paper](https://arxiv.org/abs/2402.10517)|
 
 
 ## Inference Acceleration
@@ -239,6 +241,7 @@ If you'd like to include your paper, or need to update any details such as confe
 |[In-context Autoencoder for Context Compression in a Large Language Model](https://arxiv.org/abs/2307.06945) <br> Tao Ge, Jing Hu, Xun Wang, Si-Qing Chen, Furu Wei |<img width="502" alt="image" src="figures/ICAE.png"> |[Paper](https://arxiv.org/abs/2307.06945)|
 |[Nugget 2D: Dynamic Contextual Compression for Scaling Decoder-only Language Model](https://arxiv.org/abs/2310.02409) <br> Guanghui Qin, Corby Rosset, Ethan C. Chau, Nikhil Rao, Benjamin Van Durme |<img width="1002" alt="image" src="figures/nugget2D.png"> |[Paper](https://arxiv.org/abs/2310.02409)|
 |[Boosting LLM Reasoning: Push the Limits of Few-shot Learning with Reinforced In-Context Pruning](https://arxiv.org/abs/2312.08901) <br> Xijie Huang, Li Lyna Zhang, Kwang-Ting Cheng, Mao Yang |<img width="1002" alt="image" src="figures/CoT-Max.png"> |[Paper](https://arxiv.org/abs/2312.08901)|
+|[ProPD: Dynamic Token Tree Pruning and Generation for LLM Parallel Decoding](https://arxiv.org/abs/2402.13485) <br> Shuzhang Zhong, Zebin Yang, Meng Li, Ruihao Gong, Runsheng Wang, Ru Huang |<img width="1002" alt="image" src="figures/ProPD.png"> |[Paper](https://arxiv.org/abs/2402.13485)|
 
 ## Low-Rank Decomposition
 | Title & Authors | Introduction | Links |
