@@ -6,7 +6,7 @@ A curated list for **Efficient Large Language Models**:
   - [Quantization](#quantization)
   - [Inference Acceleration](#inference-acceleration)
   - [Efficient MOE](#efficient-moe)
-  - [Training & Architecture of Small LLM](#training--architecture-of-small-llm)
+  - [Efficient Architecture of LLM](#efficient-architecture-of-llm)
   - [Text Compression](#text-compression)
   - [Low-Rank Decomposition](#low-rank-decomposition)
   - [Hardware/System](#hardwaresystem)
@@ -232,7 +232,7 @@ If you'd like to include your paper, or need to update any details such as confe
 |[![Star](https://img.shields.io/github/stars/efeslab/fiddler.svg?style=social&label=Star)](https://github.com/efeslab/fiddler)<br>[Fiddler: CPU-GPU Orchestration for Fast Inference of Mixture-of-Experts Models](https://arxiv.org/abs/2402.07033) <br> Keisuke Kamahori, Yile Gu, Kan Zhu, Baris Kasikci |<img width="1002" alt="image" src="https://github.com/efeslab/fiddler/blob/main/asset/key-idea.png"> |[Github](https://github.com/efeslab/fiddler) <br> [Paper](https://arxiv.org/abs/2402.07033)|
 |[![Star](https://img.shields.io/github/stars/Lucky-Lance/Expert_Sparsity.svg?style=social&label=Star)](https://github.com/Lucky-Lance/Expert_Sparsity)<br>[Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models](https://arxiv.org/abs/2402.14800) <br> Xudong Lu, Qi Liu, Yuhui Xu, Aojun Zhou, Siyuan Huang, Bo Zhang, Junchi Yan, Hongsheng Li |<img width="1002" alt="image" src="https://arxiv.org/html/2402.14800v1/x2.png"> |[Github](https://github.com/Lucky-Lance/Expert_Sparsity) <br> [Paper](https://arxiv.org/abs/2402.14800)|
 
-## Training & Architecture of Small LLM
+## Efficient Architecture of LLM
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
 |[![Star](https://img.shields.io/github/stars/YuchuanTian/RethinkTinyLM.svg?style=social&label=Star)](https://github.com/YuchuanTian/RethinkTinyLM)<br>[Rethinking Optimization and Architecture for Tiny Language Models](https://arxiv.org/abs/2402.02791) <br> Yehui Tang, Fangcheng Liu, Yunsheng Ni, Yuchuan Tian, Zheyuan Bai, Yi-Qi Hu, Sichao Liu, Shangling Jui, Kai Han, Yunhe Wang |<img width="1002" alt="image" src="https://github.com/YuchuanTian/RethinkTinyLM/blob/master/fig/improve.png"> |[Github](https://github.com/YuchuanTian/RethinkTinyLM) <br> [Paper](https://arxiv.org/abs/2402.02791)|
