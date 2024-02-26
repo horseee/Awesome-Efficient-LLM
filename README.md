@@ -71,6 +71,8 @@ If you'd like to include your paper, or need to update any details such as confe
 |[PromptKD: Distilling Student-Friendly Knowledge for Generative Language Models via Prompt Tuning](https://arxiv.org/abs/2402.12842) <br> Gyeongman Kim, Doohyuk Jang, Eunho Yang |<img width="1002" alt="image" src="figures/PromptKD.png"> |[Paper](https://arxiv.org/abs/2402.12842)|
 |[Self-Distillation Bridges Distribution Gap in Language Model Fine-Tuning](https://arxiv.org/abs/2402.13669) <br> Zhaorui Yang, Qian Liu, Tianyu Pang, Han Wang, Haozhe Feng, Minfeng Zhu, Wei Chen |<img width="1002" alt="image" src="figures/SDFT.png"> |[Paper](https://arxiv.org/abs/2402.13669)|
 |[Wisdom of Committee: Distilling from Foundation Model to Specialized Application Model](https://arxiv.org/abs/2402.14035) <br> Zichang Liu, Qingyun Liu, Yuening Li, Liang Liu, Anshumali Shrivastava, Shuchao Bi, Lichan Hong, Ed H. Chi, Zhe Zhao |<img width="1002" alt="image" src="https://arxiv.org/html/2402.14035v1/x1.png"> |[Paper](https://arxiv.org/abs/2402.14035)|
+|[Divide-or-Conquer? Which Part Should You Distill Your LLM?](https://arxiv.org/abs/2402.15000) <br> Zhuofeng Wu, He Bai, Aonan Zhang, Jiatao Gu, VG Vinod Vydiswaran, Navdeep Jaitly, Yizhe Zhang |<img width="202" alt="image" src="https://arxiv.org/html/2402.15000v1/x1.png"> |[Paper](https://arxiv.org/abs/2402.15000)|
+|[![Star](https://img.shields.io/github/stars/pphuc25/distil-cd.svg?style=social&label=Star)](https://github.com/pphuc25/distil-cd)<br>[Distillation Contrastive Decoding: Improving LLMs Reasoning with Contrastive Decoding and Distillation](https://arxiv.org/abs/2402.14874) <br> Phuc Phan, Hieu Tran, Long Phan |<img width="1002" alt="image" src="https://github.com/pphuc25/distil-cd/blob/main/assets/figure1-method.jpg"> |[Github](https://github.com/pphuc25/distil-cd) <br> [Paper](https://arxiv.org/abs/2402.14874)|
 
 ## Network Pruning
 | Title & Authors | Introduction | Links |
@@ -222,6 +224,7 @@ If you'd like to include your paper, or need to update any details such as confe
 |[Speculative Streaming: Fast LLM Inference without Auxiliary Models](https://arxiv.org/abs/2402.11131) <br> Nikhil Bhendawade, Irina Belousova, Qichen Fu, Henry Mason, Mohammad Rastegari, Mahyar Najibi |<img width="1002" alt="image" src="figures/SpeculativeStreaming.png"> |[Paper](https://arxiv.org/abs/2402.11131)|
 |[RelayAttention for Efficient Large Language Model Serving with Long System Prompts](https://arxiv.org/abs/2402.14808) <br> Lei Zhu, Xinjiang Wang, Wayne Zhang, Rynson W.H. Lau |<img width="1002" alt="image" src="https://arxiv.org/html/2402.14808v1/x3.png"> |[Paper](https://arxiv.org/abs/2402.14808)|
 |[Recursive Speculative Decoding: Accelerating LLM Inference via Sampling Without Replacement](https://arxiv.org/abs/2402.14160) <br> Wonseok Jeon, Mukul Gagrani, Raghavv Goel, Junyoung Park, Mingu Lee, Christopher Lott |<img width="1002" alt="image" src="figures/RSD.png"> |[Paper](https://arxiv.org/abs/2402.14160)|
+|[ChunkAttention: Efficient Self-Attention with Prefix-Aware KV Cache and Two-Phase Partition](https://arxiv.org/abs/2402.15220) <br> Lu Ye, Ze Tao, Yong Huang, Yang Li |<img width="1002" alt="image" src="figures/ChunkAttention.png"> |[Paper](https://arxiv.org/abs/2402.15220)|
 
 ## Efficient MOE
 | Title & Authors | Introduction | Links |
