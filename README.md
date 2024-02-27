@@ -180,7 +180,7 @@ If you'd like to include your paper, or need to update any details such as confe
 |[Any-Precision LLM: Low-Cost Deployment of Multiple, Different-Sized LLMs](https://arxiv.org/abs/2402.10517) <br> Yeonhong Park, Jake Hyun, SangLyul Cho, Bonggeun Sim, Jae W. Lee |<img width="1002" alt="image" src="figures/AnyPrecisionLLM.png"> |[Paper](https://arxiv.org/abs/2402.10517)|
 |[![Publish](https://img.shields.io/badge/Conference-DAC'24-blue)]()<br>[APTQ: Attention-aware Post-Training Mixed-Precision Quantization for Large Language Models](https://arxiv.org/abs/2402.14866) <br> Ziyi Guan, Hantao Huang, Yupeng Su, Hong Huang, Ngai Wong, Hao Yu |<img width="1002" alt="image" src="https://arxiv.org/html/2402.14866v1/x1.png"> |[Paper](https://arxiv.org/abs/2402.14866)|
 |[![Star](https://img.shields.io/github/stars/qualcomm-ai-research/gptvq.svg?style=social&label=Star)](https://github.com/qualcomm-ai-research/gptvq)<br>[GPTVQ: The Blessing of Dimensionality for LLM Quantization](https://arxiv.org/abs/2402.15319) <br> Mart van Baalen, Andrey Kuzmin, Markus Nagel, Peter Couperus, Cedric Bastoul, Eric Mahurin, Tijmen Blankevoort, Paul Whatmough |<img width="1002" alt="image" src="https://arxiv.org/html/2402.15319v1/extracted/5412979/fig/new_fig1a_blue.png"> |[Github](https://github.com/qualcomm-ai-research/gptvq) <br> [Paper](https://arxiv.org/abs/2402.15319)|
-
+|[A Comprehensive Evaluation of Quantization Strategies for Large Language Models](https://arxiv.org/abs/2402.16775) <br> Renren Jin, Jiangcun Du, Wuwei Huang, Wei Liu, Jian Luan, Bin Wang, Deyi Xiong |<img width="1002" alt="image" src="figures/QuantizationStrategies.png"> |[Paper](https://arxiv.org/abs/2402.16775)|
 
 ## Inference Acceleration
 | Title & Authors | Introduction | Links |
@@ -244,6 +244,7 @@ If you'd like to include your paper, or need to update any details such as confe
 |[Tandem Transformers for Inference Efficient LLMs](https://arxiv.org/abs/2402.08644) <br> Aishwarya P S, Pranav Ajit Nair, Yashas Samaga, Toby Boyd, Sanjiv Kumar, Prateek Jain, Praneeth Netrapalli |<img width="1002" alt="image" src="figures/Tandem.png"> |[Paper](https://arxiv.org/abs/2402.08644)|
 |[Scaling Efficient LLMs](https://arxiv.org/abs/2402.14746) <br> B.N. Kausik |<img width="1002" alt="image" src="figures/ScalingEfficientLLM.png"> |[Paper](https://arxiv.org/abs/2402.14746)|
 |[MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases](https://arxiv.org/abs/2402.14905) <br> Zechun Liu, Changsheng Zhao, Forrest Iandola, Chen Lai, Yuandong Tian, Igor Fedorov, Yunyang Xiong, Ernie Chang, Yangyang Shi, Raghuraman Krishnamoorthi, Liangzhen Lai, Vikas Chandra |<img width="1002" alt="image" src="figures/MobileLLM.png"> |[Paper](https://arxiv.org/abs/2402.14905)|
+|[Think Big, Generate Quick: LLM-to-SLM for Fast Autoregressive Decoding](https://arxiv.org/abs/2402.16844) <br> Benjamin Bergner, Andrii Skliar, Amelie Royer, Tijmen Blankevoort, Yuki Asano, Babak Ehteshami Bejnordi |<img width="1002" alt="image" src="https://arxiv.org/html/2402.16844v1/x1.png"> |[Paper](https://arxiv.org/abs/2402.16844)|
 
 ## Text Compression
 | Title & Authors | Introduction | Links |
@@ -264,7 +265,7 @@ If you'd like to include your paper, or need to update any details such as confe
 |[TensorGPT: Efficient Compression of the Embedding Layer in LLMs based on the Tensor-Train Decomposition](https://arxiv.org/abs/2307.00526) <br> Mingxue Xu, Yao Lei Xu, Danilo P. Mandic |<img width="1002" alt="image" src="figures/TT-SVD.png"> |[Paper](https://arxiv.org/abs/2307.00526)|
 |[LORD: Low Rank Decomposition Of Monolingual Code LLMs For One-Shot Compression](https://arxiv.org/abs/2309.14021) <br> Ayush Kaushal, Tejas Vaidhya, Irina Rish |<img width="302" alt="image" src="figures/LoRD.png"> |[Paper](https://arxiv.org/abs/2309.14021)<br>[Project](https://huggingface.co/nolanoAI)|
 |[![Star](https://img.shields.io/github/stars/algorithms/llm-rom.svg?style=social&label=Star)](https://github.com/algorithms/llm-rom)<br>[Rethinking Compression: Reduced Order Modelling of Latent Features in Large Language Models](https://arxiv.org/abs/2312.07046) <br> Arnav Chavan, Nahush Lele, Deepak Gupta |<img width="1002" alt="image" src="figures/LLM-ROM.png"> |[Github](https://github.com/transmuteAI/trailmet/tree/main/trailmet/algorithms/llm-rom) <br> [Paper](https://arxiv.org/abs/2312.07046)|
-
+|[Data-free Weight Compress and Denoise for Large Language Models](https://arxiv.org/abs/2402.16319) <br> Runyu Peng, Yunhua Zhou, Qipeng Guo, Yang Gao, Hang Yan, Xipeng Qiu, Dahua Lin |<img width="1002" alt="image" src="https://arxiv.org/html/2402.16319v1/extracted/5401579/icml2024/denoise.png"> |[Paper](https://arxiv.org/abs/2402.16319)|
 
 
 ## Hardware/System
