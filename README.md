@@ -316,7 +316,7 @@ If you'd like to include your paper, or need to update any details such as confe
 * [![Star](https://img.shields.io/github/stars/flexflow/FlexFlow.svg?style=social&label=Star)](https://github.com/flexflow/FlexFlow) [FlexLLM: A System for Co-Serving Large Language Model Inference and Parameter-Efficient Finetuning](https://arxiv.org/abs/2402.18789). Xupeng Miao, Gabriele Oliaro, Xinhao Cheng, Mengdi Wu, Colin Unger, Zhihao Jia. [[Paper]](https://arxiv.org/abs/2402.18789)[[Github]](https://github.com/flexflow/FlexFlow)
 * [BurstAttention: An Efficient Distributed Attention Framework for Extremely Long Sequences](https://arxiv.org/abs/2403.09347). Sun Ao, Weilin Zhao, Xu Han, Cheng Yang, Zhiyuan Liu, Chuan Shi, Maosong Sun, Shengnan Wang, Teng Su. [[Paper]](https://arxiv.org/abs/2403.09347)
 * [![Star](https://img.shields.io/github/stars/sgl-project/sglang.svg?style=social&label=Star)](https://github.com/sgl-project/sglang/tree/main) [Efficiently Programming Large Language Models using SGLang](https://arxiv.org/abs/2312.07104). Lianmin Zheng*, Liangsheng Yin, Zhiqiang Xie, Jeff Huang, Chuyue Sun, Cody Hao Yu, Shiyi Cao, Christos Kozyrakis, Ion Stoica, Joseph E. Gonzalez, Clark Barrett, Ying Sheng*. [[Paper]](https://arxiv.org/abs/2312.07104) [[Github]](https://github.com/sgl-project/sglang/tree/main)
-
+* [MELTing point: Mobile Evaluation of Language Transformers](https://arxiv.org/abs/2403.12844). MELTing point: Mobile Evaluation of Language Transformers. [[Paper]](https://arxiv.org/abs/2403.12844)
 
 ## Tuning
 * [CPET: Effective Parameter-Efficient Tuning for Compressed Large Language Models](https://arxiv.org/abs/2307.07705). Weilin Zhao, Yuxiang Huang, Xu Han, Zhiyuan Liu, Zhengyan Zhang, Maosong Sun. [[Paper]](https://arxiv.org/abs/2307.07705)
@@ -332,6 +332,7 @@ If you'd like to include your paper, or need to update any details such as confe
 * [Sparse MeZO: Less Parameters for Better Performance in Zeroth-Order LLM Fine-Tuning](https://arxiv.org/abs/2402.15751). Yong Liu, Zirui Zhu, Chaoyu Gong, Minhao Cheng, Cho-Jui Hsieh, Yang You. [[Paper]](https://arxiv.org/abs/2402.15751)
 * [![Star](https://img.shields.io/github/stars/WooSunghyeon/dropbp.svg?style=social&label=Star)](https://github.com/WooSunghyeon/dropbp) [DropBP: Accelerating Fine-Tuning of Large Language Models by Dropping Backward Propagation](https://arxiv.org/abs/2402.17812). Sunghyeon Woo, Baeseong Park, Byeongwook Kim, Minjung Jo, Sejung Kwon, Dongsuk Jeon, Dongsoo Lee. [[Paper]](https://arxiv.org/abs/2402.17812)[[Github]](https://github.com/WooSunghyeon/dropbp)
 * [LoRA-SP: Streamlined Partial Parameter Adaptation for Resource-Efficient Fine-Tuning of Large Language Models](https://arxiv.org/abs/2403.08822). Yichao Wu, Yafei Xiang, Shuning Huo, Yulu Gong, Penghao Liang. [[Paper]](https://arxiv.org/abs/2403.08822)
+* [Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey](https://arxiv.org/abs/2403.14608). Zeyu Han, Chao Gao, Jinyang Liu, Jeff (Jun)Zhang, Sai Qian Zhang. [[Paper]](https://arxiv.org/abs/2403.14608)
 
 
 ## Survey
