@@ -244,6 +244,7 @@ If you'd like to include your paper, or need to update any details such as confe
 |[Keyformer: KV Cache Reduction through Key Tokens Selection for Efficient Generative Inference](https://arxiv.org/abs/2403.09054) <br> Muhammad Adnan, Akhil Arunkumar, Gaurav Jain, Prashant J. Nair, Ilya Soloveychik, Purushotham Kamath |<img width="1002" alt="image" src="https://arxiv.org/html/2403.09054v1/x2.png"> |[Paper](https://arxiv.org/abs/2403.09054)|
 |[Recurrent Drafter for Fast Speculative Decoding in Large Language Models](https://arxiv.org/abs/2403.09919) <br> Aonan Zhang, Chong Wang, Yi Wang, Xuanyu Zhang, Yunfei Cheng |<img width="1002" alt="image" src="https://arxiv.org/html/2403.09919v1/x2.png"> |[Paper](https://arxiv.org/abs/2403.09919)|
 |[Optimal Block-Level Draft Verification for Accelerating Speculative Decoding](https://arxiv.org/abs/2403.10444) <br> Ziteng Sun, Jae Hun Ro, Ahmad Beirami, Ananda Theertha Suresh |<img width="1002" alt="image" src="https://arxiv.org/html/2403.10444v1/x1.png"> |[Paper](https://arxiv.org/abs/2403.10444)|
+|[Hierarchical Skip Decoding for Efficient Autoregressive Text Generation](https://arxiv.org/abs/2403.14919) <br> Yunqi Zhu, Xuebing Yang, Yuanyuan Wu, Wensheng Zhang |<img width="1002" alt="image" src="figures/.png"> |[Paper](https://arxiv.org/abs/2403.14919)|
 
 ## Efficient MOE
 | Title & Authors | Introduction | Links |
