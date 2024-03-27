@@ -247,6 +247,7 @@ If you'd like to include your paper, or need to update any details such as confe
 |[Recurrent Drafter for Fast Speculative Decoding in Large Language Models](https://arxiv.org/abs/2403.09919) <br> Aonan Zhang, Chong Wang, Yi Wang, Xuanyu Zhang, Yunfei Cheng |<img width="1002" alt="image" src="https://arxiv.org/html/2403.09919v1/x2.png"> |[Paper](https://arxiv.org/abs/2403.09919)|
 |[Optimal Block-Level Draft Verification for Accelerating Speculative Decoding](https://arxiv.org/abs/2403.10444) <br> Ziteng Sun, Jae Hun Ro, Ahmad Beirami, Ananda Theertha Suresh |<img width="1002" alt="image" src="https://arxiv.org/html/2403.10444v1/x1.png"> |[Paper](https://arxiv.org/abs/2403.10444)|
 |[Hierarchical Skip Decoding for Efficient Autoregressive Text Generation](https://arxiv.org/abs/2403.14919) <br> Yunqi Zhu, Xuebing Yang, Yuanyuan Wu, Wensheng Zhang |<img width="1002" alt="image" src="https://arxiv.org/html/2403.14919v1/x2.png"> |[Paper](https://arxiv.org/abs/2403.14919)|
+|[ALISA: Accelerating Large Language Model Inference via Sparsity-Aware KV Caching](https://arxiv.org/abs/2403.17312) <br> Youpeng Zhao, Di Wu, Jun Wang |<img width="1002" alt="image" src="https://arxiv.org/html/2403.17312v1/extracted/5495383/imgs/background_imgs/figure2_revised.png"> |[Paper](https://arxiv.org/abs/2403.17312)|
 
 ## Efficient MOE
 | Title & Authors | Introduction | Links |
@@ -282,6 +283,7 @@ If you'd like to include your paper, or need to update any details such as confe
 |[ProPD: Dynamic Token Tree Pruning and Generation for LLM Parallel Decoding](https://arxiv.org/abs/2402.13485) <br> Shuzhang Zhong, Zebin Yang, Meng Li, Ruihao Gong, Runsheng Wang, Ru Huang |<img width="1002" alt="image" src="figures/ProPD.png"> |[Paper](https://arxiv.org/abs/2402.13485)|
 |[Learning to Compress Prompt in Natural Language Formats](https://arxiv.org/abs/2402.18700) <br> Yu-Neng Chuang, Tianwei Xing, Chia-Yuan Chang, Zirui Liu, Xun Chen, Xia Hu |<img width="1002" alt="image" src="https://arxiv.org/html/2402.18700v1/x1.png"> |[Paper](https://arxiv.org/abs/2402.18700)|
 |[LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression](https://arxiv.org/abs/2403.12968) <br> Zhuoshi Pan, Qianhui Wu, Huiqiang Jiang, Menglin Xia, Xufang Luo, Jue Zhang, Qingwei Lin, Victor Rühle, Yuqing Yang, Chin-Yew Lin, H. Vicky Zhao, Lili Qiu, Dongmei Zhang |<img width="1002" alt="image" src="https://arxiv.org/html/2403.12968v1/x1.png"> |[Paper](https://arxiv.org/abs/2403.12968)|
+|[![Star](https://img.shields.io/github/stars/3DAgentWorld/Toolkit-for-Prompt-Compression.svg?style=social&label=Star)](https://github.com/3DAgentWorld/Toolkit-for-Prompt-Compression)<br>[PCToolkit: A Unified Plug-and-Play Prompt Compression Toolkit of Large Language Models](https://arxiv.org/abs/2403.17411) <br> Jinyi Li, Yihuai Lan, Lei Wang, Hao Wang |<img width="1002" alt="image" src="https://github.com/3DAgentWorld/Toolkit-for-Prompt-Compression/raw/main/imgs/architecture.png"> |[Github](https://github.com/3DAgentWorld/Toolkit-for-Prompt-Compression) <br> [Paper](https://arxiv.org/abs/2403.17411)|
 
 ## Low-Rank Decomposition
 | Title & Authors | Introduction | Links |
@@ -358,6 +360,7 @@ If you'd like to include your paper, or need to update any details such as confe
 |  Platform | Access |
 |:--|  :----: |
 | Huggingface LLM Perf Leaderboard | [[Source](https://huggingface.co/spaces/optimum/llm-perf-leaderboard)] |
+| LLM Safety Leaderboard (for compressed models)} [[Source](https://huggingface.co/spaces/AI-Secure/llm-trustworthy-leaderboard)] |
 | LLMPerf Leaderboard | [[Source](https://github.com/ray-project/llmperf-leaderboard)] |
 | LLM API Hosts Leaderboard | [[Source](https://artificialanalysis.ai/leaderboards/hosts)] |
 | ML.ENERGY Leaderboard | [[Source](https://huggingface.co/spaces/ml-energy/leaderboard)] |
