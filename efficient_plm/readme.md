@@ -7,6 +7,7 @@ A curated list for **Efficient Pre-trained Language Models**:
   - [Inference Acceleration](#inference-acceleration)
   - [Structure Design](#structure-design)
   - [Hardware](#hardware)
+  - [Evaluation](#evaluation)
   - [Others](#others)
 
 This part is still under construction to include papers published from 2018-2023.
@@ -46,6 +47,7 @@ Chaofan Tao, Lu Hou, Haoli Bai, Jiansheng Wei, Xin Jiang, Qun Liu, Ping Luo, Nga
 * [![Publish](https://img.shields.io/badge/Conference-NeurIPS'23%20MLNCP-blue)]() [Activity Sparsity Complements Weight Sparsity for Efficient RNN Inference](https://arxiv.org/abs/2311.07625). Rishav Mukherji, Mark Schöne, Khaleelulla Khan Nazeer, Christian Mayr, Anand Subramoney. [[Paper]](https://arxiv.org/abs/2311.07625)
 * [DSFormer: Effective Compression of Text-Transformers by Dense-Sparse Weight Factorization](https://arxiv.org/abs/2312.13211). Rahul Chand, Yashoteja Prabhu, Pratyush Kumar. [[Paper]](https://arxiv.org/abs/2312.13211)
 * [![Publish](https://img.shields.io/badge/Conference-EACL'24-blue)]() [PRILoRA: Pruned and Rank-Increasing Low-Rank Adaptation](https://arxiv.org/abs/2401.11316). Nadav Benedek, Lior Wolf. [[Paper]](https://arxiv.org/abs/2401.11316)
+* [![Publish](https://img.shields.io/badge/Conference-ICLR'24-blue)]() [The Need for Speed: Pruning Transformers with One Recipe](https://arxiv.org/abs/2403.17921). Samir Khaki, Konstantinos N. Plataniotis. [[Paper]](https://arxiv.org/abs/2403.17921)
 
 ## Quantization
 * [![Star](https://img.shields.io/github/stars/wimh966/outlier_suppression.svg?style=social&label=Star)](https://github.com/wimh966/outlier_suppression) [Outlier Suppression: Pushing the Limit of Low-bit Transformer](https://arxiv.org/abs/2209.13325). Xiuying Wei, Yunchen Zhang, Xiangguo Zhang, Ruihao Gong, Shanghang Zhang, Qi Zhang, Fengwei Yu, Xianglong Liu. [[Paper]](https://arxiv.org/abs/2209.13325)[[Github]](https://github.com/wimh966/outlier_suppression)
@@ -70,6 +72,9 @@ Chaofan Tao, Lu Hou, Haoli Bai, Jiansheng Wei, Xin Jiang, Qun Liu, Ping Luo, Nga
 
 ## Hardware
 * [![Publish](https://img.shields.io/badge/Conference-ICMLA'23-blue)]() [Quantized Transformer Language Model Implementations on Edge Devices](https://arxiv.org/abs/2310.03971). Mohammad Wali Ur Rahman, Murad Mehrab Abrar, Hunter Gibbons Copening, Salim Hariri, Sicong Shao, Pratik Satam, Soheil Salehi. [[Paper]](https://arxiv.org/abs/2310.03971)
+
+## Evaluation
+* [![Publish](https://img.shields.io/badge/Conference-EMNLP'23-blue)]() [![Star](https://img.shields.io/github/stars/wearepal/compression-subgroup.svg?style=social&label=Star)](https://github.com/wearepal/compression-subgroup) [Are Compressed Language Models Less Subgroup Robust?](https://arxiv.org/abs/2403.17811). Leonidas Gee, Andrea Zugarini, Novi Quadrianto. [[Paper]](https://arxiv.org/abs/2403.17811)[[Github]](https://github.com/wearepal/compression-subgroup)
 
 ## Others
 * [![Publish](https://img.shields.io/badge/Conference-ICML'23-blue)]() [![Star](https://img.shields.io/github/stars/weitianxin/mlp_fusion.svg?style=social&label=Star)](https://github.com/weitianxin/mlp_fusion) [NTK-approximating MLP Fusion for Efficient Language Model Fine-tuning](https://proceedings.mlr.press/v202/wei23b). Tianxin Wei, Zeming Guo, Yifan Chen, Jingrui He. [[Paper]](https://proceedings.mlr.press/v202/wei23b)[[Github]](https://github.com/weitianxin/mlp_fusion)
