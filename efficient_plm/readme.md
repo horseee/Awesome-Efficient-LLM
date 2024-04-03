@@ -48,6 +48,7 @@ Chaofan Tao, Lu Hou, Haoli Bai, Jiansheng Wei, Xin Jiang, Qun Liu, Ping Luo, Nga
 * [DSFormer: Effective Compression of Text-Transformers by Dense-Sparse Weight Factorization](https://arxiv.org/abs/2312.13211). Rahul Chand, Yashoteja Prabhu, Pratyush Kumar. [[Paper]](https://arxiv.org/abs/2312.13211)
 * [![Publish](https://img.shields.io/badge/Conference-EACL'24-blue)]() [PRILoRA: Pruned and Rank-Increasing Low-Rank Adaptation](https://arxiv.org/abs/2401.11316). Nadav Benedek, Lior Wolf. [[Paper]](https://arxiv.org/abs/2401.11316)
 * [![Publish](https://img.shields.io/badge/Conference-ICLR'24-blue)]() [The Need for Speed: Pruning Transformers with One Recipe](https://arxiv.org/abs/2403.17921). Samir Khaki, Konstantinos N. Plataniotis. [[Paper]](https://arxiv.org/abs/2403.17921)
+* [NeuroPrune: A Neuro-inspired Topological Sparse Training Algorithm for Large Language Models](https://arxiv.org/abs/2404.01306). Amit Dhurandhar, Tejaswini Pedapati, Ronny Luss, Soham Dan, Aurelie Lozano, Payel Das, Georgios Kollias. [[Paper]](https://arxiv.org/abs/2404.01306)
 
 ## Quantization
 * [![Star](https://img.shields.io/github/stars/wimh966/outlier_suppression.svg?style=social&label=Star)](https://github.com/wimh966/outlier_suppression) [Outlier Suppression: Pushing the Limit of Low-bit Transformer](https://arxiv.org/abs/2209.13325). Xiuying Wei, Yunchen Zhang, Xiangguo Zhang, Ruihao Gong, Shanghang Zhang, Qi Zhang, Fengwei Yu, Xianglong Liu. [[Paper]](https://arxiv.org/abs/2209.13325)[[Github]](https://github.com/wimh966/outlier_suppression)
