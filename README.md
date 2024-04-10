@@ -392,6 +392,7 @@ If you'd like to include your paper, or need to update any details such as confe
 | LLMPerf Leaderboard | [[Source](https://github.com/ray-project/llmperf-leaderboard)] |
 | LLM API Hosts Leaderboard | [[Source](https://artificialanalysis.ai/leaderboards/hosts)] |
 | ML.ENERGY Leaderboard | [[Source](https://huggingface.co/spaces/ml-energy/leaderboard)] |
+| MOE LLM GPU-Poor Leaderboard | [[Source](https://huggingface.co/spaces/PingAndPasquale/MOE-LLM-GPU-Poor-Leaderboard)] |
 | Models Leaderboard | [[Source](https://artificialanalysis.ai/leaderboards/models)] |
 | Provider Leaderboard | [[Source](https://leaderboard.withmartian.com)] |
 
