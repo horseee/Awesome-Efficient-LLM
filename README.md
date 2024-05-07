@@ -137,6 +137,7 @@ If you'd like to include your paper, or need to update any details such as confe
 |[CATS: Contextually-Aware Thresholding for Sparsity in Large Language Models](https://arxiv.org/abs/2404.08763) <br> Je-Yong Lee, Donghyun Lee, Genghan Zhang, Mo Tiwari, Azalia Mirhoseini |<img width="1002" alt="image" src="https://arxiv.org/html/2404.08763v1/x5.png"> |[Paper](https://arxiv.org/abs/2404.08763)|
 |[Layer Skip: Enabling Early Exit Inference and Self-Speculative Decoding](https://arxiv.org/abs/2404.16710) <br> Mostafa Elhoushi, Akshat Shrivastava, Diana Liskovich, Basil Hosmer et al|<img width="1002" alt="image" src="figures/LayerSkip.png"> |[Paper](https://arxiv.org/abs/2404.16710)|
 |[Enabling High-Sparsity Foundational Llama Models with Efficient Pretraining and Deployment](https://arxiv.org/abs/2405.03594) <br> Abhinav Agarwalla, Abhay Gupta, Alexandre Marques, Shubhra Pandit, Michael Goin, Eldar Kurtic, Kevin Leong, Tuan Nguyen, Mahmoud Salem, Dan Alistarh, Sean Lie, Mark Kurtz |<img width="1002" alt="image" src="figures/high_sparsity_pretraining.png"> |[Paper](https://arxiv.org/abs/2405.03594)|
+|[Dependency-Aware Semi-Structured Sparsity of GLU Variants in Large Language Models](https://arxiv.org/abs/2405.01943) <br> Zhiyu Guo, Hidetaka Kamigaito, Taro Wanatnabe |<img width="1002" alt="image" src="figures/DaSS.png"> |[Paper](https://arxiv.org/abs/2405.01943)|
 
 ## Quantization
 | Title & Authors | Introduction | Links |
@@ -376,6 +377,7 @@ If you'd like to include your paper, or need to update any details such as confe
 * [LoongServe: Efficiently Serving Long-context Large Language Models with Elastic Sequence Parallelism](https://arxiv.org/abs/2404.09526). Bingyang Wu, Shengyu Liu, Yinmin Zhong, Peng Sun, Xuanzhe Liu, Xin Jin. [[Paper]](https://arxiv.org/abs/2404.09526)
 * [![Star](https://img.shields.io/github/stars/tyler-griggs/melange-release.svg?style=social&label=Star)](https://github.com/tyler-griggs/melange-release) [Mélange: Cost Efficient Large Language Model Serving by Exploiting GPU Heterogeneity](https://arxiv.org/abs/2404.14527). Tyler Griggs, Xiaoxuan Liu, Jiaxiang Yu, Doyoung Kim, Wei-Lin Chiang, Alvin Cheung, Ion Stoica. [[Paper]](https://arxiv.org/abs/2404.14527)[[Github]](https://github.com/tyler-griggs/melange-release)
 * [Expert Router: Orchestrating Efficient Language Model Inference through Prompt Classification](https://arxiv.org/abs/2404.15153). Josef Pichlmeier, Philipp Ross, Andre Luckow. [[Paper]](https://arxiv.org/abs/2404.15153)
+* [Efficient and Economic Large Language Model Inference with Attention Offloading](https://arxiv.org/abs/2405.01814). Shaoyuan Chen, Yutong Lin, Mingxing Zhang, Yongwei Wu. [[Paper]](https://arxiv.org/abs/2405.01814)
 
 ## Tuning
 * [CPET: Effective Parameter-Efficient Tuning for Compressed Large Language Models](https://arxiv.org/abs/2307.07705). Weilin Zhao, Yuxiang Huang, Xu Han, Zhiyuan Liu, Zhengyan Zhang, Maosong Sun. [[Paper]](https://arxiv.org/abs/2307.07705)
