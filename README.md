@@ -437,6 +437,7 @@ If you'd like to include your paper, or need to update any details such as confe
 | LLM API Hosts Leaderboard | [[Source](https://artificialanalysis.ai/leaderboards/hosts)] |
 | ML.ENERGY Leaderboard | [[Source](https://huggingface.co/spaces/ml-energy/leaderboard)] |
 | Models Leaderboard | [[Source](https://artificialanalysis.ai/leaderboards/models)] |
+| Open MOE LLM Leaderboard | [[Source](https://huggingface.co/spaces/sparse-generative-ai/open-moe-llm-leaderboard)] |
 | Provider Leaderboard | [[Source](https://leaderboard.withmartian.com)] |
 
 
