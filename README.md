@@ -82,6 +82,7 @@ If you'd like to include your paper, or need to update any details such as confe
 |[Rethinking Kullback-Leibler Divergence in Knowledge Distillation for Large Language Models](https://arxiv.org/abs/2404.02657) <br> Taiqiang Wu, Chaofan Tao, Jiahao Wang, Zhe Zhao, Ngai Wong |<img width="1002" alt="image" src="figures/rethink-AKL.png"> |[Paper](https://arxiv.org/abs/2404.02657) <br> [Blog-Eng](https://zhuanlan.zhihu.com/p/690804722)<br> [Blog-中](https://zhuanlan.zhihu.com/p/690748958)|
 |[Post-Semantic-Thinking: A Robust Strategy to Distill Reasoning Capacity from Large Language Models](https://arxiv.org/abs/2404.09170) <br> Xiaoshu Chen, Sihang Zhou, Ke Liang, Xinwang Liu |<img width="1002" alt="image" src="https://arxiv.org/html/2404.09170v2/x1.png"> |[Paper](https://arxiv.org/abs/2404.09170)|
 |[Compressing Long Context for Enhancing RAG with AMR-based Concept Distillation](https://arxiv.org/abs/2405.03085) <br> Kaize Shi, Xueyao Sun, Qing Li, Guandong Xu |<img width="1002" alt="image" src="figures/concept_RAG.png"> |[Paper](https://arxiv.org/abs/2405.03085)|
+|[Distilling Instruction-following Abilities of Large Language Models with Task-aware Curriculum Planning](https://arxiv.org/abs/2405.13448) <br> Yuanhao Yue, Chengyu Wang, Jun Huang, Peng Wang |<img width="1002" alt="image" src="figures/TAPIR.png"> |[Paper](https://arxiv.org/abs/2405.13448)|
 
 
 ## Network Pruning
@@ -318,6 +319,8 @@ If you'd like to include your paper, or need to update any details such as confe
 
 
 ## KV Cache Compression
+| Title & Authors | Introduction | Links |
+|:--|  :----: | :---:|
 |[![Star](https://img.shields.io/github/stars/KVQuant/.svg?style=social&label=Star)](https://github.com/KVQuant/)<br>[KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization](https://arxiv.org/abs/2401.18079) <br> Coleman Hooper, Sehoon Kim, Hiva Mohammadzadeh, Michael W. Mahoney, Yakun Sophia Shao, Kurt Keutzer, Amir Gholami |<img width="1002" alt="image" src="figures/KVQuant.png"> |[Github](https://github.com/SqueezeAILab/KVQuant/) <br> [Paper](https://arxiv.org/abs/2401.18079)|
 |[WKVQuant: Quantizing Weight and Key/Value Cache for Large Language Models Gains More](https://arxiv.org/abs/2402.12065) <br> Yuxuan Yue, Zhihang Yuan, Haojie Duanmu, Sifan Zhou, Jianlong Wu, Liqiang Nie |<img width="302" alt="image" src="figures/WKVQuant.png"> |[Paper](https://arxiv.org/abs/2402.12065)|
 |[DB-LLM: Accurate Dual-Binarization for Efficient LLMs](https://arxiv.org/abs/2402.11960) <br> Hong Chen, Chengtao Lv, Liang Ding, Haotong Qin, Xiabin Zhou, Yifu Ding, Xuebo Liu, Min Zhang, Jinyang Guo, Xianglong Liu, Dacheng Tao |<img width="1002" alt="image" src="figures/DB-LLM.png"> |[Paper](https://arxiv.org/abs/2402.11960)|
@@ -334,6 +337,8 @@ If you'd like to include your paper, or need to update any details such as confe
 |[MiniCache: KV Cache Compression in Depth Dimension for Large Language Models](https://arxiv.org/abs/2405.14366) <br> Akide Liu, Jing Liu, Zizheng Pan, Yefei He, Gholamreza Haffari, Bohan Zhuang |<img width="1002" alt="image" src="figures/minicache.png"> |[Paper](https://arxiv.org/abs/2405.14366)|
 |[![Star](https://img.shields.io/github/stars/lpyhdzx/DecoQuant_code.svg?style=social&label=Star)](https://github.com/lpyhdzx/DecoQuant_code)<br>[Unlocking Data-free Low-bit Quantization with Matrix Decomposition for KV Cache Compression](https://arxiv.org/abs/2405.12591) <br> Peiyu Liu, Ze-Feng Gao, Wayne Xin Zhao, Yipeng Ma, Tao Wang, Ji-Rong Wen |<img width="1002" alt="image" src="figures/DecoQuant.png"> |[Github](https://github.com/lpyhdzx/DecoQuant_code) <br> [Paper](https://arxiv.org/abs/2405.12591)|
 |[![Star](https://img.shields.io/github/stars/mutonix/pyramidinfer.svg?style=social&label=Star)](https://github.com/mutonix/pyramidinfer)[![Publish](https://img.shields.io/badge/Conference-ACL'24-blue)]()<br>[PyramidInfer: Pyramid KV Cache Compression for High-throughput LLM Inference](https://arxiv.org/abs/2405.12532) <br> Dongjie Yang, XiaoDong Han, Yan Gao, Yao Hu, Shilin Zhang, Hai Zhao |<img width="1002" alt="image" src="figures/PyramidInfer.png"> |[Github](https://github.com/mutonix/pyramidinfer) <br> [Paper](https://arxiv.org/abs/2405.12532)|
+|[Reducing Transformer Key-Value Cache Size with Cross-Layer Attention](https://arxiv.org/abs/2405.12981) <br> William Brandon, Mayank Mishra, Aniruddha Nrusimha, Rameswar Panda, Jonathan Ragan Kelly |<img width="1002" alt="image" src="figures/CLA.png"> |[Paper](https://arxiv.org/abs/2405.12981)|
+|[![Star](https://img.shields.io/github/stars/whyNLP/LCKV.svg?style=social&label=Star)](https://github.com/whyNLP/LCKV)[![Publish](https://img.shields.io/badge/Conference-ACL'24-blue)]()<br>[Layer-Condensed KV Cache for Efficient Inference of Large Language Models](https://arxiv.org/abs/2405.10637) <br> Haoyi Wu, Kewei Tu |<img width="1002" alt="image" src="figures/LCKV.png"> |[Github](https://github.com/whyNLP/LCKV) <br> [Paper](https://arxiv.org/abs/2405.10637)|
 
 ## Text Compression
 | Title & Authors | Introduction | Links |
