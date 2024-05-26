@@ -83,6 +83,7 @@ If you'd like to include your paper, or need to update any details such as confe
 |[Post-Semantic-Thinking: A Robust Strategy to Distill Reasoning Capacity from Large Language Models](https://arxiv.org/abs/2404.09170) <br> Xiaoshu Chen, Sihang Zhou, Ke Liang, Xinwang Liu |<img width="1002" alt="image" src="https://arxiv.org/html/2404.09170v2/x1.png"> |[Paper](https://arxiv.org/abs/2404.09170)|
 |[Compressing Long Context for Enhancing RAG with AMR-based Concept Distillation](https://arxiv.org/abs/2405.03085) <br> Kaize Shi, Xueyao Sun, Qing Li, Guandong Xu |<img width="1002" alt="image" src="figures/concept_RAG.png"> |[Paper](https://arxiv.org/abs/2405.03085)|
 |[Distilling Instruction-following Abilities of Large Language Models with Task-aware Curriculum Planning](https://arxiv.org/abs/2405.13448) <br> Yuanhao Yue, Chengyu Wang, Jun Huang, Peng Wang |<img width="1002" alt="image" src="figures/TAPIR.png"> |[Paper](https://arxiv.org/abs/2405.13448)|
+|[![Star](https://img.shields.io/github/stars/WangXFng/RDRec.svg?style=social&label=Star)](https://github.com/WangXFng/RDRec)[![Publish](https://img.shields.io/badge/Conference-ACL'24-blue)]()<br>[RDRec: Rationale Distillation for LLM-based Recommendation](https://arxiv.org/abs/2405.10587) <br> Xinfeng Wang, Jin Cui, Yoshimi Suzuki, Fumiyo Fukumoto |<img width="1002" alt="image" src="figures/RDRec.png"> |[Github](https://github.com/WangXFng/RDRec) <br> [Paper](https://arxiv.org/abs/2405.10587)|
 
 
 ## Network Pruning
@@ -285,6 +286,7 @@ If you'd like to include your paper, or need to update any details such as confe
 |[Accelerating Speculative Decoding using Dynamic Speculation Length](https://arxiv.org/abs/2405.04304) <br> Jonathan Mamou, Oren Pereg, Daniel Korat, Moshe Berchansky, Nadav Timor, Moshe Wasserblat, Roy Schwartz |<img width="1002" alt="image" src="figures/DISCO_2.png"> |[Paper](https://arxiv.org/abs/2405.04304)|
 |[Clover: Regressive Lightweight Speculative Decoding with Sequential Knowledge](https://arxiv.org/abs/2405.00263) <br> Bin Xiao, Chunan Shi, Xiaonan Nie, Fan Yang, Xiangwei Deng, Lei Su, Weipeng Chen, Bin Cui |<img width="1002" alt="image" src="figures/clover.png"> |[Paper](https://arxiv.org/abs/2405.00263)|
 |[![Star](https://img.shields.io/github/stars/niyunsheng/EMS-SD.svg?style=social&label=Star)](https://github.com/niyunsheng/EMS-SD)<br>[EMS-SD: Efficient Multi-sample Speculative Decoding for Accelerating Large Language Models](https://arxiv.org/abs/2405.07542) <br> Yunsheng Ni, Chuanjian Liu, Yehui Tang, Kai Han, Yunhe Wang |<img width="202" alt="image" src="https://github.com/niyunsheng/EMS-SD/raw/main/assets/fig2-method.png"> |[Github](https://github.com/niyunsheng/EMS-SD) <br> [Paper](https://arxiv.org/abs/2405.07542)|
+|[Distributed Speculative Inference of Large Language Models](https://arxiv.org/abs/2405.14105) <br> Nadav Timor, Jonathan Mamou, Daniel Korat, Moshe Berchansky, Oren Pereg, Moshe Wasserblat, Tomer Galanti, Michal Gordon, David Harel |<img width="1002" alt="image" src="figures/DSI.png"> |[Paper](https://arxiv.org/abs/2405.14105)|
 
 ## Efficient MOE
 | Title & Authors | Introduction | Links |
@@ -439,6 +441,7 @@ If you'd like to include your paper, or need to update any details such as confe
 * [![Star](https://img.shields.io/github/stars/nyunAI/Faster-LLM-Survey.svg?style=social&label=Star)](https://github.com/nyunAI/Faster-LLM-Survey) [Faster and Lighter LLMs: A Survey on Current Challenges and Way Forward](https://arxiv.org/abs/2402.01799). Arnav Chavan, Raghav Magazine, Shubham Kushwaha, Mérouane Debbah, Deepak Gupta. [[Paper]](https://arxiv.org/abs/2402.01799)[[Github]](https://github.com/nyunAI/Faster-LLM-Survey)
 * [Efficient Prompting Methods for Large Language Models: A Survey](https://arxiv.org/abs/2404.01077). Kaiyan Chang, Songcheng Xu, Chenglong Wang, Yingfeng Luo, Tong Xiao, Jingbo Zhu. [[Paper]](https://arxiv.org/abs/2404.01077)
 * [A Survey on Efficient Inference for Large Language Models](https://arxiv.org/abs/2404.14294). Zixuan Zhou, Xuefei Ning, Ke Hong, Tianyu Fu, Jiaming Xu, Shiyao Li, Yuming Lou, Luning Wang, Zhihang Yuan, Xiuhong Li, Shengen Yan, Guohao Dai, Xiao-Ping Zhang, Yuhan Dong, Yu Wang. [[Paper]](https://arxiv.org/abs/2404.14294)
+* [A Comprehensive Survey of Accelerated Generation Techniques in Large Language Models](https://arxiv.org/abs/2405.13019). Mahsa Khoshnoodi, Vinija Jain, Mingye Gao, Malavika Srikanth, Aman Chadha. [[Paper]](https://arxiv.org/abs/2405.13019)
 
 ## Leaderboard
 |  Platform | Access |
