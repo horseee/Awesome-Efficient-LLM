@@ -25,7 +25,7 @@ You can check out all the papers by selecting the sub-area you're interested in.
 In light of the numerous publications that conducts experiments using PLMs (such as BERT, BART) currently, a new subdirectory [efficient_plm/](efficient_plm/) is created to house papers that are applicable to PLMs but have yet to be verified for their effectiveness on LLMs (not implying that they are not suitable on LLM). 
 
 
-#### Paper from 05/26/2024 - Now
+## Paper from 05/26/2024 - Now
 
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
