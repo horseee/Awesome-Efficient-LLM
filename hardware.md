@@ -32,3 +32,4 @@
 * [Expert Router: Orchestrating Efficient Language Model Inference through Prompt Classification](https://arxiv.org/abs/2404.15153). Josef Pichlmeier, Philipp Ross, Andre Luckow. [[Paper]](https://arxiv.org/abs/2404.15153)
 * [Efficient and Economic Large Language Model Inference with Attention Offloading](https://arxiv.org/abs/2405.01814). Shaoyuan Chen, Yutong Lin, Mingxing Zhang, Yongwei Wu. [[Paper]](https://arxiv.org/abs/2405.01814)
 * [![Publish](https://img.shields.io/badge/Conference-OSDI'24-blue)]() [Parrot: Efficient Serving of LLM-based Applications with Semantic Variable](https://arxiv.org/abs/2405.19888). Chaofan Lin, Zhenhua Han, Chengruidong Zhang, Yuqing Yang, Fan Yang, Chen Chen, Lili Qiu. [[Paper]](https://arxiv.org/abs/2405.19888)
+* [PowerInfer-2: Fast Large Language Model Inference on a Smartphone](https://arxiv.org/abs/2406.06282). Zhenliang Xue, Yixin Song, Zeyu Mi, Le Chen, Yubin Xia, Haibo Chen. [[Paper]](https://arxiv.org/abs/2406.06282)
