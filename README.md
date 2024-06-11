@@ -3,7 +3,7 @@ A curated list for **Efficient Large Language Models**
 
 ## Full List
   - [Knowledge Distillation](knowledge_distillation.md)
-  - [Network Pruning](pruning.md)
+  - [Network Pruning / Sparsity](pruning.md)
   - [Quantization](quantization.md)
   - [Inference Acceleration](inference_acceleration.md)
   - [Efficient MOE](efficient_moe.md)
@@ -11,7 +11,7 @@ A curated list for **Efficient Large Language Models**
   - [KV Cache Compression](kv_cache_compression.md)
   - [Text Compression](text_compression.md)
   - [Low-Rank Decomposition](low_rank_decomposition.md)
-  - [Hardware/System](hardware.md)
+  - [Hardware / System](hardware.md)
   - [Tuning](tuning.md)
   - [Survey](survey.md)
   - [Leaderboard](leaderboard.md)
@@ -33,7 +33,9 @@ In light of the numerous publications that conduct experiments using PLMs (such 
 |:--|  :----: | :---:|
 |**Knowledge Distillation** | | |
 |[LLM and GNN are Complementary: Distilling LLM for Multimodal Graph Learning](https://arxiv.org/abs/2406.01032) <br> Junjie Xu, Zongyu Wu, Minhua Lin, Xiang Zhang, Suhang Wang |<img width="1002" alt="image" src="https://arxiv.org/html/2406.01032v1/x1.png"> |[Paper](https://arxiv.org/abs/2406.01032)|[//]: #06/05
-|**Network Pruning** | | |
+|**Network Pruning / Sparsity** | | |
+|[Turbo Sparse: Achieving LLM SOTA Performance with Minimal Activated Parameters](https://arxiv.org/abs/2406.05955) <br> Yixin Song, Haotong Xie, Zhengyan Zhang, Bo Wen, Li Ma, Zeyu Mi, Haibo Chen |<img width="1002" alt="image" src="https://arxiv.org/html/2406.05955v1/x2.png"> |[Paper](https://arxiv.org/abs/2406.05955) <br> [Model](https://huggingface.co/PowerInfer/TurboSparse-Mixtral) |[//]: #06/11
+|[VTrans: Accelerating Transformer Compression with Variational Information Bottleneck based Pruning](https://arxiv.org/abs/2406.05276) <br> Oshin Dutta, Ritvik Gupta, Sumeet Agarwal |<img width="1002" alt="image" src="figures/VTrans.png"> |[Paper](https://arxiv.org/abs/2406.05276)|[//]: #06/11
 |[![Type](https://img.shields.io/badge/w/Quantization-39B0A9)]() [Effective Interplay between Sparsity and Quantization: From Theory to Practice](https://arxiv.org/abs/2405.20935) <br> Simla Burcu Harma, Ayan Chakraborty, Elizaveta Kostenok, Danila Mishin, Dongho Ha, Babak Falsafi, Martin Jaggi, Ming Liu, Yunho Oh, Suvinay Subramanian, Amir Yazdanbakhsh ||[Paper](https://arxiv.org/abs/2405.20935)|[//]: #06/05
 |[Large Language Model Pruning](https://arxiv.org/abs/2406.00030) <br> Hanjuan Huang, Hao-Jia Song, Hsing-Kuo Pao |<img width="1002" alt="image" src="https://arxiv.org/html/2406.00030v1/x1.png"> |[Paper](https://arxiv.org/abs/2406.00030)|[//]: #06/05
 |[FinerCut: Finer-grained Interpretable Layer Pruning for Large Language Models](https://arxiv.org/abs/2405.18218) <br> Yang Zhang, Yawei Li, Xinpeng Wang, Qianli Shen, Barbara Plank, Bernd Bischl, Mina Rezaei, Kenji Kawaguchi |<img width="1002" alt="image" src="https://arxiv.org/html/2405.18218v1/x1.png"> |[Paper](https://arxiv.org/abs/2405.18218)|  [//]: #05/29
@@ -62,6 +64,7 @@ In light of the numerous publications that conduct experiments using PLMs (such 
 |[![Star](https://img.shields.io/github/stars/LINs-lab/DynMoE.svg?style=social&label=Star)](https://github.com/LINs-lab/DynMoE)<br>[Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transformer Models](https://arxiv.org/abs/2405.14297) <br> Yongxin Guo, Zhenglin Cheng, Xiaoying Tang, Tao Lin |<img width="1002" alt="image" src="figures/dynmoe.png"> |[Github](https://github.com/LINs-lab/DynMoE) <br> [Paper](https://arxiv.org/abs/2405.14297)| [//]: #05/29
 |[![Publish](https://img.shields.io/badge/Conference-ICML'24-blue)]()<br>[A Provably Effective Method for Pruning Experts in Fine-tuned Sparse Mixture-of-Experts](https://arxiv.org/pdf/2405.16646) <br> Mohammed Nowaz Rabbani Chowdhury, Meng Wang, Kaoutar El Maghraoui, Naigang Wang, Pin-Yu Chen, Christopher Carothers |<img width="1002" alt="image" src="https://arxiv.org/html/2405.16646v2/extracted/5626402/Fig/token_expert_combined_2.png"> |[Paper](https://arxiv.org/pdf/2405.16646)| [//]: #05/29
 |**KV Cache Compression** | | |
+|[![Star](https://img.shields.io/github/stars/amirzandieh/QJL.svg?style=social&label=Star)](https://github.com/amirzandieh/QJL)<br>[QJL: 1-Bit Quantized JL Transform for KV Cache Quantization with Zero Overhead](https://arxiv.org/abs/2406.03482) <br> Amir Zandieh, Majid Daliri, Insu Han |<img width="1002" alt="image" src="figures/QJL.png"> |[Github](https://github.com/amirzandieh/QJL) <br> [Paper](https://arxiv.org/abs/2406.03482)|[//]: #06/11
 |[ZipCache: Accurate and Efficient KV Cache Quantization with Salient Token Identification](https://arxiv.org/abs/2405.14256) <br> Yefei He, Luoming Zhang, Weijia Wu, Jing Liu, Hong Zhou, Bohan Zhuang |<img width="1002" alt="image" src="figures/zipcache.png"> |[Paper](https://arxiv.org/abs/2405.14256)| [//]: #05/29
 |**Hardware/System** | | |
 |[PowerInfer-2: Fast Large Language Model Inference on a Smartphone](https://arxiv.org/abs/2406.06282) <br> Zhenliang Xue, Yixin Song, Zeyu Mi, Le Chen, Yubin Xia, Haibo Chen |<img width="1002" alt="image" src="https://arxiv.org/html/2406.06282v1/x3.png"> |[Paper](https://arxiv.org/abs/2406.06282)|[//]: #06/11
