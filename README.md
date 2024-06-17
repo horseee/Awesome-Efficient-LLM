@@ -39,6 +39,7 @@ In light of the numerous publications that conduct experiments using PLMs (such 
 #### Network Pruning / Sparsity
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[ALPS: Improved Optimization for Highly Sparse One-Shot Pruning for Large Language Models](https://arxiv.org/abs/2406.07831) <br> Xiang Meng, Kayhan Behdin, Haoyue Wang, Rahul Mazumder |<img width="1002" alt="image" src="figures/ALPS.png"> |[Paper](https://arxiv.org/abs/2406.07831)|[//]: #06/18
 |[![Star](https://img.shields.io/github/stars/ShiningSord/MoreauPruner.svg?style=social&label=Star)](https://github.com/ShiningSord/MoreauPruner)<br>[MoreauPruner: Robust Pruning of Large Language Models against Weight Perturbations](https://arxiv.org/abs/2406.07017) <br> Zixiao Wang, Jingwei Zhang, Wenqian Zhao, Farzan Farnia, Bei Yu |<img width="1002" alt="image" src="https://arxiv.org/html/2406.07017v1/x1.png"> |[Github](https://github.com/ShiningSord/MoreauPruner) <br> [Paper](https://arxiv.org/abs/2406.07017)|[//]: #06/12
 |[![Star](https://img.shields.io/github/stars/pprp/Pruner-Zero.svg?style=social&label=Star)](https://github.com/pprp/Pruner-Zero)[![Publish](https://img.shields.io/badge/Conference-ICML'24-blue)]()<br>[Pruner-Zero: Evolving Symbolic Pruning Metric from scratch for Large Language Models](https://arxiv.org/abs/2406.02924) <br> Peijie Dong, Lujun Li, Zhenheng Tang, Xiang Liu, Xinglin Pan, Qiang Wang, Xiaowen Chu |<img width="1002" alt="image" src="https://raw.githubusercontent.com/pprp/Pruner-Zero/main/.github/images/pruner-zero-main-figure.png"> |[Github](https://github.com/pprp/Pruner-Zero) <br> [Paper](https://arxiv.org/abs/2406.02924)|[//]: #06/11
 |[Turbo Sparse: Achieving LLM SOTA Performance with Minimal Activated Parameters](https://arxiv.org/abs/2406.05955) <br> Yixin Song, Haotong Xie, Zhengyan Zhang, Bo Wen, Li Ma, Zeyu Mi, Haibo Chen |<img width="1002" alt="image" src="https://arxiv.org/html/2406.05955v1/x2.png"> |[Paper](https://arxiv.org/abs/2406.05955) <br> [Model](https://huggingface.co/PowerInfer/TurboSparse-Mixtral) |[//]: #06/11
@@ -109,6 +110,11 @@ In light of the numerous publications that conduct experiments using PLMs (such 
 |:--|  :----: | :---:|
 |[![Star](https://img.shields.io/github/stars/gccnlp/Light-PEFT.svg?style=social&label=Star)](https://github.com/gccnlp/Light-PEFT)[![Publish](https://img.shields.io/badge/Conference-ACL'24%20Findings-blue)]()<br>[Light-PEFT: Lightening Parameter-Efficient Fine-Tuning via Early Pruning](https://arxiv.org/abs/2406.03792) <br> Naibin Gu, Peng Fu, Xiyu Liu, Bowen Shen, Zheng Lin, Weiping Wang |<img width="1002" alt="image" src="https://arxiv.org/html/2406.03792v1/x5.png"> |[Github](https://github.com/gccnlp/Light-PEFT) <br> [Paper](https://arxiv.org/abs/2406.03792)|[//]: #06/12
 |[Zeroth-Order Fine-Tuning of LLMs with Extreme Sparsity](https://arxiv.org/abs/2406.02913) <br> Wentao Guo, Jikai Long, Yimeng Zeng, Zirui Liu, Xinyu Yang, Yide Ran, Jacob R. Gardner, Osbert Bastani, Christopher De Sa, Xiaodong Yu, Beidi Chen, Zhaozhuo Xu |<img width="1002" alt="image" src="https://arxiv.org/html/2406.02913v1/x4.png"> |[Paper](https://arxiv.org/abs/2406.02913)|[//]: #06/11
+
+#### Survey
+| Title & Authors | Introduction | Links |
+|:--|  :----: | :---:|
+|[Memory Is All You Need: An Overview of Compute-in-Memory Architectures for Accelerating Large Language Model Inference](https://arxiv.org/abs/2406.08413) <br> Christopher Wolters, Xiaoxuan Yang, Ulf Schlichtmann, Toyotaro Suzumura |<img width="1002" alt="image" src="figures/CIM.png"> |[Paper](https://arxiv.org/abs/2406.08413)|[//]: #06/18
  
 #### 💮 Contributing
 
