@@ -19,7 +19,7 @@ A curated list for **Efficient Large Language Models**
 ### Please check out all the papers by selecting the sub-area you're interested in. On this page, we're showing papers released in the past 30 days.
 
 #### 🚀 Updates
-* May 29, 2023: We've had this awesome list for a year now :smiling_face_with_three_hearts:! It's grown pretty long, so we're reorganizing it and would divide the list by their specific areas into different readme.
+* May 29, 2024: We've had this awesome list for a year now :smiling_face_with_three_hearts:! It's grown pretty long, so we're reorganizing it and would divide the list by their specific areas into different readme.
 * Sep 27, 2023: Add tag ![Publish](https://img.shields.io/badge/Conference-NeurIPS'23-blue) for papers accepted at NeurIPS'23.
 * Sep 6, 2023: Add a new subdirectory [project/](project/) to organize those projects that are designed for developing a lightweight LLM.
 * July 11, 2023:
