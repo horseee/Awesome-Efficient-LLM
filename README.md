@@ -39,6 +39,7 @@ In light of the numerous publications that conduct experiments using PLMs (such 
 #### Network Pruning / Sparsity
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[![Publish](https://img.shields.io/badge/Conference-COLT'24-blue)]()<br>[Learning Neural Networks with Sparse Activations](https://arxiv.org/abs/2406.17989) <br> Pranjal Awasthi, Nishanth Dikkala, Pritish Kamath, Raghu Meka |<img width="1002" alt="image" src="figures/.png"> |[Paper](https://arxiv.org/abs/2406.17989)|[//]: #06/28
 |[Rethinking Pruning Large Language Models: Benefits and Pitfalls of Reconstruction Error Minimization](https://arxiv.org/abs/2406.15524) <br> Sungbin Shin, Wonpyo Park, Jaeho Lee, Namhoon Lee |<img width="1002" alt="image" src="https://arxiv.org/html/2406.15524v1/x3.png"> |[Paper](https://arxiv.org/abs/2406.15524)|[//]: #06/26
 |[![Star](https://img.shields.io/github/stars/shadow_llm/.svg?style=social&label=Star)](https://github.com/shadow_llm/)<br>[ShadowLLM: Predictor-based Contextual Sparsity for Large Language Models](https://arxiv.org/abs/2406.16635) <br> Yash Akhauri, Ahmed F AbouElhamayed, Jordan Dotzel, Zhiru Zhang, Alexander M Rush, Safeen Huda, Mohamed S Abdelfattah |<img width="1002" alt="image" src="https://arxiv.org/html/2406.16635v1/x4.png"> |[Github](https://github.com/abdelfattah-lab/shadow_llm/) <br> [Paper](https://arxiv.org/abs/2406.16635)|[//]: #06/26
 |[Optimization-based Structural Pruning for Large Language Models without Back-Propagation](https://arxiv.org/abs/2406.10576) <br> Yuan Gao, Zujing Liu, Weizhong Zhang, Bo Du, Gui-Song Xia |<img width="1002" alt="image" src="https://arxiv.org/html/2406.10576v1/extracted/5669159/imgs/overview5.png"> |[Paper](https://arxiv.org/abs/2406.10576)|[//]: #06/23
@@ -116,6 +117,12 @@ In light of the numerous publications that conduct experiments using PLMs (such 
 |[Loki: Low-Rank Keys for Efficient Sparse Attention](https://arxiv.org/abs/2406.02542) <br> Prajwal Singhania, Siddharth Singh, Shwai He, Soheil Feizi, Abhinav Bhatele |<img width="1002" alt="image" src="https://arxiv.org/html/2406.02542v1/x2.png"> |[Paper](https://arxiv.org/abs/2406.02542)|[//]: #06/12
 |[![Star](https://img.shields.io/github/stars/amirzandieh/QJL.svg?style=social&label=Star)](https://github.com/amirzandieh/QJL)<br>[QJL: 1-Bit Quantized JL Transform for KV Cache Quantization with Zero Overhead](https://arxiv.org/abs/2406.03482) <br> Amir Zandieh, Majid Daliri, Insu Han |<img width="1002" alt="image" src="figures/QJL.png"> |[Github](https://github.com/amirzandieh/QJL) <br> [Paper](https://arxiv.org/abs/2406.03482)|[//]: #06/11
 |[ZipCache: Accurate and Efficient KV Cache Quantization with Salient Token Identification](https://arxiv.org/abs/2405.14256) <br> Yefei He, Luoming Zhang, Weijia Wu, Jing Liu, Hong Zhou, Bohan Zhuang |<img width="1002" alt="image" src="figures/zipcache.png"> |[Paper](https://arxiv.org/abs/2405.14256)| [//]: #05/29
+
+#### Low-Rank Decomposition
+| Title & Authors | Introduction | Links |
+|:--|  :----: | :---:|
+|[MCNC: Manifold Constrained Network Compression](https://arxiv.org/abs/2406.19301) <br> Chayne Thrash, Ali Abbasi, Parsa Nooralinejad, Soroush Abbasi Koohpayegani, Reed Andreas, Hamed Pirsiavash, Soheil Kolouri |<img width="1002" alt="image" src="https://arxiv.org/html/2406.19301v1/x1.png"> |[Paper](https://arxiv.org/abs/2406.19301)|[//]: #06/28
+
 
 #### Hardware/System
 | Title & Authors | Introduction | Links |
