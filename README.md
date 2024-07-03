@@ -16,7 +16,7 @@ A curated list for **Efficient Large Language Models**
   - [Survey](survey.md)
   - [Leaderboard](leaderboard.md)
 
-### Please check out all the papers by selecting the sub-area you're interested in. On this page, we're showing papers released in the past 30 days.
+### Please check out all the papers by selecting the sub-area you're interested in. On this page, we're showing papers released in the past 60 days.
 
 #### 🚀 Updates
 * May 29, 2024: We've had this awesome list for a year now :smiling_face_with_three_hearts:! It's grown pretty long, so we're reorganizing it and would divide the list by their specific areas into different readme.
@@ -27,7 +27,7 @@ In light of the numerous publications that conduct experiments using PLMs (such 
 
 
 
-## Paper from 05/26/2024 - Now (see Full List from 05/22/2023 [here](#full-list))
+## Paper from May 26, 2024 - Now (see Full List from May 22, 2023 [here](#full-list))
 
 #### Knowledge Distillation
 
@@ -39,6 +39,7 @@ In light of the numerous publications that conduct experiments using PLMs (such 
 #### Network Pruning / Sparsity
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[FoldGPT: Simple and Effective Large Language Model Compression Scheme](https://arxiv.org/abs/2407.00928) <br> Songwei Liu, Chao Zeng, Lianqiang Li, Chenqian Yan, Lean Fu, Xing Mei, Fangmin Chen |<img width="1002" alt="image" src="https://arxiv.org/html/2407.00928v1/extracted/5701554/flodGPT.png"> |[Paper](https://arxiv.org/abs/2407.00928)|[//]: #07/03
 |[![Publish](https://img.shields.io/badge/Conference-COLT'24-blue)]()<br>[Learning Neural Networks with Sparse Activations](https://arxiv.org/abs/2406.17989) <br> Pranjal Awasthi, Nishanth Dikkala, Pritish Kamath, Raghu Meka |<img width="1002" alt="image" src="figures/.png"> |[Paper](https://arxiv.org/abs/2406.17989)|[//]: #06/28
 |[Rethinking Pruning Large Language Models: Benefits and Pitfalls of Reconstruction Error Minimization](https://arxiv.org/abs/2406.15524) <br> Sungbin Shin, Wonpyo Park, Jaeho Lee, Namhoon Lee |<img width="1002" alt="image" src="https://arxiv.org/html/2406.15524v1/x3.png"> |[Paper](https://arxiv.org/abs/2406.15524)|[//]: #06/26
 |[![Star](https://img.shields.io/github/stars/shadow_llm/.svg?style=social&label=Star)](https://github.com/shadow_llm/)<br>[ShadowLLM: Predictor-based Contextual Sparsity for Large Language Models](https://arxiv.org/abs/2406.16635) <br> Yash Akhauri, Ahmed F AbouElhamayed, Jordan Dotzel, Zhiru Zhang, Alexander M Rush, Safeen Huda, Mohamed S Abdelfattah |<img width="1002" alt="image" src="https://arxiv.org/html/2406.16635v1/x4.png"> |[Github](https://github.com/abdelfattah-lab/shadow_llm/) <br> [Paper](https://arxiv.org/abs/2406.16635)|[//]: #06/26
@@ -98,6 +99,7 @@ In light of the numerous publications that conduct experiments using PLMs (such 
 #### Efficient MOE
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[![Star](https://img.shields.io/github/stars/imagination-research/EEP.svg?style=social&label=Star)](https://github.com/imagination-research/EEP)<br>[Efficient Expert Pruning for Sparse Mixture-of-Experts Language Models: Enhancing Performance and Reducing Inference Costs](https://arxiv.org/abs/2407.00945) <br> Enshu Liu, Junyi Zhu, Zinan Lin, Xuefei Ning, Matthew B. Blaschko, Shengen Yan, Guohao Dai, Huazhong Yang, Yu Wang |<img width="1002" alt="image" src="https://arxiv.org/html/2407.00945v1/extracted/5697370/Figures/use_case.png"> |[Github](https://github.com/imagination-research/EEP) <br> [Paper](https://arxiv.org/abs/2407.00945)|[//]: #07/03
 |[![Star](https://img.shields.io/github/stars/UNITES-Lab/moe-quantization.svg?style=social&label=Star)](https://github.com/UNITES-Lab/moe-quantization)<br>[Examining Post-Training Quantization for Mixture-of-Experts: A Benchmark](https://arxiv.org/abs/2406.08155) <br> Pingzhi Li, Xiaolong Jin, Yu Cheng, Tianlong Chen |<img width="1002" alt="image" src="https://arxiv.org/html/2406.08155v1/x1.png"> |[Github](https://github.com/UNITES-Lab/moe-quantization) <br> [Paper](https://arxiv.org/abs/2406.08155)|[//]: #06/18
 |[ME-Switch: A Memory-Efficient Expert Switching Framework for Large Language Models](https://arxiv.org/abs/2406.09041) <br> Jing Liu, Ruihao Gong, Mingyang Zhang, Yefei He, Jianfei Cai, Bohan Zhuang |<img width="1002" alt="image" src="https://arxiv.org/html/2406.09041v1/x1.png"> |[Paper](https://arxiv.org/abs/2406.09041)|[//]: #06/18
 |[Demystifying the Compression of Mixture-of-Experts Through a Unified Framework](https://arxiv.org/abs/2406.02500) <br> Shwai He, Daize Dong, Liang Ding, Ang Li |<img width="1002" alt="image" src="https://arxiv.org/html/2406.02500v1/x1.png"> |[Paper](https://arxiv.org/abs/2406.02500)| [//]: #06/05
@@ -135,6 +137,7 @@ In light of the numerous publications that conduct experiments using PLMs (such 
 #### Tuning
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[Compress then Serve: Serving Thousands of LoRA Adapters with Little Overhead](https://arxiv.org/abs/2407.00066) <br> Rickard Brüel-Gabrielsson, Jiacheng Zhu, Onkar Bhardwaj, Leshem Choshen, Kristjan Greenewald, Mikhail Yurochkin, Justin Solomon |<img width="1002" alt="image" src="https://arxiv.org/html/2407.00066v1/x1.png"> |[Paper](https://arxiv.org/abs/2407.00066)|[//]: #07/03
 |[BlockLLM: Memory-Efficient Adaptation of LLMs by Selecting and Optimizing the Right Coordinate Blocks](https://arxiv.org/abs/2406.17296) <br> Amrutha Varshini Ramesh, Vignesh Ganapathiraman, Issam H. Laradji, Mark Schmidt |<img width="1002" alt="image" src="https://arxiv.org/html/2406.17296v1/x3.png"> |[Paper](https://arxiv.org/abs/2406.17296)|[//]: #06/26
 |[![Star](https://img.shields.io/github/stars/gccnlp/Light-PEFT.svg?style=social&label=Star)](https://github.com/gccnlp/Light-PEFT)[![Publish](https://img.shields.io/badge/Conference-ACL'24%20Findings-blue)]()<br>[Light-PEFT: Lightening Parameter-Efficient Fine-Tuning via Early Pruning](https://arxiv.org/abs/2406.03792) <br> Naibin Gu, Peng Fu, Xiyu Liu, Bowen Shen, Zheng Lin, Weiping Wang |<img width="1002" alt="image" src="https://arxiv.org/html/2406.03792v1/x5.png"> |[Github](https://github.com/gccnlp/Light-PEFT) <br> [Paper](https://arxiv.org/abs/2406.03792)|[//]: #06/12
 |[Zeroth-Order Fine-Tuning of LLMs with Extreme Sparsity](https://arxiv.org/abs/2406.02913) <br> Wentao Guo, Jikai Long, Yimeng Zeng, Zirui Liu, Xinyu Yang, Yide Ran, Jacob R. Gardner, Osbert Bastani, Christopher De Sa, Xiaodong Yu, Beidi Chen, Zhaozhuo Xu |<img width="1002" alt="image" src="https://arxiv.org/html/2406.02913v1/x4.png"> |[Paper](https://arxiv.org/abs/2406.02913)|[//]: #06/11
