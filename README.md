@@ -86,6 +86,7 @@ In light of the numerous publications that conduct experiments using PLMs (such 
 #### Inference Acceleration
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[S2D: Sorted Speculative Decoding For More Efficient Deployment of Nested Large Language Models](https://arxiv.org/abs/2407.01955) <br> Parsa Kavehzadeh, Mohammadreza Pourreza, Mojtaba Valipour, Tinashu Zhu, Haoli Bai, Ali Ghodsi, Boxing Chen, Mehdi Rezagholizadeh |<img width="1002" alt="image" src="https://arxiv.org/html/2407.01955v1/x1.png"> |[Paper](https://arxiv.org/abs/2407.01955)|[//]: #07/05
 |[Sparser is Faster and Less is More: Efficient Sparse Attention for Long-Range Transformers](https://arxiv.org/abs/2406.16747) <br> Chao Lou, Zixia Jia, Zilong Zheng, Kewei Tu |<img width="1002" alt="image" src="https://arxiv.org/html/2406.16747v1/x1.png"> |[Paper](https://arxiv.org/abs/2406.16747)|[//]: #06/26
 |[![Star](https://img.shields.io/github/stars/SafeAILab/EAGLE.svg?style=social&label=Star)](https://github.com/SafeAILab/EAGLE)<br>[EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees](https://arxiv.org/abs/2406.16858) <br> Yuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang |<img width="1002" alt="image" src="https://arxiv.org/html/2406.16858v1/x4.png"> |[Github](https://github.com/SafeAILab/EAGLE) <br> [Paper](https://arxiv.org/abs/2406.16858)|[//]: #06/26
 |[Interpreting Attention Layer Outputs with Sparse Autoencoders](https://arxiv.org/abs/2406.17759) <br> Connor Kissane, Robert Krzyzanowski, Joseph Isaac Bloom, Arthur Conmy, Neel Nanda |<img width="1002" alt="image" src="https://arxiv.org/html/2406.17759v1/x1.png"> |[Paper](https://arxiv.org/abs/2406.17759)|[//]: #06/26
@@ -149,6 +150,7 @@ In light of the numerous publications that conduct experiments using PLMs (such 
 #### Tuning
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[![Publish](https://img.shields.io/badge/Conference-ACL'24%20PrivateNLP-blue)]()<br>[PocketLLM: Enabling On-Device Fine-Tuning for Personalized LLMs](https://arxiv.org/abs/2407.01031) <br> Dan Peng, Zhihui Fu, Jun Wang ||[Paper](https://arxiv.org/abs/2407.01031)|[//]: #07/05
 |[![Star](https://img.shields.io/github/stars/LINs-lab/CapaBoost.svg?style=social&label=Star)](https://github.com/LINs-lab/CapaBoost)[![Publish](https://img.shields.io/badge/Conference-ICLR'24-blue)]()<br>[Increasing Model Capacity for Free: A Simple Strategy for Parameter Efficient Fine-tuning](https://arxiv.org/abs/2407.01320) <br> Haobo Song, Hao Zhao, Soumajit Majumder, Tao Lin |<img width="1002" alt="image" src="https://arxiv.org/html/2407.01320v1/x2.png"> |[Github](https://github.com/LINs-lab/CapaBoost) <br> [Paper](https://arxiv.org/abs/2407.01320)|[//]: #07/03
 |[Compress then Serve: Serving Thousands of LoRA Adapters with Little Overhead](https://arxiv.org/abs/2407.00066) <br> Rickard Brüel-Gabrielsson, Jiacheng Zhu, Onkar Bhardwaj, Leshem Choshen et al |<img width="1002" alt="image" src="https://arxiv.org/html/2407.00066v1/x1.png"> |[Paper](https://arxiv.org/abs/2407.00066)|[//]: #07/03
 |[BlockLLM: Memory-Efficient Adaptation of LLMs by Selecting and Optimizing the Right Coordinate Blocks](https://arxiv.org/abs/2406.17296) <br> Amrutha Varshini Ramesh, Vignesh Ganapathiraman, Issam H. Laradji, Mark Schmidt |<img width="1002" alt="image" src="https://arxiv.org/html/2406.17296v1/x3.png"> |[Paper](https://arxiv.org/abs/2406.17296)|[//]: #06/26
@@ -158,6 +160,7 @@ In light of the numerous publications that conduct experiments using PLMs (such 
 #### Survey
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[Survey on Knowledge Distillation for Large Language Models: Methods, Evaluation, and Application](https://arxiv.org/abs/2407.01885) <br> Chuanpeng Yang, Wang Lu, Yao Zhu, Yidong Wang, Qian Chen, Chenlong Gao, Bingjie Yan, Yiqiang Chen |<img width="1002" alt="image" src="https://arxiv.org/html/2407.01885v1/extracted/5702255/1.png"> |[Paper](https://arxiv.org/abs/2407.01885)|[//]: #07/05
 |[Memory Is All You Need: An Overview of Compute-in-Memory Architectures for Accelerating Large Language Model Inference](https://arxiv.org/abs/2406.08413) <br> Christopher Wolters, Xiaoxuan Yang, Ulf Schlichtmann, Toyotaro Suzumura |<img width="1002" alt="image" src="figures/CIM.png"> |[Paper](https://arxiv.org/abs/2406.08413)|[//]: #06/18
  
 #### 💮 Contributing
