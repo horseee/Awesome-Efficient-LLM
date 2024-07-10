@@ -29,13 +29,6 @@ In light of the numerous publications that conduct experiments using PLMs (such 
 
 ## Paper from May 26, 2024 - Now (see Full List from May 22, 2023 [here](#full-list))
 
-#### Knowledge Distillation
-
-| Title & Authors | Introduction | Links |
-|:--|  :----: | :---:|
-|[BiLD: Bi-directional Logits Difference Loss for Large Language Model Distillation](https://arxiv.org/abs/2406.13555) <br> Minchong Li, Feng Zhou, Xiaohui Song |<img width="1002" alt="image" src="https://arxiv.org/html/2406.13555v1/extracted/5678562/images/bild.jpg"> |[Paper](https://arxiv.org/abs/2406.13555)|[//]: #07/05
-|[LLM and GNN are Complementary: Distilling LLM for Multimodal Graph Learning](https://arxiv.org/abs/2406.01032) <br> Junjie Xu, Zongyu Wu, Minhua Lin, Xiang Zhang, Suhang Wang |<img width="1002" alt="image" src="https://arxiv.org/html/2406.01032v1/x1.png"> |[Paper](https://arxiv.org/abs/2406.01032)|[//]: #06/05
-|[![Star](https://img.shields.io/github/stars/jiachenwestlake/MMKD.svg?style=social&label=Star)](https://github.com/jiachenwestlake/MMKD)<br>[Adversarial Moment-Matching Distillation of Large Language Models](https://arxiv.org/abs/2406.02959) <br> Chen Jia |<img width="1002" alt="image" src="https://arxiv.org/html/2406.02959v1/x1.png"> |[Github](https://github.com/jiachenwestlake/MMKD) <br> [Paper](https://arxiv.org/abs/2406.02959)|[//]: #06/11
 
 #### Network Pruning / Sparsity
 | Title & Authors | Introduction | Links |
@@ -59,9 +52,19 @@ In light of the numerous publications that conduct experiments using PLMs (such 
 |[![Star](https://img.shields.io/github/stars/Mohammad-Mozaffari/slope.svg?style=social&label=Star)](https://github.com/Mohammad-Mozaffari/slope)<br>[SLoPe: Double-Pruned Sparse Plus Lazy Low-Rank Adapter Pretraining of LLMs](https://arxiv.org/abs/2405.16325) <br> Mohammad Mozaffari, Amir Yazdanbakhsh, Zhao Zhang, Maryam Mehri Dehnavi |<img width="1002" alt="image" src="https://arxiv.org/html/2405.16325v1/x1.png"> |[Github](https://github.com/Mohammad-Mozaffari/slope) <br> [Paper](https://arxiv.org/abs/2405.16325)| [//]: #05/29
 |[![Star](https://img.shields.io/github/stars/Lucky-Lance/SPP.svg?style=social&label=Star)](https://github.com/Lucky-Lance/SPP)<br>[SPP: Sparsity-Preserved Parameter-Efficient Fine-Tuning for Large Language Models](https://arxiv.org/abs/2405.16057) <br> Xudong Lu, Aojun Zhou, Yuhui Xu, Renrui Zhang, Peng Gao, Hongsheng Li |<img width="1002" alt="image" src="https://github.com/Lucky-Lance/SPP/raw/main/asserts/SPP.png"> |[Github](https://github.com/Lucky-Lance/SPP) <br> [Paper](https://arxiv.org/abs/2405.16057)| [//]: #05/29
 
+
+#### Knowledge Distillation
+
+| Title & Authors | Introduction | Links |
+|:--|  :----: | :---:|
+|[BiLD: Bi-directional Logits Difference Loss for Large Language Model Distillation](https://arxiv.org/abs/2406.13555) <br> Minchong Li, Feng Zhou, Xiaohui Song |<img width="1002" alt="image" src="https://arxiv.org/html/2406.13555v1/extracted/5678562/images/bild.jpg"> |[Paper](https://arxiv.org/abs/2406.13555)|[//]: #07/05
+|[LLM and GNN are Complementary: Distilling LLM for Multimodal Graph Learning](https://arxiv.org/abs/2406.01032) <br> Junjie Xu, Zongyu Wu, Minhua Lin, Xiang Zhang, Suhang Wang |<img width="1002" alt="image" src="https://arxiv.org/html/2406.01032v1/x1.png"> |[Paper](https://arxiv.org/abs/2406.01032)|[//]: #06/05
+|[![Star](https://img.shields.io/github/stars/jiachenwestlake/MMKD.svg?style=social&label=Star)](https://github.com/jiachenwestlake/MMKD)<br>[Adversarial Moment-Matching Distillation of Large Language Models](https://arxiv.org/abs/2406.02959) <br> Chen Jia |<img width="1002" alt="image" src="https://arxiv.org/html/2406.02959v1/x1.png"> |[Github](https://github.com/jiachenwestlake/MMKD) <br> [Paper](https://arxiv.org/abs/2406.02959)|[//]: #06/11
+
 #### Quantization
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[![Star](https://img.shields.io/github/stars/LiqunMa/FBI-LLM.svg?style=social&label=Star)](https://github.com/LiqunMa/FBI-LLM)<br>[FBI-LLM: Scaling Up Fully Binarized LLMs from Scratch via Autoregressive Distillation](https://arxiv.org/abs/2407.07093) <br> Liqun Ma, Mingjie Sun, Zhiqiang Shen |<img width="1002" alt="image" src="https://github.com/LiqunMa/FBI-LLM/blob/main/figures/structure_and_training_procedure.png"> |[Github](https://github.com/LiqunMa/FBI-LLM) <br> [Paper](https://arxiv.org/abs/2407.07093)|[//]: #07/10
 |[![Publish](https://img.shields.io/badge/Conference-CIS-RAM'24-blue)]()<br>[GPTQT: Quantize Large Language Models Twice to Push the Efficiency](https://arxiv.org/abs/2407.02891) <br> Yipin Guo, Yilin Lang, Qinyuan Ren |<img width="1002" alt="image" src="https://arxiv.org/html/2407.02891v1/x1.png"> |[Paper](https://arxiv.org/abs/2407.02891)|[//]: #07/05
 |[![Star](https://img.shields.io/github/stars/microsoft/T-MAC.svg?style=social&label=Star)](https://github.com/microsoft/T-MAC)<br>[T-MAC: CPU Renaissance via Table Lookup for Low-Bit LLM Deployment on Edge](https://arxiv.org/abs/2407.00088) <br> Jianyu Wei, Shijie Cao, Ting Cao, Lingxiao Ma, Lei Wang, Yanyong Zhang, Mao Yang |<img width="1002" alt="image" src="https://arxiv.org/html/2407.00088v1/x2.png"> |[Github](https://github.com/microsoft/T-MAC) <br> [Paper](https://arxiv.org/abs/2407.00088)|[//]: #07/03
 |[![Star](https://img.shields.io/github/stars/RazvanDu/LayerwiseQuant.svg?style=social&label=Star)](https://github.com/RazvanDu/LayerwiseQuant)<br>[Variable Layer-Wise Quantization: A Simple and Effective Approach to Quantize LLMs](https://arxiv.org/abs/2406.17415) <br> Razvan-Gabriel Dumitru, Vikas Yadav, Rishabh Maheshwary, Paul-Ioan Clotan, Sathwik Tejaswi Madhusudhan, Mihai Surdeanu |<img width="202" alt="image" src="https://arxiv.org/html/2406.17415v1/x1.png"> |[Github](https://github.com/RazvanDu/LayerwiseQuant) <br> [Paper](https://arxiv.org/abs/2406.17415)|[//]: #06/26
@@ -134,6 +137,7 @@ In light of the numerous publications that conduct experiments using PLMs (such 
 #### Text Compression
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[Entropy Law: The Story Behind Data Compression and LLM Performance](https://arxiv.org/abs/2407.06645) <br> Mingjia Yin, Chuhan Wu, Yufei Wang, Hao Wang, Wei Guo, Yasheng Wang, Yong Liu, Ruiming Tang, Defu Lian, Enhong Chen |<img width="1002" alt="image" src="https://arxiv.org/html/2407.06645v1/x1.png"> |[Paper](https://arxiv.org/abs/2407.06645)|[//]: #07/10
 |[PromptIntern: Saving Inference Costs by Internalizing Recurrent Prompt during Large Language Model Fine-tuning](https://arxiv.org/abs/2407.02211) <br> Jiaru Zou, Mengyu Zhou, Tao Li, Shi Han, Dongmei Zhang |<img width="1002" alt="image" src="https://arxiv.org/html/2407.02211v1/x2.png"> |[Paper](https://arxiv.org/abs/2407.02211)|[//]: #07/05
 |[Brevity is the soul of wit: Pruning long files for code generation](https://arxiv.org/abs/2407.00434) <br> Aaditya K. Singh, Yu Yang, Kushal Tirumala, Mostafa Elhoushi, Ari S. Morcos |<img width="1002" alt="image" src="https://arxiv.org/html/2407.00434v1/x1.png"> |[Paper](https://arxiv.org/abs/2407.00434)|[//]: #07/03
 
@@ -155,6 +159,7 @@ In light of the numerous publications that conduct experiments using PLMs (such 
 #### Tuning
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[Code Less, Align More: Efficient LLM Fine-tuning for Code Generation with Data Pruning](https://arxiv.org/abs/2407.05040) <br> Yun-Da Tsai, Mingjie Liu, Haoxing Ren |<img width="1002" alt="image" src="https://arxiv.org/html/2407.05040v1/x1.png"> |[Paper](https://arxiv.org/abs/2407.05040)|[//]: #07/10
 |[![Publish](https://img.shields.io/badge/Conference-ACL'24%20PrivateNLP-blue)]()<br>[PocketLLM: Enabling On-Device Fine-Tuning for Personalized LLMs](https://arxiv.org/abs/2407.01031) <br> Dan Peng, Zhihui Fu, Jun Wang ||[Paper](https://arxiv.org/abs/2407.01031)|[//]: #07/05
 |[![Star](https://img.shields.io/github/stars/LINs-lab/CapaBoost.svg?style=social&label=Star)](https://github.com/LINs-lab/CapaBoost)[![Publish](https://img.shields.io/badge/Conference-ICLR'24-blue)]()<br>[Increasing Model Capacity for Free: A Simple Strategy for Parameter Efficient Fine-tuning](https://arxiv.org/abs/2407.01320) <br> Haobo Song, Hao Zhao, Soumajit Majumder, Tao Lin |<img width="1002" alt="image" src="https://arxiv.org/html/2407.01320v1/x2.png"> |[Github](https://github.com/LINs-lab/CapaBoost) <br> [Paper](https://arxiv.org/abs/2407.01320)|[//]: #07/03
 |[Compress then Serve: Serving Thousands of LoRA Adapters with Little Overhead](https://arxiv.org/abs/2407.00066) <br> Rickard Brüel-Gabrielsson, Jiacheng Zhu, Onkar Bhardwaj, Leshem Choshen et al |<img width="1002" alt="image" src="https://arxiv.org/html/2407.00066v1/x1.png"> |[Paper](https://arxiv.org/abs/2407.00066)|[//]: #07/03
