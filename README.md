@@ -60,6 +60,7 @@ In light of the numerous publications that conduct experiments using PLMs (such 
 
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[Key-Point-Driven Mathematical Reasoning Distillation of Large Language Model](https://arxiv.org/abs/2407.10167) <br> Xunyu Zhu, Jian Li, Yong Liu, Can Ma, Weiping Wang |<img width="1002" alt="image" src="https://arxiv.org/html/2407.10167v1/x2.png"> |[Paper](https://arxiv.org/abs/2407.10167)|[//]: #07/16
 |[Don't Throw Away Data: Better Sequence Knowledge Distillation](https://arxiv.org/abs/2407.10456) <br> Jun Wang, Eleftheria Briakou, Hamid Dadkhahi, Rishabh Agarwal, Colin Cherry, Trevor Cohn | |[Paper](https://arxiv.org/abs/2407.10456)|[//]: #07/16
 |[Multi-Granularity Semantic Revision for Large Language Model Distillation](https://arxiv.org/abs/2407.10068) <br> Xiaoyu Liu, Yun Zhang, Wei Li, Simiao Li, Xudong Huang, Hanting Chen, Yehui Tang, Jie Hu, Zhiwei Xiong, Yunhe Wang |<img width="1002" alt="image" src="https://arxiv.org/html/2407.10068v1/x1.png"> |[Paper](https://arxiv.org/abs/2407.10068)|[//]: #07/16
 |[BiLD: Bi-directional Logits Difference Loss for Large Language Model Distillation](https://arxiv.org/abs/2406.13555) <br> Minchong Li, Feng Zhou, Xiaohui Song |<img width="1002" alt="image" src="https://arxiv.org/html/2406.13555v1/extracted/5678562/images/bild.jpg"> |[Paper](https://arxiv.org/abs/2406.13555)|[//]: #07/05
@@ -69,6 +70,7 @@ In light of the numerous publications that conduct experiments using PLMs (such 
 #### Quantization
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[![Star](https://img.shields.io/github/stars/HanGuo97/flute.svg?style=social&label=Star)](https://github.com/HanGuo97/flute)<br>[Fast Matrix Multiplications for Lookup Table-Quantized LLMs](https://arxiv.org/abs/2407.10960) <br> Han Guo, William Brandon, Radostin Cholakov, Jonathan Ragan-Kelley, Eric P. Xing, Yoon Kim |<img width="302" alt="image" src="https://arxiv.org/html/2407.10960v1/x1.png"> |[Github](https://github.com/HanGuo97/flute) <br> [Paper](https://arxiv.org/abs/2407.10960)|[//]: #07/16
 |[LeanQuant: Accurate Large Language Model Quantization with Loss-Error-Aware Grid](https://arxiv.org/abs/2407.10032) <br> Tianyi Zhang, Anshumali Shrivastava |<img width="1002" alt="image" src="https://arxiv.org/html/2407.10032v1/x2.png"> |[Paper](https://arxiv.org/abs/2407.10032)|[//]: #07/16
 |[Prefixing Attention Sinks can Mitigate Activation Outliers for Large Language Model Quantization](https://arxiv.org/abs/2406.12016) <br> Seungwoo Son, Wonpyo Park, Woohyun Han, Kyuyeun Kim, Jaeho Lee |<img width="1002" alt="image" src="https://arxiv.org/html/2406.12016v1/extracted/5669665/figures/mainfig.png"> |[Paper](https://arxiv.org/abs/2406.12016)|[//]: #07/16
 |[![Star](https://img.shields.io/github/stars/HuangOwen/RoLoRA.svg?style=social&label=Star)](https://github.com/HuangOwen/RoLoRA)<br>[RoLoRA: Fine-tuning Rotated Outlier-free LLMs for Effective Weight-Activation Quantization](https://arxiv.org/abs/2407.08044) <br> Xijie Huang, Zechun Liu, Shih-Yang Liu, Kwang-Ting Cheng |<img width="1002" alt="image" src="https://arxiv.org/html/2407.08044v1/x1.png"> |[Github](https://github.com/HuangOwen/RoLoRA) <br> [Paper](https://arxiv.org/abs/2407.08044)|[//]: #07/12
@@ -182,6 +184,7 @@ In light of the numerous publications that conduct experiments using PLMs (such 
 #### Survey
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[![Publish](https://img.shields.io/badge/Conference-KDD'24-blue)]()<br>[Inference Optimization of Foundation Models on AI Accelerators](https://arxiv.org/abs/2407.09111) <br> Youngsuk Park, Kailash Budhathoki, Liangfu Chen, Jonas Kübler, Jiaji Huang, Matthäus Kleindessner, Jun Huan, Volkan Cevher, Yida Wang, George Karypis | |[Paper](https://arxiv.org/abs/2407.09111)|[//]: #07/16
 |[Survey on Knowledge Distillation for Large Language Models: Methods, Evaluation, and Application](https://arxiv.org/abs/2407.01885) <br> Chuanpeng Yang, Wang Lu, Yao Zhu, Yidong Wang, Qian Chen, Chenlong Gao, Bingjie Yan, Yiqiang Chen |<img width="1002" alt="image" src="https://arxiv.org/html/2407.01885v1/extracted/5702255/1.png"> |[Paper](https://arxiv.org/abs/2407.01885)|[//]: #07/05
 |[Memory Is All You Need: An Overview of Compute-in-Memory Architectures for Accelerating Large Language Model Inference](https://arxiv.org/abs/2406.08413) <br> Christopher Wolters, Xiaoxuan Yang, Ulf Schlichtmann, Toyotaro Suzumura |<img width="1002" alt="image" src="figures/CIM.png"> |[Paper](https://arxiv.org/abs/2406.08413)|[//]: #06/18
  
