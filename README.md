@@ -16,7 +16,7 @@ A curated list for **Efficient Large Language Models**
   - [Survey](survey.md)
   - [Leaderboard](leaderboard.md)
 
-### Please check out all the papers by selecting the sub-area you're interested in. On this page, we're showing papers released in the past 60 days.
+### Please check out all the papers by selecting the sub-area you're interested in. On this page, we're showing papers released in the past 90 days.
 
 #### 🚀 Updates
 * May 29, 2024: We've had this awesome list for a year now :smiling_face_with_three_hearts:! It's grown pretty long, so we're reorganizing it and would divide the list by their specific areas into different readme.
@@ -33,6 +33,8 @@ In light of the numerous publications that conduct experiments using PLMs (such 
 #### Network Pruning / Sparsity
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[Pruning Large Language Models with Semi-Structural Adaptive Sparse Training](https://arxiv.org/abs/2407.20584) <br> Weiyu Huang, Guohao Jian, Yuezhou Hu, Jun Zhu, Jianfei Chen |<img width="1002" alt="image" src="https://arxiv.org/html/2407.20584v1/extracted/5756562/4.png"> |[Paper](https://arxiv.org/abs/2407.20584)|[//]: #08/08
+|[Greedy Output Approximation: Towards Efficient Structured Pruning for LLMs Without Retraining](https://arxiv.org/abs/2407.19126) <br> Jianwei Li, Yijun Dong, Qi Lei |<img width="1002" alt="image" src="https://arxiv.org/html/2407.19126v1/x2.png"> |[Paper](https://arxiv.org/abs/2407.19126)|[//]: #08/08
 |[![Star](https://img.shields.io/github/stars/NVlabs/Minitron.svg?style=social&label=Star)](https://github.com/NVlabs/Minitron)<br>[Compact Language Models via Pruning and Knowledge Distillation](https://arxiv.org/abs/2407.14679) <br> Saurav Muralidharan, Sharath Turuvekere Sreenivas, Raviraj Joshi, Marcin Chochowski, Mostofa Patwary, Mohammad Shoeybi, Bryan Catanzaro, Jan Kautz, Pavlo Molchanov |<img width="1002" alt="image" src="https://arxiv.org/html/2407.14679v1/x2.png"> |[Github](https://github.com/NVlabs/Minitron) <br> [Paper](https://arxiv.org/abs/2407.14679)|[//]: #07/29
 |[MINI-LLM: Memory-Efficient Structured Pruning for Large Language Models](https://arxiv.org/abs/2407.11681mini) <br> Hongrong Cheng, Miao Zhang, Javen Qinfeng Shi |<img width="1002" alt="image" src="figures/minillm.png"> |[Paper](https://arxiv.org/abs/2407.11681mini)|[//]: #07/21
 |[Reconstruct the Pruned Model without Any Retraining](https://arxiv.org/abs/2407.13331) <br> Pingjie Wang, Ziqing Fan, Shengchao Hu, Zhe Chen, Yanfeng Wang, Yu Wang |<img width="1002" alt="image" src="https://arxiv.org/html/2407.13331v1/x3.png"> |[Paper](https://arxiv.org/abs/2407.13331)|[//]: #07/21
@@ -114,6 +116,7 @@ In light of the numerous publications that conduct experiments using PLMs (such 
 #### Inference Acceleration
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[![Publish](https://img.shields.io/badge/Conference-IVUS'24-blue)]()<br>[Inference acceleration for large language models using "stairs" assisted greedy generation](https://arxiv.org/abs/2407.19947) <br> Domas Grigaliūnas, Mantas Lukoševičius |<img width="1002" alt="image" src="fhttps://arxiv.org/html/2407.19947v1/extracted/5761251/assist_inf_2.png"> |[Paper](https://arxiv.org/abs/2407.19947)|[//]: #08/08
 |[LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference](https://arxiv.org/abs/2407.14057) <br> Qichen Fu, Minsik Cho, Thomas Merth, Sachin Mehta, Mohammad Rastegari, Mahyar Najibi |<img width="1002" alt="image" src="https://arxiv.org/html/2407.14057v1/x1.png"> |[Paper](https://arxiv.org/abs/2407.14057)|[//]: #07/24
 |[Adaptive Draft-Verification for Efficient Large Language Model Decoding](https://arxiv.org/abs/2407.12021) <br> Xukun Liu, Bowen Lei, Ruqi Zhang, Dongkuan Xu |<img width="1002" alt="image" src="https://arxiv.org/html/2407.12021v1/x1.png"> |[Paper](https://arxiv.org/abs/2407.12021)|[//]: #07/21
 |[Multi-Token Joint Speculative Decoding for Accelerating Large Language Model Inference](https://arxiv.org/abs/2407.09722) <br> Zongyue Qin, Ziniu Hu, Zifan He, Neha Prakriya, Jason Cong, Yizhou Sun |<img width="1002" alt="image" src="https://arxiv.org/html/2407.09722v1/x1.png"> |[Paper](https://arxiv.org/abs/2407.09722)|[//]: #07/16
