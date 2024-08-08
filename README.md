@@ -33,7 +33,7 @@ If you'd like to include your paper, or need to update any details such as confe
 
 ## Paper from May 26, 2024 - Now (see Full List from May 22, 2023 [here](#full-list))
 
-Quick Link: 
+#### Quick Link 
   - [Network Pruning / Sparsity](#network-pruning--sparsity)
   - [Knowledge Distillation](#knowledge-distillation)
   - [Quantization](#quantization)
@@ -95,6 +95,7 @@ Quick Link:
 #### Quantization
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[STBLLM: Breaking the 1-Bit Barrier with Structured Binary LLMs](https://arxiv.org/abs/2408.01803) <br> Peijie Dong, Lujun Li, Dayou Du, Yuhan Chen, Zhenheng Tang, Qiang Wang, Wei Xue, Wenhan Luo, Qifeng Liu, Yike Guo, Xiaowen Chu |<img width="1002" alt="image" src="https://arxiv.org/html/2408.01803v1/extracted/5772020/pic/basic_block.png"> |[Paper](https://arxiv.org/abs/2408.01803)|[//]: #08/08
 |[![Star](https://img.shields.io/github/stars/xiaocaigou/qbaraqahira.svg?style=social&label=Star)](https://github.com/xiaocaigou/qbaraqahira)<br>[Accurate and Efficient Fine-Tuning of Quantized Large Language Models Through Optimal Balance](https://arxiv.org/abs/2407.17029) <br> Ao Shen, Qiang Wang, Zhiquan Lai, Xionglve Li, Dongsheng Li |<img width="1002" alt="image" src="figures/Q-BaRA.png"> |[Github](https://github.com/xiaocaigou/qbaraqahira) <br> [Paper](https://arxiv.org/abs/2407.17029)|[//]: #07/26
 |[![Star](https://img.shields.io/github/stars/graphcore-research/jax-scalify.svg?style=social&label=Star)](https://github.com/graphcore-research/jax-scalify)[![Publish](https://img.shields.io/badge/Conference-ICML'24%20WANT-blue)]()<br>[Scalify: scale propagation for efficient low-precision LLM training](https://arxiv.org/abs/2407.17353) <br> Paul Balança, Sam Hosegood, Carlo Luschi, Andrew Fitzgibbon | |[Github](https://github.com/graphcore-research/jax-scalify) <br> [Paper](https://arxiv.org/abs/2407.17353)|[//]: #07/26
 |[![Star](https://img.shields.io/github/stars/OpenGVLab/EfficientQAT.svg?style=social&label=Star)](https://github.com/OpenGVLab/EfficientQAT)<br>[EfficientQAT: Efficient Quantization-Aware Training for Large Language Models](https://arxiv.org/abs/2407.11062) <br> Mengzhao Chen, Wenqi Shao, Peng Xu, Jiahao Wang, Peng Gao, Kaipeng Zhang, Yu Qiao, Ping Luo |<img width="1002" alt="image" src="https://arxiv.org/html/2407.11062v1/x5.png"> |[Github](https://github.com/OpenGVLab/EfficientQAT) <br> [Paper](https://arxiv.org/abs/2407.11062)|[//]: #07/21
@@ -194,6 +195,7 @@ Quick Link:
 #### Text Compression
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[![Star](https://img.shields.io/github/stars/ZongqianLi/500xCompressor.svg?style=social&label=Star)](https://github.com/ZongqianLi/500xCompressor)<br>[500xCompressor: Generalized Prompt Compression for Large Language Models](https://arxiv.org/abs/2408.03094) <br> Zongqian Li, Yixuan Su, Nigel Collier |<img width="1002" alt="image" src="https://arxiv.org/html/2408.03094v1/extracted/5776907/Figures/0-1.png"> |[Github](https://github.com/ZongqianLi/500xCompressor) <br> [Paper](https://arxiv.org/abs/2408.03094)|[//]: #08/08
 |[![Star](https://img.shields.io/github/stars/Wenshansilvia/attention_compressor.svg?style=social&label=Star)](https://github.com/Wenshansilvia/attention_compressor)<br>[QUITO: Accelerating Long-Context Reasoning through Query-Guided Context Compression](https://arxiv.org/abs/2408.00274) <br> Wenshan Wang, Yihang Wang, Yixing Fan, Huaming Liao, Jiafeng Guo |<img width="1002" alt="image" src="https://github.com/Wenshansilvia/attention_compressor/blob/main/assets/method.png"> |[Github](https://github.com/Wenshansilvia/attention_compressor) <br> [Paper](https://arxiv.org/abs/2408.00274)|[//]: #08/08
 |[![Publish](https://img.shields.io/badge/Conference-ICML'24%20EsFoMo-blue)]()<br>[Characterizing Prompt Compression Methods for Long Context Inference](https://arxiv.org/abs/2407.08892) <br> Siddharth Jha, Lutfi Eren Erdogan, Sehoon Kim, Kurt Keutzer, Amir Gholami |<img width="1002" alt="image" src="https://arxiv.org/html/2407.08892v1/x3.png"> |[Paper](https://arxiv.org/abs/2407.08892)|[//]: #07/16
 |[Entropy Law: The Story Behind Data Compression and LLM Performance](https://arxiv.org/abs/2407.06645) <br> Mingjia Yin, Chuhan Wu, Yufei Wang, Hao Wang, Wei Guo, Yasheng Wang, Yong Liu, Ruiming Tang, Defu Lian, Enhong Chen |<img width="1002" alt="image" src="https://arxiv.org/html/2407.06645v1/x1.png"> |[Paper](https://arxiv.org/abs/2407.06645)|[//]: #07/10
@@ -221,6 +223,7 @@ Quick Link:
 #### Tuning
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[Tensor Train Low-rank Approximation (TT-LoRA): Democratizing AI with Accelerated LLMs](https://arxiv.org/abs/2408.01008) <br> Afia Anjum, Maksim E. Eren, Ismael Boureima, Boian Alexandrov, Manish Bhattarai |<img width="1002" alt="image" src="https://arxiv.org/html/2408.01008v1/x7.png"> |[Paper](https://arxiv.org/abs/2408.01008)|[//]: #08/08
 |[Code Less, Align More: Efficient LLM Fine-tuning for Code Generation with Data Pruning](https://arxiv.org/abs/2407.05040) <br> Yun-Da Tsai, Mingjie Liu, Haoxing Ren |<img width="1002" alt="image" src="https://arxiv.org/html/2407.05040v1/x1.png"> |[Paper](https://arxiv.org/abs/2407.05040)|[//]: #07/10
 |[![Publish](https://img.shields.io/badge/Conference-ACL'24%20PrivateNLP-blue)]()<br>[PocketLLM: Enabling On-Device Fine-Tuning for Personalized LLMs](https://arxiv.org/abs/2407.01031) <br> Dan Peng, Zhihui Fu, Jun Wang ||[Paper](https://arxiv.org/abs/2407.01031)|[//]: #07/05
 |[![Star](https://img.shields.io/github/stars/LINs-lab/CapaBoost.svg?style=social&label=Star)](https://github.com/LINs-lab/CapaBoost)[![Publish](https://img.shields.io/badge/Conference-ICLR'24-blue)]()<br>[Increasing Model Capacity for Free: A Simple Strategy for Parameter Efficient Fine-tuning](https://arxiv.org/abs/2407.01320) <br> Haobo Song, Hao Zhao, Soumajit Majumder, Tao Lin |<img width="1002" alt="image" src="https://arxiv.org/html/2407.01320v1/x2.png"> |[Github](https://github.com/LINs-lab/CapaBoost) <br> [Paper](https://arxiv.org/abs/2407.01320)|[//]: #07/03
