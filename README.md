@@ -16,7 +16,7 @@ A curated list for **Efficient Large Language Models**
   - [Survey](survey.md)
   - [Leaderboard](leaderboard.md)
 
-### Please check out all the papers by selecting the sub-area you're interested in. On this page, we're showing papers released in the past 90 days.
+### Please check out all the papers by selecting the sub-area you're interested in. On this main page, we're showing papers released in the past 90 days.
 
 #### 🚀 Updates
 * May 29, 2024: We've had this awesome list for a year now :smiling_face_with_three_hearts:! It's grown pretty long, so we're reorganizing it and would divide the list by their specific areas into different readme.
@@ -25,10 +25,27 @@ A curated list for **Efficient Large Language Models**
 * July 11, 2023:
 In light of the numerous publications that conduct experiments using PLMs (such as BERT, BART) currently, a new subdirectory [efficient_plm/](efficient_plm/) is created to house papers that are applicable to PLMs but have yet to be verified for their effectiveness on LLMs (not implying that they are not suitable on LLM). 
 
+#### 💮 Contributing
+
+If you'd like to include your paper, or need to update any details such as conference information or code URLs, please feel free to submit a pull request. You can generate the required markdown format for each paper by filling in the information in `generate_item.py` and execute `python generate_item.py`. We warmly appreciate your contributions to this list. Alternatively, you can email me with the links to your paper and code, and I would add your paper to the list at my earliest convenience. 
+
 
 
 ## Paper from May 26, 2024 - Now (see Full List from May 22, 2023 [here](#full-list))
 
+Quick Link: 
+  - [Network Pruning / Sparsity](#network-pruning--sparsity)
+  - [Knowledge Distillation](#knowledge-distillation)
+  - [Quantization](#quantization)
+  - [Inference Acceleration](#inference-acceleration)
+  - [Efficient MOE](#efficient_moe)
+  - [Efficient Architecture of LLM](#efficient-architecture-of-llm)
+  - [KV Cache Compression](#kv-cache-compression)
+  - [Text Compression](#text-compression)
+  - [Low-Rank Decomposition](#low-rank-decomposition)
+  - [Hardware / System](#hardwaresystem)
+  - [Tuning](#tuning)
+  - [Survey](#survey)
 
 #### Network Pruning / Sparsity
 | Title & Authors | Introduction | Links |
@@ -119,7 +136,7 @@ In light of the numerous publications that conduct experiments using PLMs (such 
 |[![Star](https://img.shields.io/github/stars/XiaoBin1992/clover.svg?style=social&label=Star)](https://github.com/XiaoBin1992/clover)<br>[Clover-2: Accurate Inference for Regressive Lightweight Speculative Decoding](https://arxiv.org/abs/2408.00264) <br> Bin Xiao, Lujun Gui, Lei Su, Weipeng Chen |<img width="1002" alt="image" src="https://github.com/XiaoBin1992/clover/raw/v1/figs/structure.png"> |[Github](https://github.com/XiaoBin1992/clover) <br> [Paper](https://arxiv.org/abs/2408.00264)|[//]: #08/08
 |[Accelerating Large Language Model Inference with Self-Supervised Early Exits](https://arxiv.org/abs/2407.21082) <br> Florian Valade | |[Paper](https://arxiv.org/abs/2407.21082)|[//]: #08/08
 |[An Efficient Inference Framework for Early-exit Large Language Models](https://arxiv.org/abs/2407.20272) <br> Ruijie Miao, Yihan Yan, Xinshuo Yao, Tong Yang ||[Paper](https://arxiv.org/abs/2407.20272)|[//]: #08/08
-|[![Publish](https://img.shields.io/badge/Conference-IVUS'24-blue)]()<br>[Inference acceleration for large language models using "stairs" assisted greedy generation](https://arxiv.org/abs/2407.19947) <br> Domas Grigaliūnas, Mantas Lukoševičius |<img width="1002" alt="image" src="fhttps://arxiv.org/html/2407.19947v1/extracted/5761251/assist_inf_2.png"> |[Paper](https://arxiv.org/abs/2407.19947)|[//]: #08/08
+|[![Publish](https://img.shields.io/badge/Conference-IVUS'24-blue)]()<br>[Inference acceleration for large language models using "stairs" assisted greedy generation](https://arxiv.org/abs/2407.19947) <br> Domas Grigaliūnas, Mantas Lukoševičius |<img width="1002" alt="image" src="https://arxiv.org/html/2407.19947v1/extracted/5761251/assist_inf_2.png"> |[Paper](https://arxiv.org/abs/2407.19947)|[//]: #08/08
 |[LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference](https://arxiv.org/abs/2407.14057) <br> Qichen Fu, Minsik Cho, Thomas Merth, Sachin Mehta, Mohammad Rastegari, Mahyar Najibi |<img width="1002" alt="image" src="https://arxiv.org/html/2407.14057v1/x1.png"> |[Paper](https://arxiv.org/abs/2407.14057)|[//]: #07/24
 |[Adaptive Draft-Verification for Efficient Large Language Model Decoding](https://arxiv.org/abs/2407.12021) <br> Xukun Liu, Bowen Lei, Ruqi Zhang, Dongkuan Xu |<img width="1002" alt="image" src="https://arxiv.org/html/2407.12021v1/x1.png"> |[Paper](https://arxiv.org/abs/2407.12021)|[//]: #07/21
 |[Multi-Token Joint Speculative Decoding for Accelerating Large Language Model Inference](https://arxiv.org/abs/2407.09722) <br> Zongyue Qin, Ziniu Hu, Zifan He, Neha Prakriya, Jason Cong, Yizhou Sun |<img width="1002" alt="image" src="https://arxiv.org/html/2407.09722v1/x1.png"> |[Paper](https://arxiv.org/abs/2407.09722)|[//]: #07/16
@@ -219,10 +236,6 @@ In light of the numerous publications that conduct experiments using PLMs (such 
 |[Survey on Knowledge Distillation for Large Language Models: Methods, Evaluation, and Application](https://arxiv.org/abs/2407.01885) <br> Chuanpeng Yang, Wang Lu, Yao Zhu, Yidong Wang, Qian Chen, Chenlong Gao, Bingjie Yan, Yiqiang Chen |<img width="1002" alt="image" src="https://arxiv.org/html/2407.01885v1/extracted/5702255/1.png"> |[Paper](https://arxiv.org/abs/2407.01885)|[//]: #07/05
 |[Memory Is All You Need: An Overview of Compute-in-Memory Architectures for Accelerating Large Language Model Inference](https://arxiv.org/abs/2406.08413) <br> Christopher Wolters, Xiaoxuan Yang, Ulf Schlichtmann, Toyotaro Suzumura |<img width="1002" alt="image" src="figures/CIM.png"> |[Paper](https://arxiv.org/abs/2406.08413)|[//]: #06/18
  
-#### 💮 Contributing
-
-If you'd like to include your paper, or need to update any details such as conference information or code URLs, please feel free to submit a pull request. You can generate the required markdown format for each paper by filling in the information in `generate_item.py` and execute `python generate_item.py`. We warmly appreciate your contributions to this list. Alternatively, you can email me with the links to your paper and code, and I would add your paper to the list at my earliest convenience. 
-
 
 
 
