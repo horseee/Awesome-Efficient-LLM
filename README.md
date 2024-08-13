@@ -29,6 +29,9 @@ In light of the numerous publications that conduct experiments using PLMs (such 
 
 If you'd like to include your paper, or need to update any details such as conference information or code URLs, please feel free to submit a pull request. You can generate the required markdown format for each paper by filling in the information in `generate_item.py` and execute `python generate_item.py`. We warmly appreciate your contributions to this list. Alternatively, you can email me with the links to your paper and code, and I would add your paper to the list at my earliest convenience. 
 
+#### :star: Recommended Paper
+
+For each topic, we have curated a list of recommended papers that have garnered relatively high GitHub stars or citations.
 
 
 ## Paper from May 26, 2024 - Now (see Full List from May 22, 2023 [here](#full-list))
@@ -50,6 +53,9 @@ If you'd like to include your paper, or need to update any details such as confe
 #### Network Pruning / Sparsity
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+| [![Star](https://img.shields.io/github/stars/IST-DASLab/sparsegpt.svg?style=social&label=Star)](https://github.com/IST-DASLab/sparsegpt) [![Publish](https://img.shields.io/badge/Conference-ICML'23-blue)]() [![Type](https://img.shields.io/badge/Unstructured-C2A4A6)]() <br> :star: [SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot](https://github.com/IST-DASLab/sparsegpt) <br> Elias Frantar, Dan Alistarh| <img width="522" alt="image" src="figures/sparsegpt.png"> |[Github](https://github.com/IST-DASLab/sparsegpt) [paper](https://arxiv.org/abs/2301.00774) |
+| [![Star](https://img.shields.io/github/stars/horseee/LLM-Pruner.svg?style=social&label=Star)](https://github.com/horseee/LLM-Pruner) [![Publish](https://img.shields.io/badge/Conference-NeurIPS'23-blue)]() [![Type](https://img.shields.io/badge/Structural-C2A4A6)]() <br> :star: [LLM-Pruner: On the Structural Pruning of Large Language Models](https://arxiv.org/abs/2305.11627) <br> Xinyin Ma, Gongfan Fang, Xinchao Wang | <img width="561" alt="image" src="figures/llm_pruner.png">| [Github](https://github.com/horseee/LLM-Pruner) [paper](https://arxiv.org/abs/2305.11627)|
+|[![Star](https://img.shields.io/github/stars/locuslab/wanda.svg?style=social&label=Star)](https://github.com/locuslab/wanda) [![Publish](https://img.shields.io/badge/Conference-ICLR'24-blue)]() [![Type](https://img.shields.io/badge/Unstructured-C2A4A6)]()  <br> :star: [A Simple and Effective Pruning Approach for Large Language Models](https://arxiv.org/abs/2306.11695) <br> Mingjie Sun, Zhuang Liu, Anna Bair, J. Zico Kolter |<img width="1002" alt="image" src="https://user-images.githubusercontent.com/20168304/245999360-f951de47-269d-491d-826a-8e6d85627849.png"> |[Github](https://github.com/locuslab/wanda) <br> [Paper](https://arxiv.org/abs/2306.11695)|
 |[A Convex-optimization-based Layer-wise Post-training Pruner for Large Language Models](https://arxiv.org/abs/2408.03728) <br> Pengxiang Zhao, Hanyu Hu, Ping Li, Yi Zheng, Zhefeng Wang, Xiaoming Yuan |<img width="1002" alt="image" src="https://arxiv.org/html/2408.03728v1/x1.png"> |[Paper](https://arxiv.org/abs/2408.03728)|[//]: #08/08
 |[Pruning Large Language Models with Semi-Structural Adaptive Sparse Training](https://arxiv.org/abs/2407.20584) <br> Weiyu Huang, Guohao Jian, Yuezhou Hu, Jun Zhu, Jianfei Chen |<img width="1002" alt="image" src="https://arxiv.org/html/2407.20584v1/extracted/5756562/4.png"> |[Paper](https://arxiv.org/abs/2407.20584)|[//]: #08/08
 |[Greedy Output Approximation: Towards Efficient Structured Pruning for LLMs Without Retraining](https://arxiv.org/abs/2407.19126) <br> Jianwei Li, Yijun Dong, Qi Lei |<img width="1002" alt="image" src="https://arxiv.org/html/2407.19126v1/x2.png"> |[Paper](https://arxiv.org/abs/2407.19126)|[//]: #08/08
