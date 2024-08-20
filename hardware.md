@@ -41,3 +41,4 @@
 * [Designing Efficient LLM Accelerators for Edge Devices](https://arxiv.org/abs/2408.00462). Jude Haris, Rappy Saha, Wenhao Hu, José Cano. [[Paper]](https://arxiv.org/abs/2408.00462)
 * [SLO-aware GPU Frequency Scaling for Energy Efficient LLM Inference Serving](https://arxiv.org/abs/2408.05235). Andreas Kosmas Kakolyris, Dimosthenis Masouros, Petros Vavaroutsos, Sotirios Xydis, Dimitrios Soudris. [[Paper]](https://arxiv.org/abs/2408.05235)
 * [Kraken: Inherently Parallel Transformers For Efficient Multi-Device Inference](https://arxiv.org/abs/2408.07802). Rohan Baskar Prabhakar, Hengrui Zhang, David Wentzlaff. [[Paper]](https://arxiv.org/abs/2408.07802)
+* [LUT Tensor Core: Lookup Table Enables Efficient Low-Bit LLM Inference Acceleration](https://arxiv.org/abs/2408.06003). Zhiwen Mo, Lei Wang, Jianyu Wei, Zhichen Zeng, Shijie Cao, Lingxiao Ma, Naifeng Jing, Ting Cao, Jilong Xue, Fan Yang, Mao Yang. [[Paper]](https://arxiv.org/abs/2408.06003)
