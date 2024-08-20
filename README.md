@@ -86,9 +86,10 @@ For each topic, we have curated a list of recommended papers that have garnered 
 
 
 #### Knowledge Distillation
-
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models](https://arxiv.org/abs/2408.10189) <br> Aviv Bick, Kevin Y. Li, Eric P. Xing, J. Zico Kolter, Albert Gu |<img width="1002" alt="image" src="https://arxiv.org/html/2408.10189v1/x1.png"> |[Paper](https://arxiv.org/abs/2408.10189)|[//]: #08/20
+|[Concept Distillation from Strong to Weak Models via Hypotheses-to-Theories Prompting](https://arxiv.org/abs/2408.09365) <br> Emmanuel Aboah Boateng, Cassiano O. Becker, Nabiha Asghar, Kabir Walia, Ashwin Srinivasan, Ehi Nosakhare, Victor Dibia, Soundar Srinivasan |<img width="1002" alt="image" src="https://arxiv.org/html/2408.09365v1/x2.png"> |[Paper](https://arxiv.org/abs/2408.09365)|[//]: #08/20
 |[LaDiMo: Layer-wise Distillation Inspired MoEfier](https://arxiv.org/abs/2408.04278) <br> Sungyoon Kim, Youngjun Kim, Kihyo Moon, Minsung Jang |<img width="1002" alt="image" src="https://arxiv.org/html/2408.04278v1/extracted/5780689/figures/moefier.png"> |[Paper](https://arxiv.org/abs/2408.04278)|[//]: #08/13
 |[BOND: Aligning LLMs with Best-of-N Distillation](https://arxiv.org/abs/2407.14622) <br> Pier Giuseppe Sessa, Robert Dadashi, Léonard Hussenot, Johan Ferret, Nino Vieillard et al |<img width="1002" alt="image" src="figures/BOND.png"> |[Paper](https://arxiv.org/abs/2407.14622)|[//]: #07/29
 |[Enhancing Data-Limited Graph Neural Networks by Actively Distilling Knowledge from Large Language Models](https://arxiv.org/abs/2407.13989) <br> Quan Li, Tianxiang Zhao, Lingwei Chen, Junjie Xu, Suhang Wang |<img width="1002" alt="image" src="https://arxiv.org/html/2407.13989v1/x2.png"> |[Paper](https://arxiv.org/abs/2407.13989)|[//]: #07/24
@@ -219,6 +220,7 @@ For each topic, we have curated a list of recommended papers that have garnered 
 #### Low-Rank Decomposition
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[MoDeGPT: Modular Decomposition for Large Language Model Compression](https://arxiv.org/abs/2408.09632) <br> Chi-Heng Lin, Shangqian Gao, James Seale Smith, Abhishek Patel, Shikhar Tuli, Yilin Shen, Hongxia Jin, Yen-Chang Hsu |<img width="1002" alt="image" src="https://arxiv.org/html/2408.09632v1/x2.png"> |[Paper](https://arxiv.org/abs/2408.09632)|[//]: #08/20
 |[MCNC: Manifold Constrained Network Compression](https://arxiv.org/abs/2406.19301) <br> Chayne Thrash, Ali Abbasi, Parsa Nooralinejad, Soroush Abbasi Koohpayegani, Reed Andreas, Hamed Pirsiavash, Soheil Kolouri |<img width="1002" alt="image" src="https://arxiv.org/html/2406.19301v1/x1.png"> |[Paper](https://arxiv.org/abs/2406.19301)|[//]: #06/28
 
 
