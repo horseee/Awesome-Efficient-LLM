@@ -40,3 +40,4 @@
 * [PipeInfer: Accelerating LLM Inference using Asynchronous Pipelined Speculation](https://arxiv.org/abs/2407.11798). Branden Butler, Sixing Yu, Arya Mazaheri, Ali Jannesari. [[Paper]](https://arxiv.org/abs/2407.11798)
 * [Designing Efficient LLM Accelerators for Edge Devices](https://arxiv.org/abs/2408.00462). Jude Haris, Rappy Saha, Wenhao Hu, José Cano. [[Paper]](https://arxiv.org/abs/2408.00462)
 * [SLO-aware GPU Frequency Scaling for Energy Efficient LLM Inference Serving](https://arxiv.org/abs/2408.05235). Andreas Kosmas Kakolyris, Dimosthenis Masouros, Petros Vavaroutsos, Sotirios Xydis, Dimitrios Soudris. [[Paper]](https://arxiv.org/abs/2408.05235)
+* [Kraken: Inherently Parallel Transformers For Efficient Multi-Device Inference](https://arxiv.org/abs/2408.07802). Rohan Baskar Prabhakar, Hengrui Zhang, David Wentzlaff. [[Paper]](https://arxiv.org/abs/2408.07802)
