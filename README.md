@@ -19,11 +19,9 @@ A curated list for **Efficient Large Language Models**
 ### Please check out all the papers by selecting the sub-area you're interested in. On this main page, we're showing papers released in the past 90 days.
 
 #### 🚀 Updates
-* May 29, 2024: We've had this awesome list for a year now :smiling_face_with_three_hearts:! It's grown pretty long, so we're reorganizing it and would divide the list by their specific areas into different readme.
-* Sep 27, 2023: Add tag ![Publish](https://img.shields.io/badge/Conference-NeurIPS'23-blue) for papers accepted at NeurIPS'23.
-* Sep 6, 2023: Add a new subdirectory [project/](project/) to organize those projects that are designed for developing a lightweight LLM.
-* July 11, 2023:
-In light of the numerous publications that conduct experiments using PLMs (such as BERT, BART) currently, a new subdirectory [efficient_plm/](efficient_plm/) is created to house papers that are applicable to PLMs but have yet to be verified for their effectiveness on LLMs (not implying that they are not suitable on LLM). 
+* May 29, 2024: We've had this awesome list for a year now :smiling_face_with_three_hearts:! 
+* Sep 6, 2023: Add a new subdirectory [project/](project/) to organize efficient LLM projects.
+* July 11, 2023: A new subdirectory [efficient_plm/](efficient_plm/) is created to house papers that are applicable to PLMs. 
 
 #### 💮 Contributing
 
@@ -36,7 +34,7 @@ For each topic, we have curated a list of recommended papers that have garnered 
 
 ## Paper from June 21, 2024 - Now (see Full List from May 22, 2023 [here](#full-list))
 
-#### Quick Link 
+### Quick Link 
   - [Network Pruning / Sparsity](#network-pruning--sparsity)
   - [Knowledge Distillation](#knowledge-distillation)
   - [Quantization](#quantization)
@@ -50,7 +48,7 @@ For each topic, we have curated a list of recommended papers that have garnered 
   - [Tuning](#tuning)
   - [Survey](#survey)
 
-#### Network Pruning / Sparsity
+### Network Pruning / Sparsity
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
 | [![Star](https://img.shields.io/github/stars/IST-DASLab/sparsegpt.svg?style=social&label=Star)](https://github.com/IST-DASLab/sparsegpt) [![Publish](https://img.shields.io/badge/Conference-ICML'23-blue)]() [![Type](https://img.shields.io/badge/Unstructured-C2A4A6)]() <br> :star: [SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot](https://github.com/IST-DASLab/sparsegpt) <br> Elias Frantar, Dan Alistarh| <img width="522" alt="image" src="figures/sparsegpt.png"> |[Github](https://github.com/IST-DASLab/sparsegpt) [paper](https://arxiv.org/abs/2301.00774) | [//]: #Recommend
@@ -85,7 +83,7 @@ For each topic, we have curated a list of recommended papers that have garnered 
 
 
 
-#### Knowledge Distillation
+### Knowledge Distillation
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
 |:star: [Knowledge Distillation of Large Language Models](https://arxiv.org/abs/2306.08543) <br> Yuxian Gu, Li Dong, Furu Wei, Minlie Huang |<img width="1002" alt="image" src="https://github.com/microsoft/LMOps/blob/main/minillm/figures/method.png"> |[Github](https://github.com/microsoft/LMOps/tree/main/minillm) <br> [Paper](https://arxiv.org/abs/2306.08543)| [//]: #Recommend
@@ -106,7 +104,7 @@ For each topic, we have curated a list of recommended papers that have garnered 
 |[Multi-Granularity Semantic Revision for Large Language Model Distillation](https://arxiv.org/abs/2407.10068) <br> Xiaoyu Liu, Yun Zhang, Wei Li, Simiao Li, Xudong Huang, Hanting Chen, Yehui Tang, Jie Hu, Zhiwei Xiong, Yunhe Wang |<img width="1002" alt="image" src="https://arxiv.org/html/2407.10068v1/x1.png"> |[Paper](https://arxiv.org/abs/2407.10068)|[//]: #07/16
 |[BiLD: Bi-directional Logits Difference Loss for Large Language Model Distillation](https://arxiv.org/abs/2406.13555) <br> Minchong Li, Feng Zhou, Xiaohui Song |<img width="1002" alt="image" src="https://arxiv.org/html/2406.13555v1/extracted/5678562/images/bild.jpg"> |[Paper](https://arxiv.org/abs/2406.13555)|[//]: #07/05
 
-#### Quantization
+### Quantization
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
 |[![Star](https://img.shields.io/github/stars/IST-DASLab/gptq.svg?style=social&label=Star)](https://github.com/IST-DASLab/gptq)[![Publish](https://img.shields.io/badge/Conference-ICLR'22-blue)]()<br> :star: [GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers](https://arxiv.org/abs/2210.17323) <br> Elias Frantar, Saleh Ashkboos, Torsten Hoefler, Dan Alistarh |<img width="202" alt="image" src="figures/GPTQ.png"> |[Github](https://github.com/IST-DASLab/gptq) <br> [Paper](https://arxiv.org/abs/2210.17323)| [//]: #Recommend
@@ -143,7 +141,7 @@ For each topic, we have curated a list of recommended papers that have garnered 
 
 
 
-#### Inference Acceleration
+### Inference Acceleration
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
 |[![Star](https://img.shields.io/github/stars/FMInference/DejaVu.svg?style=social&label=Star)](https://github.com/FMInference/DejaVu)[![Publish](https://img.shields.io/badge/Conference-ICML'23%20Oral-blue)]()<br> :star: [Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time](https://openreview.net/forum?id=wIPIhHd00i) <br> Zichang Liu, Jue WANG, Tri Dao, Tianyi Zhou, Binhang Yuan, Zhao Song, Anshumali Shrivastava, Ce Zhang, Yuandong Tian, Christopher Re, Beidi Chen |<img width="202" alt="image" src="figures/DajeVu.png"> |[Github](https://github.com/FMInference/DejaVu) <br> [Paper](https://openreview.net/forum?id=wIPIhHd00i)| [//]: #Recommend
@@ -175,7 +173,7 @@ For each topic, we have curated a list of recommended papers that have garnered 
 |[![Star](https://img.shields.io/github/stars/thu-nics/MoA.svg?style=social&label=Star)](https://github.com/thu-nics/MoA)<br>[MoA: Mixture of Sparse Attention for Automatic Large Language Model Compression](https://arxiv.org/abs/2406.14909) <br> Tianyu Fu, Haofeng Huang, Xuefei Ning, Genghan Zhang, Boju Chen et al |<img width="1002" alt="image" src="https://github.com/thu-nics/MoA/blob/master/assets/workflow.png"> |[Github](https://github.com/thu-nics/MoA) <br> [Paper](https://arxiv.org/abs/2406.14909)|[//]: #06/26
 |[Optimized Speculative Sampling for GPU Hardware Accelerators](https://arxiv.org/abs/2406.11016) <br> Dominik Wagner, Seanie Lee, Ilja Baumann, Philipp Seeberger, Korbinian Riedhammer, Tobias Bocklet |<img width="1002" alt="image" src="https://arxiv.org/html/2406.11016v1/x1.png"> |[Paper](https://arxiv.org/abs/2406.11016)|[//]: #06/24
 
-#### Efficient MOE
+### Efficient MOE
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
 |[![Star](https://img.shields.io/github/stars/dvmazur/mixtral-offloading.svg?style=social&label=Star)](https://github.com/dvmazur/mixtral-offloading)<br>:star: [Fast Inference of Mixture-of-Experts Language Models with Offloading](https://arxiv.org/abs/2312.17238) <br> Artyom Eliseev, Denis Mazur |<img width="1002" alt="image" src="figures/mixtral_offloading.png"> |[Github](https://github.com/dvmazur/mixtral-offloading) <br> [Paper](https://arxiv.org/abs/2312.17238)| [//]: #Recommend
@@ -184,7 +182,7 @@ For each topic, we have curated a list of recommended papers that have garnered 
 
 
 
-#### Efficient Architecture of LLM
+### Efficient Architecture of LLM
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
 |[![Star](https://img.shields.io/github/stars/mbzuai-oryx/MobiLlama.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/MobiLlama)<br>:star: [MobiLlama: Towards Accurate and Lightweight Fully Transparent GPT](https://arxiv.org/abs/2402.16840) <br> Omkar Thawakar, Ashmal Vayani, Salman Khan, Hisham Cholakal, Rao M. Anwer, Michael Felsberg, Tim Baldwin, Eric P. Xing, Fahad Shahbaz Khan |<img width="402" alt="image" src="https://github.com/mbzuai-oryx/MobiLlama/raw/main/images/mobillama_generation.gif"> |[Github](https://github.com/mbzuai-oryx/MobiLlama) <br> [Paper](https://arxiv.org/abs/2402.16840) <br>[Model](https://huggingface.co/MBZUAI/MobiLlama-05B) | [//]: #Recommend
@@ -194,7 +192,7 @@ For each topic, we have curated a list of recommended papers that have garnered 
 |[![Star](https://img.shields.io/github/stars/metacarbon/shareAtt.svg?style=social&label=Star)](https://github.com/metacarbon/shareAtt)<br>[Beyond KV Caching: Shared Attention for Efficient LLMs](https://arxiv.org/abs/2407.12866) <br> Bingli Liao, Danilo Vasconcellos Vargas |<img width="1002" alt="image" src="https://arxiv.org/html/2407.12866v1/x1.png"> |[Github](https://github.com/metacarbon/shareAtt) <br> [Paper](https://arxiv.org/abs/2407.12866)|[//]: #07/21
 
 
-#### KV Cache Compression
+### KV Cache Compression
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
 |:star: [Model Tells You What to Discard: Adaptive KV Cache Compression for LLMs](https://arxiv.org/abs/2310.01801) <br> Suyu Ge, Yunan Zhang, Liyuan Liu, Minjia Zhang, Jiawei Han, Jianfeng Gao |<img width="1002" alt="image" src="figures/FastGen.png"> |[Paper](https://arxiv.org/abs/2310.01801)| [//]: #Recommend
@@ -213,7 +211,7 @@ For each topic, we have curated a list of recommended papers that have garnered 
 |[![Star](https://img.shields.io/github/stars/henryzhongsc/longctx_bench.svg?style=social&label=Star)](https://github.com/henryzhongsc/longctx_bench)<br>[KV Cache Compression, But What Must We Give in Return? A Comprehensive Benchmark of Long Context Capable Approaches](https://arxiv.org/abs/2407.01527) <br> Jiayi Yuan, Hongyi Liu, Shaochen (Henry)Zhong, Yu-Neng Chuang, Songchen Li et al |<img width="1002" alt="image" src="figures/longctx_bench.png"> |[Github](https://github.com/henryzhongsc/longctx_bench) <br> [Paper](https://arxiv.org/abs/2407.01527)|[//]: #07/03
 
 
-#### Text Compression
+### Text Compression
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
 |[![Star](https://img.shields.io/github/stars/microsoft/LLMLingua.svg?style=social&label=Star)](https://github.com/microsoft/LLMLingua)[![Publish](https://img.shields.io/badge/Conference-EMNLP'23-blue)]()<br>:star: [LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models](https://arxiv.org/abs/2310.05736) <br> Huiqiang Jiang, Qianhui Wu, Chin-Yew Lin, Yuqing Yang, Lili Qiu |<img width="1002" alt="image" src="https://github.com/microsoft/LLMLingua/blob/main/images/LLMLingua_framework.png"> |[Github](https://github.com/microsoft/LLMLingua) <br> [Paper](https://arxiv.org/abs/2310.05736)| [//]: #Recommend
@@ -227,14 +225,14 @@ For each topic, we have curated a list of recommended papers that have garnered 
 |[PromptIntern: Saving Inference Costs by Internalizing Recurrent Prompt during Large Language Model Fine-tuning](https://arxiv.org/abs/2407.02211) <br> Jiaru Zou, Mengyu Zhou, Tao Li, Shi Han, Dongmei Zhang |<img width="1002" alt="image" src="https://arxiv.org/html/2407.02211v1/x2.png"> |[Paper](https://arxiv.org/abs/2407.02211)|[//]: #07/05
 |[Brevity is the soul of wit: Pruning long files for code generation](https://arxiv.org/abs/2407.00434) <br> Aaditya K. Singh, Yu Yang, Kushal Tirumala, Mostafa Elhoushi, Ari S. Morcos |<img width="1002" alt="image" src="https://arxiv.org/html/2407.00434v1/x1.png"> |[Paper](https://arxiv.org/abs/2407.00434)|[//]: #07/03
 
-#### Low-Rank Decomposition
+### Low-Rank Decomposition
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
 |[MoDeGPT: Modular Decomposition for Large Language Model Compression](https://arxiv.org/abs/2408.09632) <br> Chi-Heng Lin, Shangqian Gao, James Seale Smith, Abhishek Patel, Shikhar Tuli, Yilin Shen, Hongxia Jin, Yen-Chang Hsu |<img width="1002" alt="image" src="https://arxiv.org/html/2408.09632v1/x2.png"> |[Paper](https://arxiv.org/abs/2408.09632)|[//]: #08/20
 |[MCNC: Manifold Constrained Network Compression](https://arxiv.org/abs/2406.19301) <br> Chayne Thrash, Ali Abbasi, Parsa Nooralinejad, Soroush Abbasi Koohpayegani, Reed Andreas, Hamed Pirsiavash, Soheil Kolouri |<img width="1002" alt="image" src="https://arxiv.org/html/2406.19301v1/x1.png"> |[Paper](https://arxiv.org/abs/2406.19301)|[//]: #06/28
 
 
-#### Hardware/System
+### Hardware/System
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
 |[![Publish](https://img.shields.io/badge/Conference-DAC'24-blue)]()<br>[OPAL: Outlier-Preserved Microscaling Quantization A ccelerator for Generative Large Language Models](https://arxiv.org/abs/2409.05902) <br> Jahyun Koo, Dahoon Park, Sangwoo Jung, Jaeha Kung |<img width="1002" alt="image" src="https://arxiv.org/html/2409.05902v1/x5.png"> |[Paper](https://arxiv.org/abs/2409.05902)|[//]: #09/13
@@ -250,7 +248,7 @@ For each topic, we have curated a list of recommended papers that have garnered 
 |[![Publish](https://img.shields.io/badge/Conference-ISCA'24-blue)]()<br>[Tender: Accelerating Large Language Models via Tensor Decomposition and Runtime Requantization](https://arxiv.org/abs/2406.12930) <br> Jungi Lee, Wonbeom Lee, Jaewoong Sim |<img width="1002" alt="image" src="https://arxiv.org/html/2406.12930v1/x4.png"> |[Paper](https://arxiv.org/abs/2406.12930)|[//]: #06/23
 
 
-#### Tuning
+### Tuning
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
 |[Tensor Train Low-rank Approximation (TT-LoRA): Democratizing AI with Accelerated LLMs](https://arxiv.org/abs/2408.01008) <br> Afia Anjum, Maksim E. Eren, Ismael Boureima, Boian Alexandrov, Manish Bhattarai |<img width="1002" alt="image" src="https://arxiv.org/html/2408.01008v1/x7.png"> |[Paper](https://arxiv.org/abs/2408.01008)|[//]: #08/08
@@ -261,7 +259,7 @@ For each topic, we have curated a list of recommended papers that have garnered 
 |[BlockLLM: Memory-Efficient Adaptation of LLMs by Selecting and Optimizing the Right Coordinate Blocks](https://arxiv.org/abs/2406.17296) <br> Amrutha Varshini Ramesh, Vignesh Ganapathiraman, Issam H. Laradji, Mark Schmidt |<img width="1002" alt="image" src="https://arxiv.org/html/2406.17296v1/x3.png"> |[Paper](https://arxiv.org/abs/2406.17296)|[//]: #06/26
 
 
-#### Survey
+### Survey
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
 |[Hardware Acceleration of LLMs: A comprehensive survey and comparison](https://arxiv.org/abs/2409.03384) <br> Nikoletta Koilia, Christoforos Kachris | |[Paper](https://arxiv.org/abs/2409.03384)|[//]: #09/06
