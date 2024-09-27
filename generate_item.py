@@ -1,4 +1,4 @@
-    paper_name = ''
+paper_name = ''
 paper_url = ''
 github_url = ''
 author_name = ''
