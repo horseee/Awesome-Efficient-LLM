@@ -16,7 +16,7 @@ A curated list for **Efficient Large Language Models**
   - [Survey](survey.md)
   - [Leaderboard](leaderboard.md)
 
-### Please check out all the papers by selecting the sub-area you're interested in. On this main page, we're showing papers released in the past 90 days.
+### Please check out all the papers by selecting the sub-area you're interested in. On this main page, only papers released in the past 90 days are shown.
 
 #### 🚀 Updates
 * May 29, 2024: We've had this awesome list for a year now :smiling_face_with_three_hearts:! 
@@ -29,7 +29,7 @@ If you'd like to include your paper, or need to update any details such as confe
 
 #### :star: Recommended Paper
 
-For each topic, we have curated a list of recommended papers that have garnered relatively high GitHub stars or citations.
+For each topic, we have curated a list of recommended papers that have garnered a lot of GitHub stars or citations.
 
 
 ## Paper from June 27, 2024 - Now (see Full List from May 22, 2023 [here](#full-list))
