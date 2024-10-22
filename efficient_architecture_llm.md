@@ -3,6 +3,7 @@
 ## Efficient Architecture of LLM
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[Efficient Hybrid Inference for LLMs: Reward-Based Token Modelling with Selective Cloud Assistance](https://arxiv.org/abs/2409.13757) <br> Adarsh MS, Jithin VG, Ditto PS @Bud Ecosystem |<img width="1002" alt="image" src="figures/selective-cloud-llm-assistance.png"> |[Paper](https://arxiv.org/pdf/2409.13757)|
 |[![Star](https://img.shields.io/github/stars/YuchuanTian/RethinkTinyLM.svg?style=social&label=Star)](https://github.com/YuchuanTian/RethinkTinyLM)<br>[Rethinking Optimization and Architecture for Tiny Language Models](https://arxiv.org/abs/2402.02791) <br> Yehui Tang, Fangcheng Liu, Yunsheng Ni, Yuchuan Tian, Zheyuan Bai, Yi-Qi Hu, Sichao Liu, Shangling Jui, Kai Han, Yunhe Wang |<img width="1002" alt="image" src="https://github.com/YuchuanTian/RethinkTinyLM/blob/master/fig/improve.png"> |[Github](https://github.com/YuchuanTian/RethinkTinyLM) <br> [Paper](https://arxiv.org/abs/2402.02791)|
 |[Tandem Transformers for Inference Efficient LLMs](https://arxiv.org/abs/2402.08644) <br> Aishwarya P S, Pranav Ajit Nair, Yashas Samaga, Toby Boyd, Sanjiv Kumar, Prateek Jain, Praneeth Netrapalli |<img width="1002" alt="image" src="figures/Tandem.png"> |[Paper](https://arxiv.org/abs/2402.08644)|
 |[Scaling Efficient LLMs](https://arxiv.org/abs/2402.14746) <br> B.N. Kausik |<img width="1002" alt="image" src="figures/ScalingEfficientLLM.png"> |[Paper](https://arxiv.org/abs/2402.14746)|
