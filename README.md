@@ -11,7 +11,7 @@ A curated list for **Efficient Large Language Models**
   - [KV Cache Compression](kv_cache_compression.md)
   - [Text Compression](text_compression.md)
   - [Low-Rank Decomposition](low_rank_decomposition.md)
-  - [Hardware / System](hardware.md)
+  - [Hardware / System / Serving](hardware.md)
   - [Tuning](tuning.md)
   - [Survey](survey.md)
   - [Leaderboard](leaderboard.md)
@@ -44,7 +44,7 @@ For each topic, we have curated a list of recommended papers that have garnered 
   - [KV Cache Compression](#kv-cache-compression)
   - [Text Compression](#text-compression)
   - [Low-Rank Decomposition](#low-rank-decomposition)
-  - [Hardware / System](#hardwaresystem)
+  - [Hardware / System / Serving](#hardwaresystemserving)
   - [Tuning](#tuning)
   - [Survey](#survey)
 
@@ -88,6 +88,7 @@ For each topic, we have curated a list of recommended papers that have garnered 
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
 |:star: [Knowledge Distillation of Large Language Models](https://arxiv.org/abs/2306.08543) <br> Yuxian Gu, Li Dong, Furu Wei, Minlie Huang |<img width="1002" alt="image" src="https://github.com/microsoft/LMOps/blob/main/minillm/figures/method.png"> |[Github](https://github.com/microsoft/LMOps/tree/main/minillm) <br> [Paper](https://arxiv.org/abs/2306.08543)| [//]: #Recommend
+|[![Star](https://img.shields.io/github/stars/jdeschena/sdtt.svg?style=social&label=Star)](https://github.com/jdeschena/sdtt)<br>[Beyond Autoregression: Fast LLMs via Self-Distillation Through Time](https://arxiv.org/abs/2410.21035) <br> Justin Deschenaux, Caglar Gulcehre |<img width="1002" alt="image" src="https://arxiv.org/html/2410.21035v1/x3.png"> |[Github](https://github.com/jdeschena/sdtt) <br> [Paper](https://arxiv.org/abs/2410.21035)|[//]: #11/17
 |[Pre-training Distillation for Large Language Models: A Design Space Exploration](https://arxiv.org/abs/2410.16215) <br> Hao Peng, Xin Lv, Yushi Bai, Zijun Yao, Jiajie Zhang, Lei Hou, Juanzi Li | |[Paper](https://arxiv.org/abs/2410.16215)|[//]: #10/30
 |[![Star](https://img.shields.io/github/stars/thu-coai/MiniPLM.svg?style=social&label=Star)](https://github.com/thu-coai/MiniPLM)<br>[MiniPLM: Knowledge Distillation for Pre-Training Language Models](https://arxiv.org/abs/2410.17215) <br> Yuxian Gu, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang |<img width="1002" alt="image" src="https://github.com/thu-coai/MiniPLM/raw/main/figures/method.png"> |[Github](https://github.com/thu-coai/MiniPLM) <br> [Paper](https://arxiv.org/abs/2410.17215)|[//]: #10/29
 |[Speculative Knowledge Distillation: Bridging the Teacher-Student Gap Through Interleaved Sampling](https://arxiv.org/abs/2410.11325) <br> Wenda Xu, Rujun Han, Zifeng Wang, Long T. Le, Dhruv Madeka, Lei Li, William Yang Wang, Rishabh Agarwal, Chen-Yu Lee, Tomas Pfister |<img width="1002" alt="image" src="https://arxiv.org/html/2410.11325v1/x2.png"> |[Paper](https://arxiv.org/abs/2410.11325)|[//]: #10/21
@@ -160,6 +161,7 @@ For each topic, we have curated a list of recommended papers that have garnered 
 |[![Star](https://img.shields.io/github/stars/mit-han-lab/streaming-llm.svg?style=social&label=Star)](https://github.com/mit-han-lab/streaming-llm)<br> :star: [Efficient Streaming Language Models with Attention Sinks](https://arxiv.org/abs/2309.17453) <br> Guangxuan Xiao, Yuandong Tian, Beidi Chen, Song Han, Mike Lewis |<img width="1002" alt="image" src="https://github.com/mit-han-lab/streaming-llm/blob/main/figures/schemes.png"> |[Github](https://github.com/mit-han-lab/streaming-llm) <br> [Paper](https://arxiv.org/abs/2309.17453)| [//]: #Recommend
 |[![Star](https://img.shields.io/github/stars/SafeAILab/EAGLE.svg?style=social&label=Star)](https://github.com/SafeAILab/EAGLE)<br>:star: [EAGLE: Lossless Acceleration of LLM Decoding by Feature Extrapolation](https://sites.google.com/view/eagle-llm) <br> Yuhui Li, Chao Zhang, and Hongyang Zhang |<img width="302" alt="image" src="https://github.com/SafeAILab/EAGLE/blob/main/figs/fig1.png"> |[Github](https://github.com/SafeAILab/EAGLE) <br> [Blog](https://sites.google.com/view/eagle-llm)| [//]: #Recommend
 |[![Star](https://img.shields.io/github/stars/FasterDecoding/Medusa.svg?style=social&label=Star)](https://github.com/FasterDecoding/Medusa)<br> :star: [Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads](https://arxiv.org/abs/2401.10774) <br> Tianle Cai, Yuhong Li, Zhengyang Geng, Hongwu Peng, Jason D. Lee, Deming Chen, Tri Dao |<img width="1002" alt="image" src="https://arxiv.org/html/2401.10774v1/x1.png"> |[Github](https://github.com/FasterDecoding/Medusa) <br> [Paper](https://arxiv.org/abs/2401.10774)| [//]: #Recommend
+|[Dynamic Strategy Planning for Efficient Question Answering with Large Language Models](https://arxiv.org/abs/2410.23511) <br> Tanmay Parekh, Pradyot Prakash, Alexander Radovic, Akshay Shekher, Denis Savenkov |<img width="1002" alt="image" src="https://arxiv.org/html/2410.23511v1/x1.png"> |[Paper](https://arxiv.org/abs/2410.23511)|[//]: #11/17
 |[![Star](https://img.shields.io/github/stars/Infini-AI-Lab/MagicPIG.svg?style=social&label=Star)](https://github.com/Infini-AI-Lab/MagicPIG)<br>[MagicPIG: LSH Sampling for Efficient LLM Generation](https://arxiv.org/abs/2410.16179) <br> Zhuoming Chen, Ranajoy Sadhukhan, Zihao Ye, Yang Zhou, Jianyu Zhang, Niklas Nolte, Yuandong Tian, Matthijs Douze, Leon Bottou, Zhihao Jia, Beidi Chen |<img width="1002" alt="image" src="https://arxiv.org/html/2410.16179v2/x15.png"> |[Github](https://github.com/Infini-AI-Lab/MagicPIG) <br> [Paper](https://arxiv.org/abs/2410.16179)|[//]: #10/30
 |[Faster Language Models with Better Multi-Token Prediction Using Tensor Decomposition](https://arxiv.org/abs/2410.17765) <br> Artem Basharin, Andrei Chertkov, Ivan Oseledets |<img width="1002" alt="image" src="figures/canonical_tensor_decomposition.png"> |[Paper](https://arxiv.org/abs/2410.17765)|[//]: #10/29
 |[Efficient Inference for Augmented Large Language Models](https://arxiv.org/abs/2410.18248) <br> Rana Shahout, Cong Liang, Shiji Xin, Qianru Lao, Yong Cui, Minlan Yu, Michael Mitzenmacher |<img width="1002" alt="image" src="https://arxiv.org/html/2410.18248v1/extracted/5949546/figures/illustrations/api_example_png.png"> |[Paper](https://arxiv.org/abs/2410.18248)|[//]: #10/29
@@ -260,9 +262,10 @@ For each topic, we have curated a list of recommended papers that have garnered 
 |[MoDeGPT: Modular Decomposition for Large Language Model Compression](https://arxiv.org/abs/2408.09632) <br> Chi-Heng Lin, Shangqian Gao, James Seale Smith, Abhishek Patel, Shikhar Tuli, Yilin Shen, Hongxia Jin, Yen-Chang Hsu |<img width="1002" alt="image" src="https://arxiv.org/html/2408.09632v1/x2.png"> |[Paper](https://arxiv.org/abs/2408.09632)|[//]: #08/20
 
 
-### Hardware/System
+### Hardware/System/Serving
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[![Publish](https://img.shields.io/badge/Conference-ICCAD'24-blue)]()<br>[ALISE: Accelerating Large Language Model Serving with Speculative Scheduling](https://arxiv.org/abs/2410.23537) <br> Youpeng Zhao, Jun Wang |<img width="1002" alt="image" src="https://arxiv.org/html/2410.23537v1/extracted/5967257/imgs/b1.png"> |[Paper](https://arxiv.org/abs/2410.23537)|[//]: #11/17
 |[EPIC: Efficient Position-Independent Context Caching for Serving Large Language Models](https://arxiv.org/abs/2410.15332) <br> Junhao Hu, Wenrui Huang, Haoyi Wang, Weidong Wang, Tiancheng Hu, Qin Zhang, Hao Feng, Xusheng Chen, Yizhou Shan, Tao Xie |<img width="202" alt="image" src="https://arxiv.org/html/2410.15332v1/x3.png"> |[Paper](https://arxiv.org/abs/2410.15332)|[//]: #10/30
 |[![Publish](https://img.shields.io/badge/Conference-NeurIPS'24-blue)]()<br>[SDP4Bit: Toward 4-bit Communication Quantization in Sharded Data Parallelism for LLM Training](https://arxiv.org/abs/2410.15526) <br> Jinda Jia, Cong Xie, Hanlin Lu, Daoce Wang, Hao Feng, Chengming Zhang, Baixi Sun, Haibin Lin, Zhi Zhang, Xin Liu, Dingwen Tao |<img width="1002" alt="image" src="https://arxiv.org/html/2410.15526v1/x2.png"> |[Paper](https://arxiv.org/abs/2410.15526)|[//]: #10/30
 |[FastAttention: Extend FlashAttention2 to NPUs and Low-resource GPUs](https://arxiv.org/abs/2410.16663) <br> Haoran Lin, Xianzhi Yu, Kang Zhao, Lu Hou, Zongyuan Zhan et al |<img width="1002" alt="image" src="https://arxiv.org/html/2410.16663v1/x2.png"> |[Paper](https://arxiv.org/abs/2410.16663)|[//]: #10/29
