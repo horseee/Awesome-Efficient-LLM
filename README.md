@@ -265,6 +265,7 @@ For each topic, we have curated a list of recommended papers that have garnered 
 ### Hardware/System/Serving
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[Ripple: Accelerating LLM Inference on Smartphones with Correlation-Aware Neuron Management](https://arxiv.org/abs/2410.19274) <br> Tuowei Wang, Ruwen Fan, Minxing Huang, Zixu Hao, Kun Li, Ting Cao, Youyou Lu, Yaoxue Zhang, Ju Ren |<img width="302" alt="image" src="https://arxiv.org/html/2410.19274v2/x7.png"> |[Paper](https://arxiv.org/abs/2410.19274)|[//]: #11/17
 |[![Publish](https://img.shields.io/badge/Conference-ICCAD'24-blue)]()<br>[ALISE: Accelerating Large Language Model Serving with Speculative Scheduling](https://arxiv.org/abs/2410.23537) <br> Youpeng Zhao, Jun Wang |<img width="1002" alt="image" src="https://arxiv.org/html/2410.23537v1/extracted/5967257/imgs/b1.png"> |[Paper](https://arxiv.org/abs/2410.23537)|[//]: #11/17
 |[EPIC: Efficient Position-Independent Context Caching for Serving Large Language Models](https://arxiv.org/abs/2410.15332) <br> Junhao Hu, Wenrui Huang, Haoyi Wang, Weidong Wang, Tiancheng Hu, Qin Zhang, Hao Feng, Xusheng Chen, Yizhou Shan, Tao Xie |<img width="202" alt="image" src="https://arxiv.org/html/2410.15332v1/x3.png"> |[Paper](https://arxiv.org/abs/2410.15332)|[//]: #10/30
 |[![Publish](https://img.shields.io/badge/Conference-NeurIPS'24-blue)]()<br>[SDP4Bit: Toward 4-bit Communication Quantization in Sharded Data Parallelism for LLM Training](https://arxiv.org/abs/2410.15526) <br> Jinda Jia, Cong Xie, Hanlin Lu, Daoce Wang, Hao Feng, Chengming Zhang, Baixi Sun, Haibin Lin, Zhi Zhang, Xin Liu, Dingwen Tao |<img width="1002" alt="image" src="https://arxiv.org/html/2410.15526v1/x2.png"> |[Paper](https://arxiv.org/abs/2410.15526)|[//]: #10/30
@@ -294,6 +295,15 @@ For each topic, we have curated a list of recommended papers that have garnered 
 |[SpaLLM: Unified Compressive Adaptation of Large Language Models with Sketching](https://arxiv.org/abs/2410.06364) <br> Tianyi Zhang, Junda Su, Oscar Wu, Zhaozhuo Xu, Anshumali Shrivastava |<img width="1002" alt="image" src="https://arxiv.org/html/2410.06364v1/x1.png"> |[Paper](https://arxiv.org/abs/2410.06364)|[//]: #10/13
 |[![Star](https://img.shields.io/github/stars/JL-er/Bone.svg?style=social&label=Star)](https://github.com/JL-er/Bone)<br>[Bone: Block Affine Transformation as Parameter Efficient Fine-tuning Methods for Large Language Models](https://arxiv.org/abs/2409.15371) <br> Jiale Kang |<img width="1002" alt="image" src="https://arxiv.org/html/2409.15371v1/extracted/5865415/imgs/bone-free.png"> |[Github](https://github.com/JL-er/Bone) <br> [Paper](https://arxiv.org/abs/2409.15371)|[//]: #09/27
 |[Enabling Resource-Efficient On-Device Fine-Tuning of LLMs Using Only Inference Engines](https://arxiv.org/abs/2409.15520) <br> Lei Gao, Amir Ziashahabi, Yue Niu, Salman Avestimehr, Murali Annavaram |<img width="1002" alt="image" src="figures/P-RGE.png"> |[Paper](https://arxiv.org/abs/2409.15520)|[//]: #09/27
+
+
+
+### Efficient Training
+| Title & Authors | Introduction | Links |
+|:--|  :----: | :---:|
+|[![Star](https://img.shields.io/github/stars/NVlabs/COAT.svg?style=social&label=Star)](https://github.com/NVlabs/COAT)<br>[COAT: Compressing Optimizer states and Activation for Memory-Efficient FP8 Training](https://arxiv.org/abs/2410.19313) <br> Haocheng Xi, Han Cai, Ligeng Zhu, Yao Lu, Kurt Keutzer, Jianfei Chen, Song Han |<img width="1002" alt="image" src="https://github.com/NVlabs/COAT/blob/main/docs/figs/FP8PrecisionFlow.png"> |[Github](https://github.com/NVlabs/COAT) <br> [Paper](https://arxiv.org/abs/2410.19313)|[//]: #11/17
+|[![Star](https://img.shields.io/github/stars/wuhouming/BitPipe.svg?style=social&label=Star)](https://github.com/wuhouming/BitPipe)<br>[BitPipe: Bidirectional Interleaved Pipeline Parallelism for Accelerating Large Models Training](https://arxiv.org/abs/2410.19367) <br> Houming Wu, Ling Chen, Wenjie Yu |<img width="1002" alt="image" src="https://github.com/wuhouming/BitPipe/raw/main/docs/BitPipe_images/BitPipe-v.svg"> |[Github](https://github.com/wuhouming/BitPipe) <br> [Paper](https://arxiv.org/abs/2410.19367)|[//]: #11/17
+
 
 
 ### Survey
