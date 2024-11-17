@@ -14,8 +14,7 @@ A curated list for **Efficient Large Language Models**
   - [Hardware / System / Serving](hardware.md)
   - [Tuning](tuning.md)
   - [Efficient Training](efficient_training.md)
-  - [Survey](survey.md)
-  - [Leaderboard](leaderboard.md)
+  - [Survey or Benchmark](survey.md)
 
 ### Please check out all the papers by selecting the sub-area you're interested in. On this main page, only papers released in the past 90 days are shown.
 
@@ -47,7 +46,7 @@ For each topic, we have curated a list of recommended papers that have garnered 
   - [Low-Rank Decomposition](#low-rank-decomposition)
   - [Hardware / System / Serving](#hardwaresystemserving)
   - [Tuning](#tuning)
-  - [Survey](#survey)
+  - [Survey](#survey-or-benchmark)
 
 ### Network Pruning / Sparsity
 | Title & Authors | Introduction | Links |
@@ -171,6 +170,7 @@ For each topic, we have curated a list of recommended papers that have garnered 
 |[![Star](https://img.shields.io/github/stars/mit-han-lab/streaming-llm.svg?style=social&label=Star)](https://github.com/mit-han-lab/streaming-llm)<br> :star: [Efficient Streaming Language Models with Attention Sinks](https://arxiv.org/abs/2309.17453) <br> Guangxuan Xiao, Yuandong Tian, Beidi Chen, Song Han, Mike Lewis |<img width="1002" alt="image" src="https://github.com/mit-han-lab/streaming-llm/blob/main/figures/schemes.png"> |[Github](https://github.com/mit-han-lab/streaming-llm) <br> [Paper](https://arxiv.org/abs/2309.17453)| [//]: #Recommend
 |[![Star](https://img.shields.io/github/stars/SafeAILab/EAGLE.svg?style=social&label=Star)](https://github.com/SafeAILab/EAGLE)<br>:star: [EAGLE: Lossless Acceleration of LLM Decoding by Feature Extrapolation](https://sites.google.com/view/eagle-llm) <br> Yuhui Li, Chao Zhang, and Hongyang Zhang |<img width="302" alt="image" src="https://github.com/SafeAILab/EAGLE/blob/main/figs/fig1.png"> |[Github](https://github.com/SafeAILab/EAGLE) <br> [Blog](https://sites.google.com/view/eagle-llm)| [//]: #Recommend
 |[![Star](https://img.shields.io/github/stars/FasterDecoding/Medusa.svg?style=social&label=Star)](https://github.com/FasterDecoding/Medusa)<br> :star: [Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads](https://arxiv.org/abs/2401.10774) <br> Tianle Cai, Yuhong Li, Zhengyang Geng, Hongwu Peng, Jason D. Lee, Deming Chen, Tri Dao |<img width="1002" alt="image" src="https://arxiv.org/html/2401.10774v1/x1.png"> |[Github](https://github.com/FasterDecoding/Medusa) <br> [Paper](https://arxiv.org/abs/2401.10774)| [//]: #Recommend
+|[![Star](https://img.shields.io/github/stars/David-Li0406/SMoA.svg?style=social&label=Star)](https://github.com/David-Li0406/SMoA)<br>[SMoA: Improving Multi-agent Large Language Models with Sparse Mixture-of-Agents](https://arxiv.org/abs/2411.03284) <br> Dawei Li, Zhen Tan, Peijia Qian, Yifan Li, Kumar Satvik Chaudhary, Lijie Hu, Jiayi Shen |<img width="1002" alt="image" src="figures/SMoA.png"> |[Github](https://github.com/David-Li0406/SMoA) <br> [Paper](https://arxiv.org/abs/2411.03284)|[//]: #11/18
 |[The N-Grammys: Accelerating Autoregressive Inference with Learning-Free Batched Speculation](https://arxiv.org/abs/2411.03786) <br> Lawrence Stewart, Matthew Trager, Sujan Kumar Gonugondla, Stefano Soatto | |[Paper](https://arxiv.org/abs/2411.03786)|[//]: #11/18
 |[Accelerated AI Inference via Dynamic Execution Methods](https://arxiv.org/abs/2411.00853) <br> Haim Barad, Jascha Achterberg, Tien Pei Chou, Jean Yu | |[Paper](https://arxiv.org/abs/2411.00853)|[//]: #11/18
 |[SuffixDecoding: A Model-Free Approach to Speeding Up Large Language Model Inference](https://arxiv.org/abs/2411.04975) <br> Gabriele Oliaro, Zhihao Jia, Daniel Campos, Aurick Qiao |<img width="1002" alt="image" src="https://arxiv.org/html/2411.04975v1/x1.png"> |[Paper](https://arxiv.org/abs/2411.04975)|[//]: #11/18
@@ -328,9 +328,10 @@ For each topic, we have curated a list of recommended papers that have garnered 
 
 
 
-### Survey
+### Survey (or Benchmark)
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[![Star](https://img.shields.io/github/stars/argonne-lcf/LLM-Inference-Bench.svg?style=social&label=Star)](https://github.com/argonne-lcf/LLM-Inference-Bench)<br>[LLM-Inference-Bench: Inference Benchmarking of Large Language Models on AI Accelerators](https://arxiv.org/abs/2411.00136) <br> Krishna Teja Chitty-Venkata, Siddhisanket Raskar, Bharat Kale, Farah Ferdaus et al | |[Github](https://github.com/argonne-lcf/LLM-Inference-Bench) <br> [Paper](https://arxiv.org/abs/2411.00136)|[//]: #11/18
 |[![Star](https://img.shields.io/github/stars/ZongqianLi/Prompt-Compression-Survey.svg?style=social&label=Star)](https://github.com/ZongqianLi/Prompt-Compression-Survey)<br>[Prompt Compression for Large Language Models: A Survey](https://arxiv.org/abs/2410.12388) <br> Zongqian Li, Yinhong Liu, Yixuan Su, Nigel Collier |<img width="1002" alt="image" src="https://arxiv.org/html/2410.12388v2/extracted/5933385/Figures/tree_overview.png"> |[Github](https://github.com/ZongqianLi/Prompt-Compression-Survey) <br> [Paper](https://arxiv.org/abs/2410.12388)|[//]: #10/21
 |[Large Language Model Inference Acceleration: A Comprehensive Hardware Perspective](https://arxiv.org/abs/2410.04466) <br> Jinhao Li, Jiaming Xu, Shan Huang, Yonghua Chen, Wen Li, Jun Liu, Yaoxiu Lian, Jiayi Pan, Li Ding, Hao Zhou, Guohao Dai |<img width="1002" alt="image" src="https://arxiv.org/html/2410.04466v1/x4.png"> |[Paper](https://arxiv.org/abs/2410.04466)|[//]: #10/14
 |[A Survey of Low-bit Large Language Models: Basics, Systems, and Algorithms](https://arxiv.org/abs/2409.16694) <br> Ruihao Gong, Yifu Ding, Zining Wang, Chengtao Lv, Xingyu Zheng, Jinyang Du, Haotong Qin, Jinyang Guo, Michele Magno, Xianglong Liu |<img width="1002" alt="image" src="https://arxiv.org/html/2409.16694v1/x1.png"> |[Paper](https://arxiv.org/abs/2409.16694)|[//]: #09/27
