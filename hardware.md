@@ -54,3 +54,4 @@
 * [Ripple: Accelerating LLM Inference on Smartphones with Correlation-Aware Neuron Management](https://arxiv.org/abs/2410.19274). Tuowei Wang, Ruwen Fan, Minxing Huang, Zixu Hao, Kun Li, Ting Cao, Youyou Lu, Yaoxue Zhang, Ju Ren. [[Paper]](https://arxiv.org/abs/2410.19274)
 * [CE-CoLLM: Efficient and Adaptive Large Language Models Through Cloud-Edge Collaboration](https://arxiv.org/abs/2411.02829). Hongpeng Jin, Yanzhao Wu. [[Paper]](https://arxiv.org/abs/2411.02829)
 * [MixPE: Quantization and Hardware Co-design for Efficient LLM Inference](https://arxiv.org/abs/2411.16158). Yu Zhang, Mingzi Wang, Lancheng Zou, Wulong Liu, Hui-Ling Zhen, Mingxuan Yuan, Bei Yu. [[Paper]](https://arxiv.org/abs/2411.16158)
+* [FastSwitch: Optimizing Context Switching Efficiency in Fairness-aware Large Language Model Serving](https://arxiv.org/abs/2411.18424). Ao Shen, Zhiyao Li, Mingyu Gao. [[Paper]](https://arxiv.org/abs/2411.18424)
