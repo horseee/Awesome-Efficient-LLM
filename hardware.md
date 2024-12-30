@@ -55,3 +55,4 @@
 * [CE-CoLLM: Efficient and Adaptive Large Language Models Through Cloud-Edge Collaboration](https://arxiv.org/abs/2411.02829). Hongpeng Jin, Yanzhao Wu. [[Paper]](https://arxiv.org/abs/2411.02829)
 * [MixPE: Quantization and Hardware Co-design for Efficient LLM Inference](https://arxiv.org/abs/2411.16158). Yu Zhang, Mingzi Wang, Lancheng Zou, Wulong Liu, Hui-Ling Zhen, Mingxuan Yuan, Bei Yu. [[Paper]](https://arxiv.org/abs/2411.16158)
 * [FastSwitch: Optimizing Context Switching Efficiency in Fairness-aware Large Language Model Serving](https://arxiv.org/abs/2411.18424). Ao Shen, Zhiyao Li, Mingyu Gao. [[Paper]](https://arxiv.org/abs/2411.18424)
+* [KunServe: Elastic and Efficient Large Language Model Serving with Parameter-centric Memory Management](https://arxiv.org/abs/2412.18169). Rongxin Cheng, Yifan Peng, Yuxin Lai, Xingda Wei, Rong Chen, Haibo Chen. [[Paper]](https://arxiv.org/abs/2412.18169)
