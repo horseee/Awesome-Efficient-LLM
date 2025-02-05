@@ -1,9 +1,9 @@
-paper_name = ''
-paper_url = ''
-github_url = ''
-author_name = ''
-image_path = 'figures/{}.png'.format('')
-conference = ""
+paper_name = 'Understanding Sparse Neural Networks from their Topology via Multipartite Graph Representations'
+paper_url = 'https://openreview.net/pdf?id=Egb0tUZnOY'
+github_url = 'https://github.com/eliacunegatti/mge-snn'
+author_name = 'Elia Cunegatti, Matteo Farina, Doina Bucur, Giovanni Iacca'
+image_path = 'figures/{}.png'.format('unrolled')
+conference = "TMLR"
 
 star_format = '[![Star](https://img.shields.io/github/stars/{}.svg?style=social&label=Star)](https://github.com/{})'
 conference_format = "[![Publish](https://img.shields.io/badge/Conference-{}-blue)]()"
