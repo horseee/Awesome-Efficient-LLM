@@ -12,7 +12,7 @@ A curated list for **Efficient Large Language Models**
   - [Text Compression](text_compression.md)
   - [Low-Rank Decomposition](low_rank_decomposition.md)
   - [Hardware / System / Serving](hardware.md)
-  - [Tuning](tuning.md)
+  - [Efficient Fine-tuning](tuning.md)
   - [Efficient Training](efficient_training.md)
   - [Survey or Benchmark](survey.md)
 
@@ -45,7 +45,8 @@ For each topic, we have curated a list of recommended papers that have garnered 
   - [Text Compression](#text-compression)
   - [Low-Rank Decomposition](#low-rank-decomposition)
   - [Hardware / System / Serving](#hardwaresystemserving)
-  - [Tuning](#tuning)
+  - [Efficient Fine-tuning](#efficient-fine-tuning)
+  - [Efficient Training](#efficient-training)
   - [Survey](#survey-or-benchmark)
 
 ### Network Pruning / Sparsity
@@ -261,8 +262,6 @@ For each topic, we have curated a list of recommended papers that have garnered 
 ### Low-Rank Decomposition
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
-|[![Star](https://img.shields.io/github/stars/selfsupervised-ai/Natural-GaLore.svg?style=social&label=Star)](https://github.com/selfsupervised-ai/Natural-GaLore)<br>[Natural GaLore: Accelerating GaLore for memory-efficient LLM Training and Fine-tuning](https://arxiv.org/abs/2410.16029) <br> Arijit Das | |[Github](https://github.com/selfsupervised-ai/Natural-GaLore) <br> [Paper](https://arxiv.org/abs/2410.16029)|[//]: #10/30
-|[CompAct: Compressed Activations for Memory-Efficient LLM Training](https://arxiv.org/abs/2410.15352) <br> Yara Shamshoum, Nitzan Hodos, Yuval Sieradzki, Assaf Schuster |<img width="202" alt="image" src="https://arxiv.org/html/2410.15352v1/x1.png"> |[Paper](https://arxiv.org/abs/2410.15352)|[//]: #10/30
 |[![Publish](https://img.shields.io/badge/Conference-NeurIPS'24-blue)]()<br>[ESPACE: Dimensionality Reduction of Activations for Model Compression](https://arxiv.org/abs/2410.05437) <br> Charbel Sakr, Brucek Khailany |<img width="1002" alt="image" src="figures/ESPACE.png"> |[Paper](https://arxiv.org/abs/2410.05437)|[//]: #10/14
 
 
@@ -282,7 +281,7 @@ For each topic, we have curated a list of recommended papers that have garnered 
 
 
 
-### Tuning
+### Efficient Fine-tuning
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
 |[HELENE: Hessian Layer-wise Clipping and Gradient Annealing for Accelerating Fine-tuning LLM with Zeroth-order Optimization](https://arxiv.org/abs/2411.10696) <br> Huaqin Zhao, Jiaxi Li, Yi Pan, Shizhe Liang, Xiaofeng Yang, Wei Liu, Xiang Li, Fei Dou, Tianming Liu, Jin Lu |<img width="1002" alt="image" src="https://arxiv.org/html/2411.10696v1/x1.png"> |[Paper](https://arxiv.org/abs/2411.10696)|[//]: #11/24
@@ -307,6 +306,8 @@ For each topic, we have curated a list of recommended papers that have garnered 
 |[Less is More: Extreme Gradient Boost Rank-1 Adaption for Efficient Finetuning of LLMs](https://arxiv.org/abs/2410.19694) <br> Yifei Zhang, Hao Zhu, Aiwei Liu, Han Yu, Piotr Koniusz, Irwin King |<img width="1002" alt="image" src="https://arxiv.org/html/2410.19694v1/x3.png"> |[Paper](https://arxiv.org/abs/2410.19694)|[//]: #11/18
 |[![Star](https://img.shields.io/github/stars/NVlabs/COAT.svg?style=social&label=Star)](https://github.com/NVlabs/COAT)<br>[COAT: Compressing Optimizer states and Activation for Memory-Efficient FP8 Training](https://arxiv.org/abs/2410.19313) <br> Haocheng Xi, Han Cai, Ligeng Zhu, Yao Lu, Kurt Keutzer, Jianfei Chen, Song Han |<img width="1002" alt="image" src="https://github.com/NVlabs/COAT/blob/main/docs/figs/FP8PrecisionFlow.png"> |[Github](https://github.com/NVlabs/COAT) <br> [Paper](https://arxiv.org/abs/2410.19313)|[//]: #11/17
 |[![Star](https://img.shields.io/github/stars/wuhouming/BitPipe.svg?style=social&label=Star)](https://github.com/wuhouming/BitPipe)<br>[BitPipe: Bidirectional Interleaved Pipeline Parallelism for Accelerating Large Models Training](https://arxiv.org/abs/2410.19367) <br> Houming Wu, Ling Chen, Wenjie Yu |<img width="1002" alt="image" src="https://github.com/wuhouming/BitPipe/raw/main/docs/BitPipe_images/BitPipe-v.svg"> |[Github](https://github.com/wuhouming/BitPipe) <br> [Paper](https://arxiv.org/abs/2410.19367)|[//]: #11/17
+|[![Star](https://img.shields.io/github/stars/selfsupervised-ai/Natural-GaLore.svg?style=social&label=Star)](https://github.com/selfsupervised-ai/Natural-GaLore)<br>[Natural GaLore: Accelerating GaLore for memory-efficient LLM Training and Fine-tuning](https://arxiv.org/abs/2410.16029) <br> Arijit Das | |[Github](https://github.com/selfsupervised-ai/Natural-GaLore) <br> [Paper](https://arxiv.org/abs/2410.16029)|[//]: #10/30
+|[CompAct: Compressed Activations for Memory-Efficient LLM Training](https://arxiv.org/abs/2410.15352) <br> Yara Shamshoum, Nitzan Hodos, Yuval Sieradzki, Assaf Schuster |<img width="202" alt="image" src="https://arxiv.org/html/2410.15352v1/x1.png"> |[Paper](https://arxiv.org/abs/2410.15352)|[//]: #10/30
 
 
 
