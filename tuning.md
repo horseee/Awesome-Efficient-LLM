@@ -1,6 +1,7 @@
 
 
 ## Tuning
+* [![Publish](https://img.shields.io/badge/Conference-EMNLP'24-blue)]() [![Star](https://img.shields.io/github/stars/ZihangHLiu/ModelBalancing.svg?style=social&label=Star)](https://github.com/ZihangHLiu/ModelBalancing) [Model Balancing Helps Low-data Training and Fine-tuning](https://arxiv.org/abs/2410.12178). Zihang Liu, Yuanzhe Hu, Tianyu Pang, Yefan Zhou, Pu Ren, Yaoqing Yang. [[Paper]](https://arxiv.org/abs/2410.12178) [[Github]](https://github.com/ZihangHLiu/ModelBalancing)
 * [CPET: Effective Parameter-Efficient Tuning for Compressed Large Language Models](https://arxiv.org/abs/2307.07705). Weilin Zhao, Yuxiang Huang, Xu Han, Zhiyuan Liu, Zhengyan Zhang, Maosong Sun. [[Paper]](https://arxiv.org/abs/2307.07705)
 * [![Star](https://img.shields.io/github/stars/liziniu/ReMax.svg?style=social&label=Star)](https://github.com/liziniu/ReMax) [ReMax: A Simple, Effective, and Efficient Method for Aligning Large Language Models](https://arxiv.org/abs/2310.10505). Ziniu Li, Tian Xu, Yushun Zhang, Yang Yu, Ruoyu Sun, Zhi-Quan Luo. [[Paper]](https://arxiv.org/abs/2310.10505)[[Github]](https://github.com/liziniu/ReMax)
 * [TRANSOM: An Efficient Fault-Tolerant System for Training LLMs](https://arxiv.org/abs/2310.10046). Baodong Wu, Lei Xia, Qingping Li, Kangyu Li, Xu Chen, Yongqiang Guo, Tieyao Xiang, Yuheng Chen, Shigang Li. [[Paper]](https://arxiv.org/abs/2310.10046)
