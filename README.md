@@ -20,7 +20,7 @@ A curated list for **Efficient Large Language Models**
 ### Please check out all the papers by selecting the sub-area you're interested in. On this main page, only papers released in the past 90 days are shown.
 
 #### 🚀 Updates
-* April 15, 2025: We have a new [curated list](https://github.com/fscdc/Awesome-Efficient-Reasoning-Model) for awesome reasoning model!
+* April 15, 2025: We have a new [curated list](https://github.com/fscdc/Awesome-Efficient-Reasoning-Model) for **efficient reasoning model**!
 * May 29, 2024: We've had this awesome list for a year now :smiling_face_with_three_hearts:! 
 * Sep 6, 2023: Add a new subdirectory [project/](project/) to organize efficient LLM projects.
 * July 11, 2023: A new subdirectory [efficient_plm/](efficient_plm/) is created to house papers that are applicable to PLMs. 
