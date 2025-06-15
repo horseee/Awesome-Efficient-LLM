@@ -164,7 +164,7 @@ For each topic, we have curated a list of recommended papers that have garnered 
 |[CrossQuant: A Post-Training Quantization Method with Smaller Quantization Kernel for Precise Large Language Model Compression](https://arxiv.org/abs/2410.07505) <br> Wenyuan Liu, Xindian Ma, Peng Zhang, Yan Wang |<img width="1002" alt="image" src="https://arxiv.org/html/2410.07505v1/x1.png"> |[Paper](https://arxiv.org/abs/2410.07505)|[//]: #10/13
 |[SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration](https://arxiv.org/abs/2410.02367) <br> Jintao Zhang, Jia wei, Pengle Zhang, Jun Zhu, Jianfei Chen |<img width="1002" alt="image" src="https://arxiv.org/html/2410.02367v1/x5.png"> |[Paper](https://arxiv.org/abs/2410.02367)|[//]: #10/04
 |[Addition is All You Need for Energy-efficient Language Models](https://arxiv.org/abs/2410.00907) <br> Hongyin Luo, Wei Sun |<img width="1002" alt="image" src="https://arxiv.org/html/2410.00907v1/x2.png"> |[Paper](https://arxiv.org/abs/2410.00907)|[//]: #10/02
-
+|[![Star](https://img.shields.io/github/stars/snu-mllab/GuidedQuant.svg?style=social&label=Star)](https://github.com/snu-mllab/GuidedQuant)[![Publish](https://img.shields.io/badge/Conference-ICML'25-blue)]()<br>[GuidedQuant: Large Language Model Quantization via Exploiting End Loss Guidance](https://arxiv.org/abs/2505.07004) <br> Jinuk Kim, Marwa El Halabi, Wonpyo Park, Clemens JS Schaefer, Deokjae Lee, Yeonhong Park, Jae W. Lee, Hyun Oh Song |<img width="1002" alt="image" src="figures/GuidedQuant.png"> |[Github](https://github.com/snu-mllab/GuidedQuant) <br> [Paper](https://arxiv.org/abs/2505.07004)|[//]: #06/15
 
 
 ### Inference Acceleration
