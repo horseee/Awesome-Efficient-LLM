@@ -24,6 +24,7 @@ A curated list for **Efficient Large Language Models**
 * May 29, 2024: We've had this awesome list for a year now :smiling_face_with_three_hearts:! 
 * Sep 6, 2023: Add a new subdirectory [project/](project/) to organize efficient LLM projects.
 * July 11, 2023: A new subdirectory [efficient_plm/](efficient_plm/) is created to house papers that are applicable to PLMs. 
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 #### 💮 Contributing
 
