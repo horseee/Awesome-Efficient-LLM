@@ -116,6 +116,10 @@ For each topic, we have curated a list of recommended papers that have garnered 
 
 
 ### Quantization
+
+* [OneComp: One-Line Revolution for Generative AI Model Compression](https://arxiv.org/abs/2603.28845)<br>Yuma Ichikawa et al.<br>[![Star](https://img.shields.io/github/stars/FujitsuResearch/OneCompression.svg?style=social&label=Star)](https://github.com/FujitsuResearch/OneCompression)<br>[[Paper](https://arxiv.org/abs/2603.28845)] [[Code](https://github.com/FujitsuResearch/OneCompression)]
+
+* [Quantization Error Propagation: Revisiting Layer-Wise Post-Training Quantization](https://openreview.net/forum?id=a3l3K9khbL) (NeurIPS 2025)<br>Yamato Arai, Yuma Ichikawa<br>[![Star](https://img.shields.io/github/stars/FujitsuResearch/OneCompression.svg?style=social&label=Star)](https://github.com/FujitsuResearch/OneCompression)<br>[[Paper](https://openreview.net/forum?id=a3l3K9khbL)] [[Code](https://github.com/FujitsuResearch/OneCompression)]
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
 |[![Star](https://img.shields.io/github/stars/IST-DASLab/gptq.svg?style=social&label=Star)](https://github.com/IST-DASLab/gptq)[![Publish](https://img.shields.io/badge/Conference-ICLR'22-blue)]()<br> :star: [GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers](https://arxiv.org/abs/2210.17323) <br> Elias Frantar, Saleh Ashkboos, Torsten Hoefler, Dan Alistarh |<img width="202" alt="image" src="figures/GPTQ.png"> |[Github](https://github.com/IST-DASLab/gptq) <br> [Paper](https://arxiv.org/abs/2210.17323)| [//]: #Recommend
