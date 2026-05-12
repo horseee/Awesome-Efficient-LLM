@@ -1,6 +1,7 @@
 # Project for Efficient LLM
 
 ## Tools
+* [![Star](https://img.shields.io/github/stars/GareBear99/ARC-Neuron-LLMBuilder.svg?style=social&label=Star)](https://github.com/GareBear99/ARC-Neuron-LLMBuilder) **ARC-Neuron LLMBuilder**: Local-first LLM lifecycle framework for benchmark receipts, candidate/incumbent model promotion, archive-ready lineage, and governed small-model improvement. [[link]](https://github.com/GareBear99/ARC-Neuron-LLMBuilder)
 * [![Star](https://img.shields.io/github/stars/vllm-project/vllm.svg?style=social&label=Star)](https://github.com/vllm-project/vllm) **vllm**: A high-throughput and memory-efficient inference and serving engine for LLMs. [[link]](https://github.com/vllm-project/vllm)[[paper]](https://arxiv.org/abs/2309.06180)
 * [![Star](https://img.shields.io/github/stars/TimDettmers/bitsandbytes.svg?style=social&label=Star)](https://github.com/TimDettmers/bitsandbytes)  **bitsandbytes**: 8-bit CUDA functions for PyTorch. [[link]](https://github.com/TimDettmers/bitsandbytes)
 * [![Star](https://img.shields.io/github/stars/qwopqwop200/GPTQ-for-LLaMa.svg?style=social&label=Star)](https://github.com/qwopqwop200/GPTQ-for-LLaMa) **GPTQ-for-LLaMa**: 4 bits quantization of LLaMA using GPTQ. [[link]](https://github.com/qwopqwop200/GPTQ-for-LLaMa)
